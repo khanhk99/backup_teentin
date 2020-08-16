@@ -1,0 +1,4854 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: wpqa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 04:14+0200\n"
+"PO-Revision-Date: 2018-01-30 14:44+0200\n"
+"Last-Translator: Ahmed Hassan <2codeThemes@gmail.com>\n"
+"Language-Team: 2code <2codeThemes@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: functions/ajax-action.php:586
+msgid "Sorry was mistake, This is not a your question."
+msgstr ""
+
+#: functions/ajax-action.php:589 functions/ajax-action.php:591
+msgid "You must enter a numeric value and a value greater than zero."
+msgstr ""
+
+#: functions/ajax-action.php:607
+msgid "Your points are insufficient."
+msgstr ""
+
+#: functions/ajax-action.php:653
+msgid "Question report"
+msgstr ""
+
+#: functions/ajax-action.php:689
+msgid "Your reported will be reviewed shortly, The question is under review."
+msgstr ""
+
+#: functions/ajax-action.php:693 functions/ajax-action.php:789
+#: functions/comments.php:319 functions/functions.php:2335
+#: templates/profile/messages.php:61
+msgid "Has been deleted successfully."
+msgstr ""
+
+#: functions/ajax-action.php:701 functions/ajax-action.php:797
+#: includes/class-wpqa.php:184
+msgid "Thank you, your reported will be reviewed shortly."
+msgstr ""
+
+#: functions/ajax-action.php:751
+msgid "Answer report"
+msgstr ""
+
+#: functions/ajax-action.php:785
+msgid "Your reported will be reviewed shortly, The answer is under review."
+msgstr ""
+
+#: functions/ajax-action.php:1292 functions/ajax-action.php:1324
+#: functions/ajax-action.php:1347 functions/ajax-action.php:1376
+msgid "View all results."
+msgstr ""
+
+#: functions/ajax-action.php:1369
+msgid "Some suggested questions for you"
+msgstr ""
+
+#: functions/ajax-action.php:1390 shortcodes/question.php:264
+msgid "No results found."
+msgstr ""
+
+#: functions/categories.php:67 functions/cover.php:204 templates/profile/head.php:75
+#: widgets/questions_categories.php:137 widgets/questions_categories.php:153
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/categories.php:69 functions/comments.php:1042
+#: functions/functions.php:1410 functions/functions.php:1671
+#: functions/functions.php:1786 functions/functions.php:4623
+#: functions/questions.php:809 widgets/stats.php:76
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/categories.php:70 functions/cover.php:205 functions/functions.php:1649
+#: functions/functions.php:1781 functions/functions.php:4611
+#: functions/post_type.php:64 functions/post_type.php:184 functions/post_type.php:268
+#: widgets/questions_categories.php:46 widgets/questions_categories.php:134
+#: widgets/questions_categories.php:194 widgets/stats.php:70
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/categories.php:228 functions/categories.php:229
+#: functions/functions.php:1879 functions/functions.php:1881
+#: includes/class-wpqa.php:179
+msgid "Unfollow"
+msgstr ""
+
+#: functions/categories.php:228 functions/categories.php:229
+#: functions/functions.php:1890 functions/functions.php:1892
+#: includes/class-wpqa.php:178
+msgid "Follow"
+msgstr ""
+
+#: functions/categories.php:320 functions/categories.php:321
+#: functions/categories.php:335
+msgid "Categories"
+msgstr ""
+
+#: functions/categories.php:371 functions/categories.php:470
+msgid "categories"
+msgstr ""
+
+#: functions/categories.php:388 functions/categories.php:459
+#: functions/messages.php:73 functions/post_type.php:165 functions/questions.php:300
+#: functions/questions.php:352 payments/payments.php:1198 payments/payments.php:1248
+msgid "Author"
+msgstr ""
+
+#: functions/categories.php:389 functions/categories.php:460
+#: functions/messages.php:75 functions/post_type.php:169 functions/questions.php:301
+#: functions/questions.php:353 payments/payments.php:1200 payments/payments.php:1250
+msgid "Date"
+msgstr ""
+
+#: functions/categories.php:390 functions/categories.php:461
+#: functions/post_type.php:166 shortcodes/post.php:197 shortcodes/question.php:444
+msgid "Category"
+msgstr ""
+
+#: functions/categories.php:391 functions/categories.php:462
+msgid "Accept/Reject"
+msgstr ""
+
+#: functions/categories.php:404 functions/questions.php:336
+msgid "ago"
+msgstr ""
+
+#: functions/categories.php:430
+msgid "You have rejected the category for this user"
+msgstr ""
+
+#: functions/categories.php:432
+msgid "You have accepted the category for this user"
+msgstr ""
+
+#: functions/categories.php:435
+msgid "Accept the category"
+msgstr ""
+
+#: functions/categories.php:440
+msgid "Reject the category"
+msgstr ""
+
+#: functions/categories.php:453
+msgid "There are no categories yet."
+msgstr ""
+
+#: functions/check-account.php:39
+msgid ""
+"Your account is under review, When the admin approved it will send mail to you."
+msgstr ""
+
+#: functions/check-account.php:67 shortcodes/register.php:251
+msgid "New user for review"
+msgstr ""
+
+#: functions/check-account.php:73
+msgid ""
+"Your membership was activated, But it need a review first, When the admin approved "
+"it will send mail to you."
+msgstr ""
+
+#: functions/check-account.php:75
+msgid "Your membership was activated."
+msgstr ""
+
+#: functions/check-account.php:81
+#, php-format
+msgid ""
+"Your confirmation link has expired or not valid, Please request a new link, kindly "
+"%1$s Click here %2$s to re-send another confirmation mail."
+msgstr ""
+
+#: functions/check-account.php:94 shortcodes/profile.php:678
+#: shortcodes/register.php:234
+msgid "Confirm account"
+msgstr ""
+
+#: functions/check-account.php:99
+msgid "Check your mail again."
+msgstr ""
+
+#: functions/check-account.php:104
+#, php-format
+msgid ""
+"A confirmation mail has been sent to your registered email account, If you have "
+"not received the confirmation mail, kindly %1$s Click here %2$s to re-send another "
+"confirmation mail."
+msgstr ""
+
+#: functions/check-account.php:114
+msgid ""
+"You have banned from the site, you can contact to the admin to know the resone or "
+"to tell him to remove the ban."
+msgstr ""
+
+#: functions/check-account.php:120
+#, php-format
+msgid ""
+"You are already logged in, you have activated your membership, go to your %1$s "
+"profile. %2$s"
+msgstr ""
+
+#: functions/comments.php:15 functions/comments.php:1123 functions/filters.php:78
+#: functions/functions.php:3212 functions/menu.php:247 functions/rewrite.php:1436
+#: templates/profile/head-tabs.php:42 templates/search-form.php:82
+#: templates/search-form.php:110 widgets/comments.php:39 widgets/tabs.php:86
+msgid "Comments"
+msgstr ""
+
+#: functions/comments.php:16 functions/comments.php:1124 functions/filters.php:70
+#: functions/functions.php:3205 functions/menu.php:222 functions/post_type.php:168
+#: functions/questions.php:191 functions/questions.php:227 functions/rewrite.php:1416
+#: templates/profile/head-tabs.php:27 templates/search-form.php:74
+#: templates/search-form.php:104 widgets/tabs.php:86
+msgid "Answers"
+msgstr ""
+
+#: functions/comments.php:41 functions/comments.php:43 functions/comments.php:53
+#: functions/comments.php:55
+#, php-format
+msgid "%1$s ERROR %2$s: Robot verification failed, Please try again."
+msgstr ""
+
+#: functions/comments.php:61 functions/comments.php:63
+#, php-format
+msgid "%1$s ERROR %2$s: Please check on the reCAPTCHA box."
+msgstr ""
+
+#: functions/comments.php:70 functions/comments.php:72
+#, php-format
+msgid "%1$s ERROR %2$s: please type a captcha."
+msgstr ""
+
+#: functions/comments.php:79 functions/comments.php:81 functions/comments.php:88
+#: functions/comments.php:90 functions/functions.php:86 functions/functions.php:91
+#: includes/class-wpqa.php:154
+msgid "The captcha is incorrect, Please try again."
+msgstr ""
+
+#: functions/comments.php:103
+msgid "You have already answered this question."
+msgstr ""
+
+#: functions/comments.php:110 functions/comments.php:919 shortcodes/question.php:2047
+msgid "There are required fields (Video ID)."
+msgstr ""
+
+#: functions/comments.php:119 functions/comments.php:940 shortcodes/question.php:1344
+#: shortcodes/question.php:1866
+msgid "Attachment Error, Please upload image only."
+msgstr ""
+
+#: functions/comments.php:138 includes/class-wpqa.php:153 shortcodes/post.php:632
+#: shortcodes/question.php:2053 shortcodes/register.php:184
+msgid "There are required fields (Agree of the terms)."
+msgstr ""
+
+#: functions/comments.php:196
+msgid "Attachment Error:"
+msgstr ""
+
+#: functions/comments.php:234
+msgid "Your answer was successfully added."
+msgstr ""
+
+#: functions/comments.php:237
+msgid "Your answer was successfully added, It's under review."
+msgstr ""
+
+#: functions/comments.php:263
+msgid "New comment for review"
+msgstr ""
+
+#: functions/comments.php:393 functions/comments.php:397 functions/functions.php:2802
+#: shortcodes/question.php:592 shortcodes/question.php:598
+#: shortcodes/question.php:605
+msgid "Attachment"
+msgstr ""
+
+#: functions/comments.php:393 functions/comments.php:419 functions/functions.php:2864
+#: functions/questions.php:320 functions/questions.php:687 functions/review.php:25
+#: shortcodes/post.php:220 shortcodes/profile.php:448 shortcodes/question.php:592
+#: shortcodes/question.php:598 shortcodes/question.php:620
+#: shortcodes/register.php:516 shortcodes/register.php:537
+#: templates/profile/messages.php:115
+msgid "Delete"
+msgstr ""
+
+#: functions/comments.php:401 functions/comments.php:429 includes/class-wpqa.php:180
+#: shortcodes/post.php:229 shortcodes/question.php:515 shortcodes/question.php:542
+#: shortcodes/question.php:565 shortcodes/question.php:632
+#: shortcodes/register.php:525 shortcodes/register.php:545
+msgid "Select file"
+msgstr ""
+
+#: functions/comments.php:402 functions/comments.php:430 includes/class-wpqa.php:181
+#: shortcodes/post.php:230 shortcodes/question.php:516 shortcodes/question.php:543
+#: shortcodes/question.php:566 shortcodes/question.php:633
+#: shortcodes/register.php:526 shortcodes/register.php:546
+msgid "Browse"
+msgstr ""
+
+#: functions/comments.php:425 shortcodes/post.php:225 shortcodes/question.php:626
+msgid "Featured image"
+msgstr ""
+
+#: functions/comments.php:454
+msgid "Answer Anonymously"
+msgstr ""
+
+#: functions/comments.php:458
+msgid "answers"
+msgstr ""
+
+#: functions/comments.php:461 functions/functions.php:623
+#: functions/functions.php:1061 functions/functions.php:1361
+#: functions/functions.php:1364 functions/functions.php:2653 functions/mails.php:87
+#: functions/mails.php:88 functions/mails.php:89 functions/mails.php:90
+#: functions/mails.php:91 functions/mails.php:150 functions/post_type.php:196
+#: functions/post_type.php:199 shortcodes/question.php:731
+msgid "Anonymous"
+msgstr ""
+
+#: functions/comments.php:462
+msgid "Anonymous answers"
+msgstr ""
+
+#: functions/comments.php:491
+#, php-format
+msgid "By answering, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+
+#: functions/comments.php:491
+#, php-format
+msgid "By commenting, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+
+#: functions/comments.php:491 shortcodes/post.php:265 shortcodes/question.php:753
+#: shortcodes/register.php:98
+#, php-format
+msgid "and %1$s Privacy Policy %2$s"
+msgstr ""
+
+#: functions/comments.php:531 shortcodes/question.php:664
+msgid "Add a video to describe the problem better."
+msgstr ""
+
+#: functions/comments.php:537 shortcodes/question.php:670
+msgid "Video type"
+msgstr ""
+
+#: functions/comments.php:547 shortcodes/question.php:680
+msgid "Choose from here the video type."
+msgstr ""
+
+#: functions/comments.php:551 shortcodes/question.php:684
+msgid "Video ID"
+msgstr ""
+
+#: functions/comments.php:554 shortcodes/question.php:687
+msgid ""
+"Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs Ex: "
+"'sdUUx5FdySs'."
+msgstr ""
+
+#: functions/comments.php:642
+msgid "Answer to your question"
+msgstr ""
+
+#: functions/comments.php:657
+msgid "Hi there"
+msgstr ""
+
+#: functions/comments.php:823
+#, php-format
+msgid "%s Reply"
+msgid_plural "%s Replies"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/comments.php:861 shortcodes/post.php:467 shortcodes/question.php:1005
+#: shortcodes/question.php:1579
+msgid "Has been edited successfully."
+msgstr ""
+
+#: functions/comments.php:863
+msgid "Your answer was successfully edited, It's under review."
+msgstr ""
+
+#: functions/comments.php:900 functions/comments.php:909 functions/comments.php:912
+#: functions/comments.php:915 functions/comments.php:919 functions/messages.php:322
+#: functions/messages.php:336 functions/messages.php:338 functions/messages.php:341
+#: functions/messages.php:343 functions/messages.php:345 functions/messages.php:349
+#: functions/messages.php:350 functions/messages.php:351 functions/messages.php:356
+#: functions/messages.php:360 shortcodes/category.php:88 shortcodes/category.php:93
+#: shortcodes/category.php:99 shortcodes/login.php:118 shortcodes/password.php:66
+#: shortcodes/post.php:330 shortcodes/post.php:334 shortcodes/post.php:336
+#: shortcodes/post.php:339 shortcodes/post.php:340 shortcodes/post.php:341
+#: shortcodes/post.php:503 shortcodes/post.php:511 shortcodes/post.php:514
+#: shortcodes/post.php:615 shortcodes/post.php:619 shortcodes/post.php:624
+#: shortcodes/profile.php:530 shortcodes/profile.php:534 shortcodes/profile.php:537
+#: shortcodes/profile.php:543 shortcodes/profile.php:546 shortcodes/profile.php:549
+#: shortcodes/profile.php:552 shortcodes/profile.php:555 shortcodes/profile.php:558
+#: shortcodes/profile.php:561 shortcodes/profile.php:564 shortcodes/profile.php:567
+#: shortcodes/question.php:1058 shortcodes/question.php:1074
+#: shortcodes/question.php:1076 shortcodes/question.php:1079
+#: shortcodes/question.php:1082 shortcodes/question.php:1085
+#: shortcodes/question.php:1090 shortcodes/question.php:1093
+#: shortcodes/question.php:1094 shortcodes/question.php:1095
+#: shortcodes/question.php:1634 shortcodes/question.php:1645
+#: shortcodes/question.php:1648 shortcodes/question.php:1939
+#: shortcodes/question.php:1943 shortcodes/question.php:1946
+#: shortcodes/question.php:1952 shortcodes/question.php:1958
+#: shortcodes/question.php:1971 shortcodes/question.php:1974
+#: shortcodes/question.php:1980 shortcodes/question.php:1983
+#: shortcodes/question.php:1999 shortcodes/question.php:2002
+#: shortcodes/question.php:2006 shortcodes/question.php:2009
+#: shortcodes/question.php:2012 shortcodes/question.php:2015
+#: shortcodes/question.php:2019 shortcodes/question.php:2028
+#: shortcodes/question.php:2038 shortcodes/question.php:2041
+#: shortcodes/question.php:2047 shortcodes/register.php:157
+#: shortcodes/register.php:645 shortcodes/register.php:648
+#: shortcodes/register.php:651 shortcodes/register.php:654
+#: shortcodes/register.php:658 shortcodes/register.php:661
+#: shortcodes/register.php:686 shortcodes/register.php:689
+#: shortcodes/register.php:692 shortcodes/register.php:695
+#: shortcodes/register.php:698
+msgid "Error"
+msgstr ""
+
+#: functions/comments.php:900
+msgid "There are an error, Please try again."
+msgstr ""
+
+#: functions/comments.php:909 shortcodes/comment.php:65
+msgid "You are not allowed to edit this comment."
+msgstr ""
+
+#: functions/comments.php:912 shortcodes/comment.php:68
+msgid "Sorry no comment has you select or not found."
+msgstr ""
+
+#: functions/comments.php:915
+msgid "There are required fields (comment)."
+msgstr ""
+
+#: functions/comments.php:946 shortcodes/post.php:399 shortcodes/post.php:557
+#: shortcodes/question.php:1351 shortcodes/question.php:1873
+msgid "Attachment Error: "
+msgstr ""
+
+#: functions/comments.php:1024 functions/comments.php:1029
+msgid "Best answer?"
+msgstr ""
+
+#: functions/comments.php:1028
+msgid "Answer/Comment"
+msgstr ""
+
+#: functions/comments.php:1044 functions/functions.php:1410
+#: functions/functions.php:1640 functions/functions.php:1775
+#: shortcodes/comment.php:42 widgets/stats.php:79
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/comments.php:1050 includes/class-wpqa.php:174
+msgid "Best answer"
+msgstr ""
+
+#: functions/comments.php:1052
+msgid "Not best answer"
+msgstr ""
+
+#: functions/comments.php:1077 functions/post_type.php:342
+msgid "Reason if you need to remove it."
+msgstr ""
+
+#: functions/comments.php:1082
+msgid "Reason:"
+msgstr ""
+
+#: functions/comments.php:1090 functions/post_type.php:348
+msgid "Delete?"
+msgstr ""
+
+#: functions/cover.php:192 functions/functions.php:3051 functions/functions.php:3055
+#: functions/rewrite.php:1446 shortcodes/profile.php:100
+msgid "Edit profile"
+msgstr ""
+
+#: functions/cover.php:195 functions/functions.php:1720 functions/review.php:37
+#: includes/class-wpqa.php:197
+msgid "Unban user"
+msgstr ""
+
+#: functions/cover.php:195 functions/functions.php:1720 functions/review.php:37
+#: includes/class-wpqa.php:196
+msgid "Ban user"
+msgstr ""
+
+#: functions/cover.php:202 functions/functions.php:1760 functions/functions.php:3061
+msgid "Ask"
+msgstr ""
+
+#: functions/filters.php:56
+msgid "Search ..."
+msgstr ""
+
+#: functions/filters.php:63 templates/search-form.php:67
+msgid "Select kind of search"
+msgstr ""
+
+#: functions/filters.php:68 functions/functions.php:2095 functions/functions.php:2972
+#: functions/functions.php:3204 functions/menu.php:202 functions/post_type.php:59
+#: functions/post_type.php:61 functions/post_type.php:62 functions/post_type.php:63
+#: functions/questions.php:190 functions/questions.php:229 functions/rewrite.php:1414
+#: templates/profile/head-tabs.php:21 templates/search-form.php:72
+#: templates/search-form.php:103
+msgid "Questions"
+msgstr ""
+
+#: functions/filters.php:72 templates/search-form.php:76
+msgid "Question categories"
+msgstr ""
+
+#: functions/filters.php:74 templates/search-form.php:78
+msgid "Question tags"
+msgstr ""
+
+#: functions/filters.php:76 functions/functions.php:3211 functions/menu.php:242
+#: functions/rewrite.php:1434 templates/profile/head-tabs.php:40
+#: templates/search-form.php:80 templates/search-form.php:109 widgets/posts.php:72
+msgid "Posts"
+msgstr ""
+
+#: functions/filters.php:80 templates/search-form.php:84
+msgid "Post categories"
+msgstr ""
+
+#: functions/filters.php:82 templates/search-form.php:86
+msgid "Post tags"
+msgstr ""
+
+#: functions/filters.php:84 templates/search-form.php:88 widgets/users.php:50
+msgid "Users"
+msgstr ""
+
+#: functions/filters.php:89 functions/functions.php:2919 functions/rewrite.php:2046
+#: templates/search-form.php:117
+msgid "Search"
+msgstr ""
+
+#: functions/filters.php:99
+msgid "Afghanistan"
+msgstr ""
+
+#: functions/filters.php:100
+msgid "&#197;land Islands"
+msgstr ""
+
+#: functions/filters.php:101
+msgid "Albania"
+msgstr ""
+
+#: functions/filters.php:102
+msgid "Algeria"
+msgstr ""
+
+#: functions/filters.php:103
+msgid "Andorra"
+msgstr ""
+
+#: functions/filters.php:104
+msgid "Angola"
+msgstr ""
+
+#: functions/filters.php:105
+msgid "Anguilla"
+msgstr ""
+
+#: functions/filters.php:106
+msgid "Antarctica"
+msgstr ""
+
+#: functions/filters.php:107
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: functions/filters.php:108
+msgid "Argentina"
+msgstr ""
+
+#: functions/filters.php:109
+msgid "Armenia"
+msgstr ""
+
+#: functions/filters.php:110
+msgid "Aruba"
+msgstr ""
+
+#: functions/filters.php:111
+msgid "Australia"
+msgstr ""
+
+#: functions/filters.php:112
+msgid "Austria"
+msgstr ""
+
+#: functions/filters.php:113
+msgid "Azerbaijan"
+msgstr ""
+
+#: functions/filters.php:114
+msgid "Bahamas"
+msgstr ""
+
+#: functions/filters.php:115
+msgid "Bahrain"
+msgstr ""
+
+#: functions/filters.php:116
+msgid "Bangladesh"
+msgstr ""
+
+#: functions/filters.php:117
+msgid "Barbados"
+msgstr ""
+
+#: functions/filters.php:118
+msgid "Belarus"
+msgstr ""
+
+#: functions/filters.php:119
+msgid "Belgium"
+msgstr ""
+
+#: functions/filters.php:120
+msgid "Belau"
+msgstr ""
+
+#: functions/filters.php:121
+msgid "Belize"
+msgstr ""
+
+#: functions/filters.php:122
+msgid "Benin"
+msgstr ""
+
+#: functions/filters.php:123
+msgid "Bermuda"
+msgstr ""
+
+#: functions/filters.php:124
+msgid "Bhutan"
+msgstr ""
+
+#: functions/filters.php:125
+msgid "Bolivia"
+msgstr ""
+
+#: functions/filters.php:126
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr ""
+
+#: functions/filters.php:127
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: functions/filters.php:128
+msgid "Botswana"
+msgstr ""
+
+#: functions/filters.php:129
+msgid "Bouvet Island"
+msgstr ""
+
+#: functions/filters.php:130
+msgid "Brazil"
+msgstr ""
+
+#: functions/filters.php:131
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: functions/filters.php:132
+msgid "British Virgin Islands"
+msgstr ""
+
+#: functions/filters.php:133
+msgid "Brunei"
+msgstr ""
+
+#: functions/filters.php:134
+msgid "Bulgaria"
+msgstr ""
+
+#: functions/filters.php:135
+msgid "Burkina Faso"
+msgstr ""
+
+#: functions/filters.php:136
+msgid "Burundi"
+msgstr ""
+
+#: functions/filters.php:137
+msgid "Cambodia"
+msgstr ""
+
+#: functions/filters.php:138
+msgid "Cameroon"
+msgstr ""
+
+#: functions/filters.php:139
+msgid "Canada"
+msgstr ""
+
+#: functions/filters.php:140
+msgid "Cape Verde"
+msgstr ""
+
+#: functions/filters.php:141
+msgid "Cayman Islands"
+msgstr ""
+
+#: functions/filters.php:142
+msgid "Central African Republic"
+msgstr ""
+
+#: functions/filters.php:143
+msgid "Chad"
+msgstr ""
+
+#: functions/filters.php:144
+msgid "Chile"
+msgstr ""
+
+#: functions/filters.php:145
+msgid "China"
+msgstr ""
+
+#: functions/filters.php:146
+msgid "Christmas Island"
+msgstr ""
+
+#: functions/filters.php:147
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: functions/filters.php:148
+msgid "Colombia"
+msgstr ""
+
+#: functions/filters.php:149
+msgid "Comoros"
+msgstr ""
+
+#: functions/filters.php:150
+msgid "Congo (Brazzaville)"
+msgstr ""
+
+#: functions/filters.php:151
+msgid "Congo (Kinshasa)"
+msgstr ""
+
+#: functions/filters.php:152
+msgid "Cook Islands"
+msgstr ""
+
+#: functions/filters.php:153
+msgid "Costa Rica"
+msgstr ""
+
+#: functions/filters.php:154
+msgid "Croatia"
+msgstr ""
+
+#: functions/filters.php:155
+msgid "Cuba"
+msgstr ""
+
+#: functions/filters.php:156
+msgid "Cura&Ccedil;ao"
+msgstr ""
+
+#: functions/filters.php:157
+msgid "Cyprus"
+msgstr ""
+
+#: functions/filters.php:158
+msgid "Czech Republic"
+msgstr ""
+
+#: functions/filters.php:159
+msgid "Denmark"
+msgstr ""
+
+#: functions/filters.php:160
+msgid "Djibouti"
+msgstr ""
+
+#: functions/filters.php:161
+msgid "Dominica"
+msgstr ""
+
+#: functions/filters.php:162
+msgid "Dominican Republic"
+msgstr ""
+
+#: functions/filters.php:163
+msgid "Ecuador"
+msgstr ""
+
+#: functions/filters.php:164
+msgid "Egypt"
+msgstr ""
+
+#: functions/filters.php:165
+msgid "El Salvador"
+msgstr ""
+
+#: functions/filters.php:166
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: functions/filters.php:167
+msgid "Eritrea"
+msgstr ""
+
+#: functions/filters.php:168
+msgid "Estonia"
+msgstr ""
+
+#: functions/filters.php:169
+msgid "Ethiopia"
+msgstr ""
+
+#: functions/filters.php:170
+msgid "Falkland Islands"
+msgstr ""
+
+#: functions/filters.php:171
+msgid "Faroe Islands"
+msgstr ""
+
+#: functions/filters.php:172
+msgid "Fiji"
+msgstr ""
+
+#: functions/filters.php:173
+msgid "Finland"
+msgstr ""
+
+#: functions/filters.php:174
+msgid "France"
+msgstr ""
+
+#: functions/filters.php:175
+msgid "French Guiana"
+msgstr ""
+
+#: functions/filters.php:176
+msgid "French Polynesia"
+msgstr ""
+
+#: functions/filters.php:177
+msgid "French Southern Territories"
+msgstr ""
+
+#: functions/filters.php:178
+msgid "Gabon"
+msgstr ""
+
+#: functions/filters.php:179
+msgid "Gambia"
+msgstr ""
+
+#: functions/filters.php:180
+msgid "Georgia"
+msgstr ""
+
+#: functions/filters.php:181
+msgid "Germany"
+msgstr ""
+
+#: functions/filters.php:182
+msgid "Ghana"
+msgstr ""
+
+#: functions/filters.php:183
+msgid "Gibraltar"
+msgstr ""
+
+#: functions/filters.php:184
+msgid "Greece"
+msgstr ""
+
+#: functions/filters.php:185
+msgid "Greenland"
+msgstr ""
+
+#: functions/filters.php:186
+msgid "Grenada"
+msgstr ""
+
+#: functions/filters.php:187
+msgid "Guadeloupe"
+msgstr ""
+
+#: functions/filters.php:188
+msgid "Guatemala"
+msgstr ""
+
+#: functions/filters.php:189
+msgid "Guernsey"
+msgstr ""
+
+#: functions/filters.php:190
+msgid "Guinea"
+msgstr ""
+
+#: functions/filters.php:191
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: functions/filters.php:192
+msgid "Guyana"
+msgstr ""
+
+#: functions/filters.php:193
+msgid "Haiti"
+msgstr ""
+
+#: functions/filters.php:194
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: functions/filters.php:195
+msgid "Honduras"
+msgstr ""
+
+#: functions/filters.php:196
+msgid "Hong Kong"
+msgstr ""
+
+#: functions/filters.php:197
+msgid "Hungary"
+msgstr ""
+
+#: functions/filters.php:198
+msgid "Iceland"
+msgstr ""
+
+#: functions/filters.php:199
+msgid "India"
+msgstr ""
+
+#: functions/filters.php:200
+msgid "Indonesia"
+msgstr ""
+
+#: functions/filters.php:201
+msgid "Iran"
+msgstr ""
+
+#: functions/filters.php:202
+msgid "Iraq"
+msgstr ""
+
+#: functions/filters.php:203
+msgid "Republic of Ireland"
+msgstr ""
+
+#: functions/filters.php:204
+msgid "Isle of Man"
+msgstr ""
+
+#: functions/filters.php:205
+msgid "Israel"
+msgstr ""
+
+#: functions/filters.php:206
+msgid "Italy"
+msgstr ""
+
+#: functions/filters.php:207
+msgid "Ivory Coast"
+msgstr ""
+
+#: functions/filters.php:208
+msgid "Jamaica"
+msgstr ""
+
+#: functions/filters.php:209
+msgid "Japan"
+msgstr ""
+
+#: functions/filters.php:210
+msgid "Jersey"
+msgstr ""
+
+#: functions/filters.php:211
+msgid "Jordan"
+msgstr ""
+
+#: functions/filters.php:212
+msgid "Kazakhstan"
+msgstr ""
+
+#: functions/filters.php:213
+msgid "Kenya"
+msgstr ""
+
+#: functions/filters.php:214
+msgid "Kiribati"
+msgstr ""
+
+#: functions/filters.php:215
+msgid "Kuwait"
+msgstr ""
+
+#: functions/filters.php:216
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: functions/filters.php:217
+msgid "Laos"
+msgstr ""
+
+#: functions/filters.php:218
+msgid "Latvia"
+msgstr ""
+
+#: functions/filters.php:219
+msgid "Lebanon"
+msgstr ""
+
+#: functions/filters.php:220
+msgid "Lesotho"
+msgstr ""
+
+#: functions/filters.php:221
+msgid "Liberia"
+msgstr ""
+
+#: functions/filters.php:222
+msgid "Libya"
+msgstr ""
+
+#: functions/filters.php:223
+msgid "Liechtenstein"
+msgstr ""
+
+#: functions/filters.php:224
+msgid "Lithuania"
+msgstr ""
+
+#: functions/filters.php:225
+msgid "Luxembourg"
+msgstr ""
+
+#: functions/filters.php:226
+msgid "Macao S.A.R., China"
+msgstr ""
+
+#: functions/filters.php:227
+msgid "Macedonia"
+msgstr ""
+
+#: functions/filters.php:228
+msgid "Madagascar"
+msgstr ""
+
+#: functions/filters.php:229
+msgid "Malawi"
+msgstr ""
+
+#: functions/filters.php:230
+msgid "Malaysia"
+msgstr ""
+
+#: functions/filters.php:231
+msgid "Maldives"
+msgstr ""
+
+#: functions/filters.php:232
+msgid "Mali"
+msgstr ""
+
+#: functions/filters.php:233
+msgid "Malta"
+msgstr ""
+
+#: functions/filters.php:234
+msgid "Marshall Islands"
+msgstr ""
+
+#: functions/filters.php:235
+msgid "Martinique"
+msgstr ""
+
+#: functions/filters.php:236
+msgid "Mauritania"
+msgstr ""
+
+#: functions/filters.php:237
+msgid "Mauritius"
+msgstr ""
+
+#: functions/filters.php:238
+msgid "Mayotte"
+msgstr ""
+
+#: functions/filters.php:239
+msgid "Mexico"
+msgstr ""
+
+#: functions/filters.php:240
+msgid "Micronesia"
+msgstr ""
+
+#: functions/filters.php:241
+msgid "Moldova"
+msgstr ""
+
+#: functions/filters.php:242
+msgid "Monaco"
+msgstr ""
+
+#: functions/filters.php:243
+msgid "Mongolia"
+msgstr ""
+
+#: functions/filters.php:244
+msgid "Montenegro"
+msgstr ""
+
+#: functions/filters.php:245
+msgid "Montserrat"
+msgstr ""
+
+#: functions/filters.php:246
+msgid "Morocco"
+msgstr ""
+
+#: functions/filters.php:247
+msgid "Mozambique"
+msgstr ""
+
+#: functions/filters.php:248
+msgid "Myanmar"
+msgstr ""
+
+#: functions/filters.php:249
+msgid "Namibia"
+msgstr ""
+
+#: functions/filters.php:250
+msgid "Nauru"
+msgstr ""
+
+#: functions/filters.php:251
+msgid "Nepal"
+msgstr ""
+
+#: functions/filters.php:252
+msgid "Netherlands"
+msgstr ""
+
+#: functions/filters.php:253
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: functions/filters.php:254
+msgid "New Caledonia"
+msgstr ""
+
+#: functions/filters.php:255
+msgid "New Zealand"
+msgstr ""
+
+#: functions/filters.php:256
+msgid "Nicaragua"
+msgstr ""
+
+#: functions/filters.php:257
+msgid "Niger"
+msgstr ""
+
+#: functions/filters.php:258
+msgid "Nigeria"
+msgstr ""
+
+#: functions/filters.php:259
+msgid "Niue"
+msgstr ""
+
+#: functions/filters.php:260
+msgid "Norfolk Island"
+msgstr ""
+
+#: functions/filters.php:261
+msgid "North Korea"
+msgstr ""
+
+#: functions/filters.php:262
+msgid "Norway"
+msgstr ""
+
+#: functions/filters.php:263
+msgid "Oman"
+msgstr ""
+
+#: functions/filters.php:264
+msgid "Pakistan"
+msgstr ""
+
+#: functions/filters.php:265
+msgid "Palestinian Territory"
+msgstr ""
+
+#: functions/filters.php:266
+msgid "Panama"
+msgstr ""
+
+#: functions/filters.php:267
+msgid "Papua New Guinea"
+msgstr ""
+
+#: functions/filters.php:268
+msgid "Paraguay"
+msgstr ""
+
+#: functions/filters.php:269
+msgid "Peru"
+msgstr ""
+
+#: functions/filters.php:270
+msgid "Philippines"
+msgstr ""
+
+#: functions/filters.php:271
+msgid "Pitcairn"
+msgstr ""
+
+#: functions/filters.php:272
+msgid "Poland"
+msgstr ""
+
+#: functions/filters.php:273
+msgid "Portugal"
+msgstr ""
+
+#: functions/filters.php:274
+msgid "Qatar"
+msgstr ""
+
+#: functions/filters.php:275
+msgid "Reunion"
+msgstr ""
+
+#: functions/filters.php:276
+msgid "Romania"
+msgstr ""
+
+#: functions/filters.php:277
+msgid "Russia"
+msgstr ""
+
+#: functions/filters.php:278
+msgid "Rwanda"
+msgstr ""
+
+#: functions/filters.php:279
+msgid "Saint Barth&eacute;lemy"
+msgstr ""
+
+#: functions/filters.php:280
+msgid "Saint Helena"
+msgstr ""
+
+#: functions/filters.php:281
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: functions/filters.php:282
+msgid "Saint Lucia"
+msgstr ""
+
+#: functions/filters.php:283
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: functions/filters.php:284
+msgid "Saint Martin (Dutch part)"
+msgstr ""
+
+#: functions/filters.php:285
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: functions/filters.php:286
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: functions/filters.php:287
+msgid "San Marino"
+msgstr ""
+
+#: functions/filters.php:288
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr ""
+
+#: functions/filters.php:289
+msgid "Saudi Arabia"
+msgstr ""
+
+#: functions/filters.php:290
+msgid "Senegal"
+msgstr ""
+
+#: functions/filters.php:291
+msgid "Serbia"
+msgstr ""
+
+#: functions/filters.php:292
+msgid "Seychelles"
+msgstr ""
+
+#: functions/filters.php:293
+msgid "Sierra Leone"
+msgstr ""
+
+#: functions/filters.php:294
+msgid "Singapore"
+msgstr ""
+
+#: functions/filters.php:295
+msgid "Slovakia"
+msgstr ""
+
+#: functions/filters.php:296
+msgid "Slovenia"
+msgstr ""
+
+#: functions/filters.php:297
+msgid "Solomon Islands"
+msgstr ""
+
+#: functions/filters.php:298
+msgid "Somalia"
+msgstr ""
+
+#: functions/filters.php:299
+msgid "South Africa"
+msgstr ""
+
+#: functions/filters.php:300
+msgid "South Georgia/Sandwich Islands"
+msgstr ""
+
+#: functions/filters.php:301
+msgid "South Korea"
+msgstr ""
+
+#: functions/filters.php:302
+msgid "South Sudan"
+msgstr ""
+
+#: functions/filters.php:303
+msgid "Spain"
+msgstr ""
+
+#: functions/filters.php:304
+msgid "Sri Lanka"
+msgstr ""
+
+#: functions/filters.php:305
+msgid "Sudan"
+msgstr ""
+
+#: functions/filters.php:306
+msgid "Suriname"
+msgstr ""
+
+#: functions/filters.php:307
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: functions/filters.php:308
+msgid "Swaziland"
+msgstr ""
+
+#: functions/filters.php:309
+msgid "Sweden"
+msgstr ""
+
+#: functions/filters.php:310
+msgid "Switzerland"
+msgstr ""
+
+#: functions/filters.php:311
+msgid "Syria"
+msgstr ""
+
+#: functions/filters.php:312
+msgid "Taiwan"
+msgstr ""
+
+#: functions/filters.php:313
+msgid "Tajikistan"
+msgstr ""
+
+#: functions/filters.php:314
+msgid "Tanzania"
+msgstr ""
+
+#: functions/filters.php:315
+msgid "Thailand"
+msgstr ""
+
+#: functions/filters.php:316
+msgid "Timor-Leste"
+msgstr ""
+
+#: functions/filters.php:317
+msgid "Togo"
+msgstr ""
+
+#: functions/filters.php:318
+msgid "Tokelau"
+msgstr ""
+
+#: functions/filters.php:319
+msgid "Tonga"
+msgstr ""
+
+#: functions/filters.php:320
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: functions/filters.php:321
+msgid "Tunisia"
+msgstr ""
+
+#: functions/filters.php:322
+msgid "Turkey"
+msgstr ""
+
+#: functions/filters.php:323
+msgid "Turkmenistan"
+msgstr ""
+
+#: functions/filters.php:324
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: functions/filters.php:325
+msgid "Tuvalu"
+msgstr ""
+
+#: functions/filters.php:326
+msgid "Uganda"
+msgstr ""
+
+#: functions/filters.php:327
+msgid "Ukraine"
+msgstr ""
+
+#: functions/filters.php:328
+msgid "United Arab Emirates"
+msgstr ""
+
+#: functions/filters.php:329
+msgid "United Kingdom (UK)"
+msgstr ""
+
+#: functions/filters.php:330
+msgid "United States (US)"
+msgstr ""
+
+#: functions/filters.php:331
+msgid "Uruguay"
+msgstr ""
+
+#: functions/filters.php:332
+msgid "Uzbekistan"
+msgstr ""
+
+#: functions/filters.php:333
+msgid "Vanuatu"
+msgstr ""
+
+#: functions/filters.php:334
+msgid "Vatican"
+msgstr ""
+
+#: functions/filters.php:335
+msgid "Venezuela"
+msgstr ""
+
+#: functions/filters.php:336
+msgid "Vietnam"
+msgstr ""
+
+#: functions/filters.php:337
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: functions/filters.php:338
+msgid "Western Sahara"
+msgstr ""
+
+#: functions/filters.php:339
+msgid "Western Samoa"
+msgstr ""
+
+#: functions/filters.php:340
+msgid "Yemen"
+msgstr ""
+
+#: functions/filters.php:341
+msgid "Zambia"
+msgstr ""
+
+#: functions/filters.php:342
+msgid "Zimbabwe"
+msgstr ""
+
+#: functions/filters.php:354 functions/functions.php:2823
+#: templates/profile/messages.php:111
+msgid "Reply"
+msgstr ""
+
+#: functions/functions.php:35 functions/functions.php:37 functions/functions.php:45
+msgid "Captcha"
+msgstr ""
+
+#: functions/functions.php:45
+msgid "Click here to update the captcha"
+msgstr ""
+
+#: functions/functions.php:46
+msgid "Click on image to update the captcha."
+msgstr ""
+
+#: functions/functions.php:68 functions/functions.php:75
+msgid "Robot verification failed, Please try again."
+msgstr ""
+
+#: functions/functions.php:78
+msgid "Please check on the reCAPTCHA box."
+msgstr ""
+
+#: functions/functions.php:82
+msgid "There are required fields (captcha)."
+msgstr ""
+
+#: functions/functions.php:270
+msgid "k"
+msgstr ""
+
+#: functions/functions.php:272
+msgid "mil"
+msgstr ""
+
+#: functions/functions.php:274
+msgid "bil"
+msgstr ""
+
+#: functions/functions.php:367
+msgid "Edit User"
+msgstr ""
+
+#: functions/functions.php:498 functions/functions.php:628
+#: functions/functions.php:840
+msgid "has"
+msgstr ""
+
+#: functions/functions.php:498 functions/functions.php:746
+msgid "sent a message for you."
+msgstr ""
+
+#: functions/functions.php:499 functions/functions.php:783
+#: functions/functions.php:984 functions/functions.php:1082
+#: templates/profile/content.php:233 templates/profile/messages.php:88
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/functions.php:506
+msgid "Show all messages."
+msgstr ""
+
+#: functions/functions.php:509 templates/profile/messages.php:133
+msgid "There are no messages yet."
+msgstr ""
+
+#: functions/functions.php:549 functions/functions.php:553
+msgid "Show all notifications."
+msgstr ""
+
+#: functions/functions.php:556 templates/profile/content.php:242
+msgid "There are no notifications yet."
+msgstr ""
+
+#: functions/functions.php:626
+msgid "A non-registered user"
+msgstr ""
+
+#: functions/functions.php:632 functions/functions.php:842
+msgid "Deleted user"
+msgstr ""
+
+#: functions/functions.php:654
+msgid "The administrator approved your category."
+msgstr ""
+
+#: functions/functions.php:656
+msgid "The administrator rejected your category."
+msgstr ""
+
+#: functions/functions.php:658
+msgid "polled at your question"
+msgstr ""
+
+#: functions/functions.php:660
+msgid "Gift of the site"
+msgstr ""
+
+#: functions/functions.php:662
+msgid "referred a new user"
+msgstr ""
+
+#: functions/functions.php:664 templates/profile/content.php:205
+msgid "The administrator added points for you."
+msgstr ""
+
+#: functions/functions.php:666 templates/profile/content.php:207
+msgid "The administrator removed points from you."
+msgstr ""
+
+#: functions/functions.php:668
+msgid "voted up your question."
+msgstr ""
+
+#: functions/functions.php:670
+msgid "voted down your question."
+msgstr ""
+
+#: functions/functions.php:672
+msgid "voted up your answer."
+msgstr ""
+
+#: functions/functions.php:674
+msgid "voted down your answer."
+msgstr ""
+
+#: functions/functions.php:676
+msgid "followed you."
+msgstr ""
+
+#: functions/functions.php:678
+msgid "unfollowed you."
+msgstr ""
+
+#: functions/functions.php:680
+msgid "Your point back because the best answer selected."
+msgstr ""
+
+#: functions/functions.php:682
+msgid "chosen your answer best answer."
+msgstr ""
+
+#: functions/functions.php:684
+msgid "Your point removed because the best answer removed."
+msgstr ""
+
+#: functions/functions.php:686
+msgid "canceled your answer best answer."
+msgstr ""
+
+#: functions/functions.php:688
+msgid "answered at your asked question."
+msgstr ""
+
+#: functions/functions.php:690
+msgid "answered your question."
+msgstr ""
+
+#: functions/functions.php:692
+msgid "answered your question you followed."
+msgstr ""
+
+#: functions/functions.php:694
+msgid "added a new question."
+msgstr ""
+
+#: functions/functions.php:696
+msgid "asked you a question."
+msgstr ""
+
+#: functions/functions.php:698
+msgid "added your question to favorites."
+msgstr ""
+
+#: functions/functions.php:700
+msgid "removed your question from favorites."
+msgstr ""
+
+#: functions/functions.php:702
+msgid "followed your question."
+msgstr ""
+
+#: functions/functions.php:704
+msgid "unfollowed your question."
+msgstr ""
+
+#: functions/functions.php:706
+msgid "The administrator approved your answer."
+msgstr ""
+
+#: functions/functions.php:708
+msgid "The administrator approved your comment."
+msgstr ""
+
+#: functions/functions.php:711
+msgid "approved your question."
+msgstr ""
+
+#: functions/functions.php:713
+msgid "The administrator approved your question."
+msgstr ""
+
+#: functions/functions.php:716
+msgid "The administrator approved your message."
+msgstr ""
+
+#: functions/functions.php:718
+msgid "The administrator review your answer."
+msgstr ""
+
+#: functions/functions.php:720
+msgid "The administrator review your question."
+msgstr ""
+
+#: functions/functions.php:722
+msgid "The administrator approved your post."
+msgstr ""
+
+#: functions/functions.php:724 functions/functions.php:726
+#, php-format
+msgid "The administrator %s your %s."
+msgstr ""
+
+#: functions/functions.php:724 functions/functions.php:764
+msgid "answer"
+msgstr ""
+
+#: functions/functions.php:724 functions/functions.php:764
+msgid "comment"
+msgstr ""
+
+#: functions/functions.php:726
+msgid "question"
+msgstr ""
+
+#: functions/functions.php:726
+msgid "post"
+msgstr ""
+
+#: functions/functions.php:728
+#, php-format
+msgid "The administrator reason: %s."
+msgstr ""
+
+#: functions/functions.php:732
+msgid "deleted your question."
+msgstr ""
+
+#: functions/functions.php:734
+msgid "Your question was deleted."
+msgstr ""
+
+#: functions/functions.php:737
+msgid "Your post was deleted."
+msgstr ""
+
+#: functions/functions.php:741
+msgid "Your answer was deleted."
+msgstr ""
+
+#: functions/functions.php:743
+msgid "Your comment was deleted."
+msgstr ""
+
+#: functions/functions.php:748
+msgid "seen your message."
+msgstr ""
+
+#: functions/functions.php:757 functions/functions.php:958
+msgid "( Spam )"
+msgstr ""
+
+#: functions/functions.php:759 functions/functions.php:769
+#: functions/functions.php:960 functions/functions.php:967
+msgid "( Trashed )"
+msgstr ""
+
+#: functions/functions.php:761 functions/functions.php:771
+#: functions/functions.php:962 functions/functions.php:969
+msgid "( Deleted )"
+msgstr ""
+
+#: functions/functions.php:864
+msgid "Poll at question"
+msgstr ""
+
+#: functions/functions.php:866
+msgid "Voted up question."
+msgstr ""
+
+#: functions/functions.php:868
+msgid "Voted down question."
+msgstr ""
+
+#: functions/functions.php:870
+msgid "Voted up answer."
+msgstr ""
+
+#: functions/functions.php:872
+msgid "Voted down answer."
+msgstr ""
+
+#: functions/functions.php:874
+msgid "You have followed"
+msgstr ""
+
+#: functions/functions.php:876
+msgid "You have banned user"
+msgstr ""
+
+#: functions/functions.php:878
+msgid "You have unbanned user"
+msgstr ""
+
+#: functions/functions.php:880
+msgid "You have unfollowed"
+msgstr ""
+
+#: functions/functions.php:882 includes/class-wpqa.php:199
+msgid "You have bumped your question."
+msgstr ""
+
+#: functions/functions.php:884
+msgid "You have reported a question."
+msgstr ""
+
+#: functions/functions.php:886
+msgid "You have reported an answer."
+msgstr ""
+
+#: functions/functions.php:888
+msgid "You have chosen the best answer."
+msgstr ""
+
+#: functions/functions.php:890
+msgid "You have canceled the best answer."
+msgstr ""
+
+#: functions/functions.php:892
+msgid "You have closed the question."
+msgstr ""
+
+#: functions/functions.php:894
+msgid "You have opend the question."
+msgstr ""
+
+#: functions/functions.php:896
+msgid "You have followed the question."
+msgstr ""
+
+#: functions/functions.php:898
+msgid "You have unfollowed the question."
+msgstr ""
+
+#: functions/functions.php:900
+msgid "You have added a question at favorites."
+msgstr ""
+
+#: functions/functions.php:902
+msgid "You have removed a question from favorites."
+msgstr ""
+
+#: functions/functions.php:904
+msgid "You have added an answer."
+msgstr ""
+
+#: functions/functions.php:906
+msgid "You have added a comment."
+msgstr ""
+
+#: functions/functions.php:908
+msgid "Your answere is pending for review."
+msgstr ""
+
+#: functions/functions.php:910
+msgid "Your comment is pending for review."
+msgstr ""
+
+#: functions/functions.php:912 templates/profile/content.php:193
+msgid "Added a new question."
+msgstr ""
+
+#: functions/functions.php:914
+msgid "Add a new post."
+msgstr ""
+
+#: functions/functions.php:916
+msgid "Your question is pending for review."
+msgstr ""
+
+#: functions/functions.php:918
+msgid "Your message is pending for review."
+msgstr ""
+
+#: functions/functions.php:920
+msgid "Your post is pending for review."
+msgstr ""
+
+#: functions/functions.php:922
+msgid "Your category is pending for review."
+msgstr ""
+
+#: functions/functions.php:924
+msgid "You have deleted a question."
+msgstr ""
+
+#: functions/functions.php:926
+msgid "You have deleted a post."
+msgstr ""
+
+#: functions/functions.php:928
+msgid "You have deleted an answer."
+msgstr ""
+
+#: functions/functions.php:930
+msgid "You have deleted a comment."
+msgstr ""
+
+#: functions/functions.php:932
+msgid "You have sent a message for"
+msgstr ""
+
+#: functions/functions.php:943
+msgid "Delete user"
+msgstr ""
+
+#: functions/functions.php:947
+msgid "You have deleted your inbox message"
+msgstr ""
+
+#: functions/functions.php:949
+msgid "You have deleted your sent message"
+msgstr ""
+
+#: functions/functions.php:1013
+msgid "Show all activities."
+msgstr ""
+
+#: functions/functions.php:1016 templates/profile/content.php:242
+msgid "There are no activities yet."
+msgstr ""
+
+#: functions/functions.php:1061 functions/functions.php:2653
+msgid "[Deleted User]"
+msgstr ""
+
+#: functions/functions.php:1076
+msgid "added an answer"
+msgstr ""
+
+#: functions/functions.php:1076
+msgid "added a comment"
+msgstr ""
+
+#: functions/functions.php:1119 functions/functions.php:1429
+msgid "Explore Our Blog"
+msgstr ""
+
+#: functions/functions.php:1401
+msgid "On"
+msgstr ""
+
+#: functions/functions.php:1413
+#, php-format
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/functions.php:1413
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/functions.php:1601
+msgid "Visit site"
+msgstr ""
+
+#: functions/functions.php:1608 shortcodes/profile.php:886
+#: shortcodes/register.php:584
+msgid "Male"
+msgstr ""
+
+#: functions/functions.php:1608 shortcodes/profile.php:886
+#: shortcodes/register.php:588
+msgid "Female"
+msgstr ""
+
+#: functions/functions.php:1608 shortcodes/profile.php:886
+#: shortcodes/register.php:593
+msgid "Other"
+msgstr ""
+
+#: functions/functions.php:1615
+msgid "years old"
+msgstr ""
+
+#: functions/functions.php:1632 functions/functions.php:1770 widgets/stats.php:73
+msgid "Post"
+msgid_plural "Posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/functions.php:1657 functions/functions.php:1792
+#: functions/functions.php:1823 functions/functions.php:2638
+#: functions/functions.php:4635 widgets/stats.php:83
+msgid "Best Answer"
+msgid_plural "Best Answers"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/functions.php:1664 functions/functions.php:1798
+#: functions/functions.php:1830 functions/functions.php:4649
+#: shortcodes/register.php:399 shortcodes/register.php:414
+msgid "Point"
+msgid_plural "Points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/functions.php:1744 templates/profile/referrals.php:144
+msgid "Email"
+msgstr ""
+
+#: functions/functions.php:1809
+msgid "View Profile"
+msgstr ""
+
+#: functions/functions.php:1857
+msgid "Send Message"
+msgstr ""
+
+#: functions/functions.php:1857
+msgid "Message"
+msgstr ""
+
+#: functions/functions.php:1869 functions/functions.php:2927 functions/menu.php:72
+#: functions/rewrite.php:2052 shortcodes/login.php:73 widgets/buttons.php:44
+#: widgets/login.php:34
+msgid "Login"
+msgstr ""
+
+#: functions/functions.php:1914
+msgid "Verified"
+msgstr ""
+
+#: functions/functions.php:2031
+#, php-format
+msgid "%s post"
+msgstr ""
+
+#: functions/functions.php:2031
+#, php-format
+msgid "%s posts"
+msgstr ""
+
+#: functions/functions.php:2037
+#, php-format
+msgid "%s question"
+msgstr ""
+
+#: functions/functions.php:2037
+#, php-format
+msgid "%s questions"
+msgstr ""
+
+#: functions/functions.php:2097 functions/functions.php:3208 functions/menu.php:197
+#: functions/rewrite.php:1420 templates/profile/referrals.php:148
+#: templates/search-form.php:107
+msgid "Points"
+msgstr ""
+
+#: functions/functions.php:2100 shortcodes/profile.php:881
+#: shortcodes/register.php:573
+msgid "Phone"
+msgstr ""
+
+#: functions/functions.php:2103 payments/payments.php:334 shortcodes/profile.php:869
+#: shortcodes/register.php:554
+msgid "Country"
+msgstr ""
+
+#: functions/functions.php:2106 shortcodes/profile.php:877
+#: shortcodes/register.php:600
+msgid "Age"
+msgstr ""
+
+#: functions/functions.php:2109
+msgid "Invitation"
+msgstr ""
+
+#: functions/functions.php:2449 functions/messages.php:277
+msgid "New message"
+msgstr ""
+
+#: functions/functions.php:2685 functions/functions.php:2688
+msgid "Replied to"
+msgstr ""
+
+#: functions/functions.php:2685
+msgid "Added an"
+msgstr ""
+
+#: functions/functions.php:2686
+#, php-format
+msgid "answer on %1$s at %2$s"
+msgstr ""
+
+#: functions/functions.php:2688
+msgid "Added a"
+msgstr ""
+
+#: functions/functions.php:2689
+#, php-format
+msgid "comment on %1$s at %2$s"
+msgstr ""
+
+#: functions/functions.php:2701
+msgid "This answer was edited."
+msgstr ""
+
+#: functions/functions.php:2703
+msgid "This comment was edited."
+msgstr ""
+
+#: functions/functions.php:2710
+msgid "Your answer is awaiting moderation."
+msgstr ""
+
+#: functions/functions.php:2712
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions/functions.php:2783
+msgid "Read more"
+msgstr ""
+
+#: functions/functions.php:2811 functions/questions.php:649
+msgid "Like"
+msgstr ""
+
+#: functions/functions.php:2815 functions/questions.php:653
+msgid "Dislike"
+msgstr ""
+
+#: functions/functions.php:2823
+msgid "Login to Reply"
+msgstr ""
+
+#: functions/functions.php:2834 functions/functions.php:4443
+#: templates/profile/referrals.php:54
+msgid "Share"
+msgstr ""
+
+#: functions/functions.php:2845 includes/class-wpqa.php:173
+msgid "Cancel the best answer"
+msgstr ""
+
+#: functions/functions.php:2848 includes/class-wpqa.php:172
+msgid "Select as best answer"
+msgstr ""
+
+#: functions/functions.php:2861 functions/post_type.php:102
+#: functions/post_type.php:128 functions/questions.php:684 functions/review.php:22
+msgid "Edit"
+msgstr ""
+
+#: functions/functions.php:2868 functions/functions.php:3945
+#: functions/questions.php:299 functions/questions.php:351
+#: functions/questions.php:694
+msgid "Report"
+msgstr ""
+
+#: functions/functions.php:2892
+msgid "Home"
+msgstr ""
+
+#: functions/functions.php:2917
+msgid "Search results for "
+msgstr ""
+
+#: functions/functions.php:2923 functions/menu.php:132 functions/rewrite.php:2048
+#: templates/subscriptions.php:32
+msgid "Subscriptions"
+msgstr ""
+
+#: functions/functions.php:2925 functions/rewrite.php:2050 payments/payments.php:41
+#: templates/buy-points.php:32 templates/buy-points.php:46
+msgid "Buy points"
+msgstr ""
+
+#: functions/functions.php:2929 functions/menu.php:82 functions/rewrite.php:2054
+#: shortcodes/register.php:114 widgets/signup.php:34
+msgid "Signup"
+msgstr ""
+
+#: functions/functions.php:2931 functions/rewrite.php:2056
+msgid "Lost password"
+msgstr ""
+
+#: functions/functions.php:2937 functions/rewrite.php:2060
+msgid "Ask question"
+msgstr ""
+
+#: functions/functions.php:2937
+msgid "to"
+msgstr ""
+
+#: functions/functions.php:2939 functions/menu.php:107 functions/rewrite.php:2058
+#: shortcodes/profile.php:364
+msgid "Add category"
+msgstr ""
+
+#: functions/functions.php:2941 functions/rewrite.php:2062
+msgid "Edit question"
+msgstr ""
+
+#: functions/functions.php:2943 functions/rewrite.php:2066
+msgid "Add post"
+msgstr ""
+
+#: functions/functions.php:2945 functions/rewrite.php:2068
+msgid "Edit post"
+msgstr ""
+
+#: functions/functions.php:2947 functions/rewrite.php:2070
+msgid "Edit comment"
+msgstr ""
+
+#: functions/functions.php:2949 functions/rewrite.php:2064
+msgid "Edit tags"
+msgstr ""
+
+#: functions/functions.php:2973
+msgid "Q"
+msgstr ""
+
+#: functions/functions.php:3009
+msgid "Error 404"
+msgstr ""
+
+#: functions/functions.php:3030
+msgid "Posts tagged "
+msgstr ""
+
+#: functions/functions.php:3032
+msgid "Error 404 "
+msgstr ""
+
+#: functions/functions.php:3036
+msgid "Page"
+msgstr ""
+
+#: functions/functions.php:3052 shortcodes/profile.php:101
+msgid "Change Password"
+msgstr ""
+
+#: functions/functions.php:3098 functions/functions.php:3159 widgets/tabs.php:84
+msgid "Popular"
+msgstr ""
+
+#: functions/functions.php:3099 functions/functions.php:3160
+#: functions/functions.php:3210 functions/menu.php:157 functions/rewrite.php:1398
+#: templates/profile/head.php:57
+msgid "Followers"
+msgstr ""
+
+#: functions/functions.php:3100 functions/functions.php:3161
+#: functions/functions.php:3202 templates/search-form.php:101
+msgid "Name"
+msgstr ""
+
+#: functions/functions.php:3109 functions/post_type.php:98
+msgid "All Categories"
+msgstr ""
+
+#: functions/functions.php:3129 functions/functions.php:3178
+#: functions/functions.php:3219
+msgid "Type to find..."
+msgstr ""
+
+#: functions/functions.php:3201 templates/search-form.php:100
+msgid "Date Register"
+msgstr ""
+
+#: functions/functions.php:3203 templates/search-form.php:102
+msgid "ID"
+msgstr ""
+
+#: functions/functions.php:3206 functions/menu.php:227 functions/rewrite.php:1418
+#: templates/profile/head-tabs.php:23 templates/search-form.php:105
+msgid "Best Answers"
+msgstr ""
+
+#: functions/functions.php:3248
+msgid "Next"
+msgstr ""
+
+#: functions/functions.php:3262
+msgid "Closed"
+msgstr ""
+
+#: functions/functions.php:3264
+msgid "Answered"
+msgstr ""
+
+#: functions/functions.php:3266
+msgid "In Process"
+msgstr ""
+
+#: functions/functions.php:3401
+msgid "Kindly fill the required fields, You need to fill all the required fields."
+msgstr ""
+
+#: functions/functions.php:3598
+msgid "You just unlocked a new badge!"
+msgstr ""
+
+#: functions/functions.php:3599
+#, php-format
+msgid ""
+"Woohoo! You've earned the %s badge%s, here's a new badge to celebrate! Looking for "
+"more? Browse the complete list of questions, or popular tags. Help us answer "
+"unanswered questions."
+msgstr ""
+
+#: functions/functions.php:3599
+msgid "in the"
+msgstr ""
+
+#: functions/functions.php:3599
+msgid "category"
+msgstr ""
+
+#: functions/functions.php:3602
+msgid "Earn More Points!"
+msgstr ""
+
+#: functions/functions.php:3626 functions/functions.php:3629
+#: functions/functions.php:3632 functions/functions.php:3644
+#: templates/subscriptions.php:83
+msgid "Sign Up"
+msgstr ""
+
+#: functions/functions.php:3649 shortcodes/login.php:244
+msgid "Have an account?"
+msgstr ""
+
+#: functions/functions.php:3649 functions/functions.php:3689
+#: functions/functions.php:3692 functions/functions.php:3695
+#: functions/functions.php:3707
+msgid "Sign In"
+msgstr ""
+
+#: functions/functions.php:3712 shortcodes/register.php:793
+#: shortcodes/register.php:799
+msgid "Sign Up Here"
+msgstr ""
+
+#: functions/functions.php:3752 functions/functions.php:3755
+#: functions/functions.php:3758 functions/functions.php:3770
+msgid "Forgot Password"
+msgstr ""
+
+#: functions/functions.php:3931
+msgid "Please briefly explain why you feel this answer should be reported."
+msgstr ""
+
+#: functions/functions.php:3937
+msgid "Explain"
+msgstr ""
+
+#: functions/functions.php:4174
+msgid "No more comments"
+msgstr ""
+
+#: functions/functions.php:4175
+msgid "Load More Comments"
+msgstr ""
+
+#: functions/functions.php:4177
+msgid "No more answers"
+msgstr ""
+
+#: functions/functions.php:4178
+msgid "Load More Answers"
+msgstr ""
+
+#: functions/functions.php:4181
+msgid "No more questions"
+msgstr ""
+
+#: functions/functions.php:4182
+msgid "Load More Questions"
+msgstr ""
+
+#: functions/functions.php:4184
+msgid "No more posts"
+msgstr ""
+
+#: functions/functions.php:4185
+msgid "Load More Posts"
+msgstr ""
+
+#: functions/functions.php:4414
+msgid "Old Questions"
+msgstr ""
+
+#: functions/functions.php:4414
+msgid "Old Entries"
+msgstr ""
+
+#: functions/functions.php:4417
+msgid "New Questions"
+msgstr ""
+
+#: functions/functions.php:4417
+msgid "New Entries"
+msgstr ""
+
+#: functions/functions.php:4441
+msgid "Share This Article"
+msgstr ""
+
+#: functions/functions.php:4450 functions/functions.php:4452
+#: functions/functions.php:4454 functions/functions.php:4456
+msgid "Share on"
+msgstr ""
+
+#: functions/functions.php:4450 shortcodes/profile.php:149 shortcodes/profile.php:845
+msgid "Facebook"
+msgstr ""
+
+#: functions/functions.php:4452 shortcodes/profile.php:155 shortcodes/profile.php:841
+msgid "Twitter"
+msgstr ""
+
+#: functions/functions.php:4454
+msgid "LinkedIn"
+msgstr ""
+
+#: functions/functions.php:4456
+msgid "WhatsApp"
+msgstr ""
+
+#: functions/functions.php:4664
+msgid "has been qualified at the following categories"
+msgstr ""
+
+#: functions/functions.php:4664
+msgid "has been qualified at the following category"
+msgstr ""
+
+#: functions/functions.php:4676
+msgid "point"
+msgid_plural "points"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions/mails.php:236
+msgid "Hello"
+msgstr ""
+
+#: functions/mails.php:356
+msgid "Hello there,"
+msgstr ""
+
+#: functions/mails.php:357
+msgid "A new post has been submitted in "
+msgstr ""
+
+#: functions/mails.php:357
+msgid " Please find details below:"
+msgstr ""
+
+#: functions/mails.php:374
+msgid "To take action (approve/reject)- please go here:"
+msgstr ""
+
+#: functions/mails.php:377
+msgid "Thank You"
+msgstr ""
+
+#: functions/mails.php:378
+msgid "New Post Submission"
+msgstr ""
+
+#: functions/mails.php:388
+msgid "Recent questions"
+msgstr ""
+
+#: functions/mails.php:411
+msgid "Once Weekly"
+msgstr ""
+
+#: functions/mails.php:415
+msgid "Once Monthly"
+msgstr ""
+
+#: functions/menu.php:14
+msgid "WPQA - Custom Links"
+msgstr ""
+
+#: functions/menu.php:25
+msgid "Profile links"
+msgstr ""
+
+#: functions/menu.php:34
+msgid "View All"
+msgstr ""
+
+#: functions/menu.php:46
+msgid "Select All"
+msgstr ""
+
+#: functions/menu.php:49
+msgid "Add to Menu"
+msgstr ""
+
+#: functions/menu.php:77
+msgid "Login Pop Up"
+msgstr ""
+
+#: functions/menu.php:87
+msgid "Signup Pop Up"
+msgstr ""
+
+#: functions/menu.php:92
+msgid "Lost Password"
+msgstr ""
+
+#: functions/menu.php:97
+msgid "Lost Password Pop Up"
+msgstr ""
+
+#: functions/menu.php:102 functions/menu.php:207 functions/rewrite.php:1422
+#: templates/profile/head-tabs.php:25
+msgid "Polls"
+msgstr ""
+
+#: functions/menu.php:112
+msgid "Ask Question"
+msgstr ""
+
+#: functions/menu.php:117
+msgid "Ask Question Pop Up"
+msgstr ""
+
+#: functions/menu.php:122
+msgid "Add Post"
+msgstr ""
+
+#: functions/menu.php:127
+msgid "Add Post Pop Up"
+msgstr ""
+
+#: functions/menu.php:137
+msgid "Buy Points"
+msgstr ""
+
+#: functions/menu.php:142
+msgid "Profile"
+msgstr ""
+
+#: functions/menu.php:147
+msgid "Edit Profile"
+msgstr ""
+
+#: functions/menu.php:152
+msgid "Delete Account"
+msgstr ""
+
+#: functions/menu.php:162 functions/rewrite.php:1400 templates/profile/head.php:88
+msgid "Following"
+msgstr ""
+
+#: functions/menu.php:167
+msgid "Pending questions"
+msgstr ""
+
+#: functions/menu.php:172
+msgid "Pending posts"
+msgstr ""
+
+#: functions/menu.php:177 functions/rewrite.php:1406 widgets/notifications.php:43
+msgid "Notifications"
+msgstr ""
+
+#: functions/menu.php:182 functions/rewrite.php:1408
+msgid "Activities"
+msgstr ""
+
+#: functions/menu.php:187 functions/rewrite.php:1410
+msgid "Referrals"
+msgstr ""
+
+#: functions/menu.php:192 functions/messages.php:20 functions/messages.php:22
+#: functions/messages.php:23 functions/messages.php:24 functions/messages.php:25
+#: functions/rewrite.php:1412 templates/profile/messages.php:17
+msgid "Messages"
+msgstr ""
+
+#: functions/menu.php:212 functions/rewrite.php:1424
+#: templates/profile/head-tabs.php:29
+msgid "Asked Questions"
+msgstr ""
+
+#: functions/menu.php:217 functions/rewrite.php:1428
+#: templates/profile/head-tabs.php:34
+msgid "Paid Questions"
+msgstr ""
+
+#: functions/menu.php:232 functions/rewrite.php:1430
+msgid "Followed"
+msgstr ""
+
+#: functions/menu.php:237 functions/rewrite.php:1432
+msgid "Favorites"
+msgstr ""
+
+#: functions/menu.php:252 functions/rewrite.php:1438
+#: templates/profile/head-tabs.php:44
+msgid "Followers Questions"
+msgstr ""
+
+#: functions/menu.php:257 functions/rewrite.php:1440
+#: templates/profile/head-tabs.php:46
+msgid "Followers Answers"
+msgstr ""
+
+#: functions/menu.php:262 functions/rewrite.php:1442
+#: templates/profile/head-tabs.php:48
+msgid "Followers Posts"
+msgstr ""
+
+#: functions/menu.php:267 functions/rewrite.php:1444
+#: templates/profile/head-tabs.php:50
+msgid "Followers Comments"
+msgstr ""
+
+#: functions/menu.php:272
+msgid "Logout"
+msgstr ""
+
+#: functions/messages.php:26 functions/post_type.php:65
+msgid "Add New"
+msgstr ""
+
+#: functions/messages.php:27
+msgid "Add New Message"
+msgstr ""
+
+#: functions/messages.php:28
+msgid "New Message"
+msgstr ""
+
+#: functions/messages.php:29
+msgid "Edit Message"
+msgstr ""
+
+#: functions/messages.php:30
+msgid "View Message"
+msgstr ""
+
+#: functions/messages.php:31
+msgid "View Messages"
+msgstr ""
+
+#: functions/messages.php:32
+msgid "All Messages"
+msgstr ""
+
+#: functions/messages.php:33
+msgid "Search Messages"
+msgstr ""
+
+#: functions/messages.php:34
+msgid "Parent Message:"
+msgstr ""
+
+#: functions/messages.php:35
+msgid "No Messages Found."
+msgstr ""
+
+#: functions/messages.php:36
+msgid "No Messages Found in Trash."
+msgstr ""
+
+#: functions/messages.php:71 functions/post_type.php:163
+msgid "Title"
+msgstr ""
+
+#: functions/messages.php:72
+msgid "Content"
+msgstr ""
+
+#: functions/messages.php:74
+msgid "To user/groups/s"
+msgstr ""
+
+#: functions/messages.php:76
+msgid "User deleted?"
+msgstr ""
+
+#: functions/messages.php:121
+msgid "One of the users has deleted his inbox message."
+msgstr ""
+
+#: functions/messages.php:124
+msgid "has deleted his inbox message."
+msgstr ""
+
+#: functions/messages.php:133
+msgid "has delete his sent message."
+msgstr ""
+
+#: functions/messages.php:137
+msgid "No one delete it"
+msgstr ""
+
+#: functions/messages.php:162 functions/messages.php:336
+msgid "Sorry, you do not have a permission to send message."
+msgstr ""
+
+#: functions/messages.php:167 functions/messages.php:338 functions/messages.php:341
+msgid "You must login to send a message."
+msgstr ""
+
+#: functions/messages.php:176 functions/messages.php:343
+msgid "You can't send message for yourself."
+msgstr ""
+
+#: functions/messages.php:186 shortcodes/post.php:175 shortcodes/question.php:344
+#: shortcodes/register.php:46 shortcodes/register.php:54
+msgid "Username"
+msgstr ""
+
+#: functions/messages.php:189 shortcodes/post.php:178 shortcodes/question.php:347
+msgid "Please type your username."
+msgstr ""
+
+#: functions/messages.php:193 shortcodes/password.php:33 shortcodes/post.php:182
+#: shortcodes/profile.php:120 shortcodes/question.php:351 shortcodes/register.php:47
+#: shortcodes/register.php:60
+msgid "E-Mail"
+msgstr ""
+
+#: functions/messages.php:196 shortcodes/post.php:185 shortcodes/question.php:354
+msgid "Please type your E-Mail."
+msgstr ""
+
+#: functions/messages.php:200
+msgid "Message Title"
+msgstr ""
+
+#: functions/messages.php:206 shortcodes/post.php:236 shortcodes/question.php:640
+msgid "Details"
+msgstr ""
+
+#: functions/messages.php:218 shortcodes/question.php:652
+msgid "Type the description thoroughly and in details."
+msgstr ""
+
+#: functions/messages.php:236
+msgid "Send Your Message"
+msgstr ""
+
+#: functions/messages.php:288
+msgid "The message has been sent successfully."
+msgstr ""
+
+#: functions/messages.php:290
+msgid "Has been sent successfully, The message is under review."
+msgstr ""
+
+#: functions/messages.php:322 payments/payments.php:690 shortcodes/category.php:88
+#: shortcodes/login.php:118 shortcodes/password.php:66 shortcodes/post.php:330
+#: shortcodes/post.php:503 shortcodes/profile.php:530 shortcodes/question.php:1058
+#: shortcodes/question.php:1634 shortcodes/register.php:157
+msgid "There is an error, Please reload the page and try again."
+msgstr ""
+
+#: functions/messages.php:345
+msgid "There is an error."
+msgstr ""
+
+#: functions/messages.php:349 shortcodes/post.php:339 shortcodes/question.php:1093
+msgid "There are required fields (username)."
+msgstr ""
+
+#: functions/messages.php:350 shortcodes/post.php:340 shortcodes/question.php:1094
+msgid "There are required fields (email)."
+msgstr ""
+
+#: functions/messages.php:351 shortcodes/post.php:341 shortcodes/question.php:1095
+#: shortcodes/register.php:192
+msgid "Please write correctly email."
+msgstr ""
+
+#: functions/messages.php:356 shortcodes/post.php:615 shortcodes/question.php:1939
+msgid "There are required fields (title)."
+msgstr ""
+
+#: functions/messages.php:360 shortcodes/question.php:2028
+msgid "There are required fields (content)."
+msgstr ""
+
+#: functions/messages.php:382
+msgid "Error in message."
+msgstr ""
+
+#: functions/messages.php:442
+msgid "RE:"
+msgstr ""
+
+#: functions/post_type.php:66
+msgid "Add New Question"
+msgstr ""
+
+#: functions/post_type.php:67
+msgid "New Question"
+msgstr ""
+
+#: functions/post_type.php:68
+msgid "Edit Question"
+msgstr ""
+
+#: functions/post_type.php:69
+msgid "View Question"
+msgstr ""
+
+#: functions/post_type.php:70
+msgid "View Questions"
+msgstr ""
+
+#: functions/post_type.php:71
+msgid "All Questions"
+msgstr ""
+
+#: functions/post_type.php:72
+msgid "Search Questions"
+msgstr ""
+
+#: functions/post_type.php:73
+msgid "Parent Question:"
+msgstr ""
+
+#: functions/post_type.php:74
+msgid "No Questions Found."
+msgstr ""
+
+#: functions/post_type.php:75
+msgid "No Questions Found in Trash."
+msgstr ""
+
+#: functions/post_type.php:95 functions/post_type.php:96 functions/post_type.php:99
+#: functions/post_type.php:100
+msgid "Question Categories"
+msgstr ""
+
+#: functions/post_type.php:97
+msgid "Search Categories"
+msgstr ""
+
+#: functions/post_type.php:101
+msgid "Edit Category"
+msgstr ""
+
+#: functions/post_type.php:103 functions/post_type.php:104
+msgid "Add New Category"
+msgstr ""
+
+#: functions/post_type.php:121 functions/post_type.php:122
+#: functions/post_type.php:125 functions/post_type.php:126
+msgid "Question Tags"
+msgstr ""
+
+#: functions/post_type.php:123
+msgid "Search Tags"
+msgstr ""
+
+#: functions/post_type.php:124
+msgid "All Tags"
+msgstr ""
+
+#: functions/post_type.php:127
+msgid "Edit Tag"
+msgstr ""
+
+#: functions/post_type.php:129 functions/post_type.php:130
+msgid "Add New Tag"
+msgstr ""
+
+#: functions/post_type.php:164
+msgid "Type"
+msgstr ""
+
+#: functions/post_type.php:167 shortcodes/post.php:208 shortcodes/question.php:454
+#: widgets/tabs.php:88
+msgid "Tags"
+msgstr ""
+
+#: functions/post_type.php:182 functions/post_type.php:269
+msgid "Poll"
+msgstr ""
+
+#: functions/post_type.php:206
+msgid "Asked to"
+msgstr ""
+
+#: functions/post_type.php:214
+msgid "No category"
+msgstr ""
+
+#: functions/post_type.php:226
+msgid "No tags"
+msgstr ""
+
+#: functions/post_type.php:246
+#, php-format
+msgid "Updated. %1$s View question %2$s"
+msgstr ""
+
+#: functions/post_type.php:270 functions/post_type.php:359
+msgid "Sticky"
+msgstr ""
+
+#: functions/post_type.php:331
+msgid "Delete post"
+msgstr ""
+
+#: functions/post_type.php:331
+msgid "Delete question"
+msgstr ""
+
+#: functions/post_type.php:368
+msgid "ON"
+msgstr ""
+
+#: functions/post_type.php:368
+msgid "OFF"
+msgstr ""
+
+#: functions/post_type.php:370 shortcodes/question.php:770
+msgid "Stick this question"
+msgstr ""
+
+#: functions/questions.php:23
+msgid "New question"
+msgstr ""
+
+#: functions/questions.php:189 functions/questions.php:230
+#: functions/questions.php:281 functions/questions.php:361
+msgid "Reports"
+msgstr ""
+
+#: functions/questions.php:298 functions/questions.php:350
+msgid "Link"
+msgstr ""
+
+#: functions/questions.php:344 includes/class-wpqa.php:214
+msgid "There are no reports yet."
+msgstr ""
+
+#: functions/questions.php:476
+msgid "This is a paid question."
+msgstr ""
+
+#: functions/questions.php:476
+msgid "Paid details"
+msgstr ""
+
+#: functions/questions.php:481
+msgid "This question will sticky to"
+msgstr ""
+
+#: functions/questions.php:491
+msgid "The transaction id"
+msgstr ""
+
+#: functions/questions.php:494
+msgid "This transaction is from PayPal sandbox."
+msgstr ""
+
+#: functions/questions.php:500
+msgid "The transaction id for sticky question"
+msgstr ""
+
+#: functions/questions.php:503
+msgid "This transaction is from PayPal sandbox for sticky question."
+msgstr ""
+
+#: functions/questions.php:540
+msgid "Bump your question"
+msgstr ""
+
+#: functions/questions.php:558
+msgid "Pay to sticky question"
+msgstr ""
+
+#: functions/questions.php:561
+#, php-format
+msgid ""
+"Please make a payment to allow to be able to sticky the question %s For %s days."
+msgstr ""
+
+#: functions/questions.php:579
+msgid "Question bump points"
+msgstr ""
+
+#: functions/questions.php:580
+msgid "Bump"
+msgstr ""
+
+#: functions/questions.php:608
+msgid "You have just stickied the question by points."
+msgstr ""
+
+#: functions/questions.php:611 payments/payments.php:115 shortcodes/question.php:1499
+msgid "Sorry, you haven't enough points"
+msgstr ""
+
+#: functions/questions.php:611 payments/payments.php:115 shortcodes/question.php:1499
+msgid "You can buy the points from here."
+msgstr ""
+
+#: functions/questions.php:690
+msgid "Open the question"
+msgstr ""
+
+#: functions/questions.php:690
+msgid "Close the question"
+msgstr ""
+
+#: functions/questions.php:690
+msgid "Open"
+msgstr ""
+
+#: functions/questions.php:690
+msgid "Close"
+msgstr ""
+
+#: functions/questions.php:793 templates/profile/content.php:292
+#: templates/search.php:67
+msgid "Sorry it a private answer."
+msgstr ""
+
+#: functions/questions.php:801
+msgid "There are no answers yet."
+msgstr ""
+
+#: functions/questions.php:805
+msgid "Leave an answer"
+msgstr ""
+
+#: functions/questions.php:814
+msgid "Submit"
+msgstr ""
+
+#: functions/referrals.php:27 functions/referrals.php:58
+msgid "New invitation"
+msgstr ""
+
+#: functions/review.php:17
+msgid "Review the question"
+msgstr ""
+
+#: functions/review.php:17
+msgid "Review the post"
+msgstr ""
+
+#: functions/review.php:19
+msgid "Approve"
+msgstr ""
+
+#: functions/review.php:147
+msgid "Ban group"
+msgstr ""
+
+#: functions/rewrite.php:1402
+msgid "Pending Questions"
+msgstr ""
+
+#: functions/rewrite.php:1404
+msgid "Pending Posts"
+msgstr ""
+
+#: functions/rewrite.php:1426 templates/profile/head-tabs.php:31
+msgid "Waiting Questions"
+msgstr ""
+
+#: functions/rewrite.php:1448 shortcodes/profile.php:391 shortcodes/profile.php:404
+msgid "Delete account"
+msgstr ""
+
+#: functions/subscriptions.php:17
+msgid "Get the paid membership"
+msgstr ""
+
+#: functions/subscriptions.php:116 payments/payments.php:48
+#: templates/subscriptions.php:36
+msgid "Free membership"
+msgstr ""
+
+#: functions/subscriptions.php:117 payments/payments.php:49
+#: templates/subscriptions.php:37
+msgid "Monthly membership"
+msgstr ""
+
+#: functions/subscriptions.php:118 payments/payments.php:50
+msgid "3 Months membership"
+msgstr ""
+
+#: functions/subscriptions.php:119 payments/payments.php:51
+msgid "6 Months membership"
+msgstr ""
+
+#: functions/subscriptions.php:120 payments/payments.php:52
+msgid "Yearly membership"
+msgstr ""
+
+#: functions/subscriptions.php:122 functions/subscriptions.php:153
+#: payments/payments.php:55
+msgid "Paid membership"
+msgstr ""
+
+#: functions/subscriptions.php:122 payments/payments.php:1043
+msgid "(Renew)"
+msgstr ""
+
+#: functions/subscriptions.php:153
+msgid "membership"
+msgstr ""
+
+#: functions/subscriptions.php:172
+msgid "You have got a new free membership."
+msgstr ""
+
+#: includes/class-wpqa.php:68
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version at least "
+"%1$s (or later). Please go to Dashboard &#9656; Updates to get the latest version "
+"of WordPress."
+msgstr ""
+
+#: includes/class-wpqa.php:68
+msgid "go back"
+msgstr ""
+
+#: includes/class-wpqa.php:150
+msgid "Please fill the required field."
+msgstr ""
+
+#: includes/class-wpqa.php:151
+msgid "Sorry, The minimum characters is"
+msgstr ""
+
+#: includes/class-wpqa.php:152
+msgid "Sorry, The maximum characters is"
+msgstr ""
+
+#: includes/class-wpqa.php:155
+msgid "Are you sure you want to delete your account?"
+msgstr ""
+
+#: includes/class-wpqa.php:156
+msgid "Are you sure you want to delete the question?"
+msgstr ""
+
+#: includes/class-wpqa.php:157
+msgid "Are you sure you want to delete the post?"
+msgstr ""
+
+#: includes/class-wpqa.php:158
+msgid "Are you sure you want to delete the comment?"
+msgstr ""
+
+#: includes/class-wpqa.php:159
+msgid "Are you sure you want to delete the answer?"
+msgstr ""
+
+#: includes/class-wpqa.php:160
+msgid "Are you sure you want to delete the message?"
+msgstr ""
+
+#: includes/class-wpqa.php:161
+msgid "Are you sure you want to ban this user?"
+msgstr ""
+
+#: includes/class-wpqa.php:162
+msgid "Are you sure you want to delete the image?"
+msgstr ""
+
+#: includes/class-wpqa.php:163
+msgid "Are you sure you want to delete the attachment?"
+msgstr ""
+
+#: includes/class-wpqa.php:164
+msgid "Sorry, you cannot vote your question."
+msgstr ""
+
+#: includes/class-wpqa.php:165
+msgid "Sorry, you cannot vote on the same question more than once."
+msgstr ""
+
+#: includes/class-wpqa.php:166
+msgid "Voting is available to members only."
+msgstr ""
+
+#: includes/class-wpqa.php:167
+msgid "Sorry, you cannot vote your answer."
+msgstr ""
+
+#: includes/class-wpqa.php:168
+msgid "Sorry, you cannot vote on the same answer more than once."
+msgstr ""
+
+#: includes/class-wpqa.php:169
+msgid "Sorry, you cannot vote your comment."
+msgstr ""
+
+#: includes/class-wpqa.php:170
+msgid "Sorry, you cannot vote on the same comment more than once."
+msgstr ""
+
+#: includes/class-wpqa.php:171
+msgid "Sorry, you cannot poll on the same question more than once."
+msgstr ""
+
+#: includes/class-wpqa.php:175
+msgid "There is another one select this a best answer"
+msgstr ""
+
+#: includes/class-wpqa.php:176
+msgid "Follow the question"
+msgstr ""
+
+#: includes/class-wpqa.php:177
+msgid "Unfollow the question"
+msgstr ""
+
+#: includes/class-wpqa.php:182
+msgid "There are no questions yet."
+msgstr ""
+
+#: includes/class-wpqa.php:183
+msgid "There are no posts yet."
+msgstr ""
+
+#: includes/class-wpqa.php:185
+msgid "Add this question to favorites"
+msgstr ""
+
+#: includes/class-wpqa.php:186
+msgid "Remove this question of my favorites"
+msgstr ""
+
+#: includes/class-wpqa.php:187
+msgid "Please fill the required fields (name)."
+msgstr ""
+
+#: includes/class-wpqa.php:188
+msgid "Please fill the required fields (email)."
+msgstr ""
+
+#: includes/class-wpqa.php:189
+msgid "Please type a comment."
+msgstr ""
+
+#: includes/class-wpqa.php:190
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: includes/class-wpqa.php:191
+msgid "Cancel reply."
+msgstr ""
+
+#: includes/class-wpqa.php:192 templates/profile/messages.php:120
+msgid "Block Message"
+msgstr ""
+
+#: includes/class-wpqa.php:193 templates/profile/messages.php:120
+msgid "Unblock Message"
+msgstr ""
+
+#: includes/class-wpqa.php:194
+msgid "Click here to continue."
+msgstr ""
+
+#: includes/class-wpqa.php:195
+msgid "Complete your following to continue."
+msgstr ""
+
+#: includes/class-wpqa.php:198
+msgid "Please login, Only users can vote and see the results."
+msgstr ""
+
+#: includes/class-wpqa.php:200
+msgid "This email is exist already."
+msgstr ""
+
+#: includes/class-wpqa.php:201
+msgid "The invitation was sent."
+msgstr ""
+
+#: includes/class-wpqa.php:202
+#, php-format
+msgid "Sorry, you are bumping your question with less than %s points."
+msgstr ""
+
+#: includes/class-wpqa.php:212
+msgid "Are you sure you want to delete?"
+msgstr ""
+
+#: includes/class-wpqa.php:213
+msgid "If you press will delete report!"
+msgstr ""
+
+#: includes/class-wpqa.php:215
+msgid "If you press will delete the attachment!"
+msgstr ""
+
+#: payments/payments.php:25
+msgid "Pay to add answer"
+msgstr ""
+
+#: payments/payments.php:34
+msgid "Pay to make question sticky"
+msgstr ""
+
+#: payments/payments.php:69
+msgid "Ask a new question"
+msgstr ""
+
+#: payments/payments.php:69
+msgid "for"
+msgstr ""
+
+#: payments/payments.php:94
+#, php-format
+msgid ""
+"Please pay by points to allow to be able to sticky the question %s For %s days."
+msgstr ""
+
+#: payments/payments.php:94 payments/payments.php:96 payments/payments.php:98
+msgid "points"
+msgstr ""
+
+#: payments/payments.php:96
+#, php-format
+msgid "Please pay by points to allow to be able to add a answer %s."
+msgstr ""
+
+#: payments/payments.php:98
+#, php-format
+msgid "Please pay by points to allow to be able to ask a question %s."
+msgstr ""
+
+#: payments/payments.php:105 payments/payments.php:386
+msgid "Process"
+msgstr ""
+
+#: payments/payments.php:126
+msgid "Please enter your coupon."
+msgstr ""
+
+#: payments/payments.php:137 payments/payments.php:1076
+msgid "This coupon has expired."
+msgstr ""
+
+#: payments/payments.php:139 payments/payments.php:141 payments/payments.php:1079
+#: payments/payments.php:1089
+msgid "This coupon is not valid."
+msgstr ""
+
+#: payments/payments.php:149
+#, php-format
+msgid "Coupon \"%s\" applied successfully."
+msgstr ""
+
+#: payments/payments.php:158
+msgid "Coupon does not exist!."
+msgstr ""
+
+#: payments/payments.php:160
+#, php-format
+msgid "Coupon \"%s\" does not exist!."
+msgstr ""
+
+#: payments/payments.php:197
+#, php-format
+msgid "Take it free? Add this coupon %s."
+msgstr ""
+
+#: payments/payments.php:206
+msgid "Coupon code"
+msgstr ""
+
+#: payments/payments.php:207
+msgid "Apply Coupon"
+msgstr ""
+
+#: payments/payments.php:232
+msgid "Pay"
+msgstr ""
+
+#: payments/payments.php:247
+msgid "Select Payment Method"
+msgstr ""
+
+#: payments/payments.php:318
+msgid "Address"
+msgstr ""
+
+#: payments/payments.php:325
+msgid "ZIP"
+msgstr ""
+
+#: payments/payments.php:337 shortcodes/register.php:557
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: payments/payments.php:348 shortcodes/profile.php:873 shortcodes/register.php:567
+msgid "City"
+msgstr ""
+
+#: payments/payments.php:355
+msgid "State"
+msgstr ""
+
+#: payments/payments.php:602
+msgid "Thank you for your payment you can now add a new answer"
+msgstr ""
+
+#: payments/payments.php:604
+msgid "Thank you for your payment, Your question now is sticky"
+msgstr ""
+
+#: payments/payments.php:606
+msgid "Thank you for your payment, Your points was added now"
+msgstr ""
+
+#: payments/payments.php:608
+msgid "Thank you for your payment, your membership was upgraded"
+msgstr ""
+
+#: payments/payments.php:610
+msgid "Thank you for your payment you can now add a new question"
+msgstr ""
+
+#: payments/payments.php:620
+msgid "Instant Payment Notification - Received Payment"
+msgstr ""
+
+#: payments/payments.php:633
+#, php-format
+msgid "Your transaction id %s, Please copy it."
+msgstr ""
+
+#: payments/payments.php:685 payments/payments.php:787 payments/payments.php:792
+#: payments/payments.php:836
+msgid "Transaction has been failed."
+msgstr ""
+
+#: payments/payments.php:960
+msgid "The payment was failed!"
+msgstr ""
+
+#: payments/payments.php:968
+msgid "The payment was canceled!"
+msgstr ""
+
+#: payments/payments.php:1097
+msgid "Coupon code applied successfully."
+msgstr ""
+
+#: payments/payments.php:1131 payments/payments.php:1139 payments/payments.php:1183
+#: payments/payments.php:1260
+msgid "Payments"
+msgstr ""
+
+#: payments/payments.php:1142
+msgid "All my money"
+msgstr ""
+
+#: payments/payments.php:1197 payments/payments.php:1247
+msgid "Price"
+msgstr ""
+
+#: payments/payments.php:1197 payments/payments.php:1247
+msgid "coupon"
+msgstr ""
+
+#: payments/payments.php:1199 payments/payments.php:1249
+msgid "Item"
+msgstr ""
+
+#: payments/payments.php:1201 payments/payments.php:1251
+msgid "Transaction"
+msgstr ""
+
+#: payments/payments.php:1202 payments/payments.php:1252
+msgid "Payer email"
+msgstr ""
+
+#: payments/payments.php:1202 payments/payments.php:1252
+msgid "sandbox"
+msgstr ""
+
+#: payments/payments.php:1228 templates/subscriptions.php:65
+msgid "Free"
+msgstr ""
+
+#: shortcodes/category.php:28
+msgid "Sorry, you do not have a permission to add a category."
+msgstr ""
+
+#: shortcodes/category.php:33
+msgid "You must login to add category."
+msgstr ""
+
+#: shortcodes/category.php:38 templates/buy-points.php:64
+#: templates/subscriptions.php:108
+msgid "Sorry, this page is not available."
+msgstr ""
+
+#: shortcodes/category.php:55
+msgid "New category for review"
+msgstr ""
+
+#: shortcodes/category.php:61
+msgid "Your category was sent to review."
+msgstr ""
+
+#: shortcodes/category.php:93 shortcodes/post.php:619 shortcodes/question.php:1952
+#: shortcodes/question.php:1958
+msgid "There are required fields (category)."
+msgstr ""
+
+#: shortcodes/category.php:99
+msgid "The category exists!"
+msgstr ""
+
+#: shortcodes/category.php:146
+msgid "Category name"
+msgstr ""
+
+#: shortcodes/category.php:149
+msgid "Please choose an appropriate category for questions."
+msgstr ""
+
+#: shortcodes/category.php:160
+msgid "Add new category"
+msgstr ""
+
+#: shortcodes/comment.php:60
+msgid "Edit Comment"
+msgstr ""
+
+#: shortcodes/login.php:39 shortcodes/register.php:38
+msgid "or use"
+msgstr ""
+
+#: shortcodes/login.php:48
+msgid "Username or email"
+msgstr ""
+
+#: shortcodes/login.php:53 shortcodes/register.php:48 shortcodes/register.php:66
+msgid "Password"
+msgstr ""
+
+#: shortcodes/login.php:63
+msgid "Remember Me!"
+msgstr ""
+
+#: shortcodes/login.php:66
+msgid "Forgot Password?"
+msgstr ""
+
+#: shortcodes/login.php:74
+msgid "Register"
+msgstr ""
+
+#: shortcodes/login.php:123
+#, php-format
+msgid "%1$s ERROR %2$s: please insert your name."
+msgstr ""
+
+#: shortcodes/login.php:125
+#, php-format
+msgid "%1$s ERROR %2$s: please insert your password."
+msgstr ""
+
+#: shortcodes/login.php:201
+#, php-format
+msgid "Hello %1$s (not %2$s? %3$s Log out %4$s)"
+msgstr ""
+
+#: shortcodes/login.php:201
+#, php-format
+msgid ""
+"From your profile you can view your %1$s recent questions %2$s, %3$s edit your "
+"password and profile details %4$s."
+msgstr ""
+
+#: shortcodes/login.php:244
+msgid "Sign In Now"
+msgstr ""
+
+#: shortcodes/password.php:26
+msgid ""
+"Lost your password? Please enter your email address. You will receive a link and "
+"will create a new password via email."
+msgstr ""
+
+#: shortcodes/password.php:45
+msgid "Reset"
+msgstr ""
+
+#: shortcodes/password.php:64 shortcodes/password.php:186
+#, php-format
+msgid ""
+"You are already logged in, If you want to change your password go to %1$s edit "
+"profile %2$s."
+msgstr ""
+
+#: shortcodes/password.php:68
+#, php-format
+msgid "%1$s ERROR %2$s: please insert your email."
+msgstr ""
+
+#: shortcodes/password.php:70 shortcodes/password.php:74
+#, php-format
+msgid "%1$s ERROR %2$s: there is no user registered with that email address."
+msgstr ""
+
+#: shortcodes/password.php:98 shortcodes/password.php:167
+msgid "Reset your password"
+msgstr ""
+
+#: shortcodes/password.php:104
+msgid "Check your email please."
+msgstr ""
+
+#: shortcodes/password.php:172
+msgid "Check your email, Your password has been reset."
+msgstr ""
+
+#: shortcodes/password.php:176
+msgid "Your password reset link has expired or not valid, Please request a new link"
+msgstr ""
+
+#: shortcodes/password.php:176
+msgid "Reset Password"
+msgstr ""
+
+#: shortcodes/post.php:30 shortcodes/post.php:37 shortcodes/post.php:334
+msgid "Sorry, you do not have a permission to add a post."
+msgstr ""
+
+#: shortcodes/post.php:35 shortcodes/post.php:336
+msgid "You must login to add post."
+msgstr ""
+
+#: shortcodes/post.php:47
+msgid "You must login to edit post."
+msgstr ""
+
+#: shortcodes/post.php:59 shortcodes/post.php:62 shortcodes/post.php:511
+msgid "Sorry you can't edit this post."
+msgstr ""
+
+#: shortcodes/post.php:65
+msgid "Sorry no post has you select or not found."
+msgstr ""
+
+#: shortcodes/post.php:68
+msgid "Sorry, you do not have a permission to edit a post."
+msgstr ""
+
+#: shortcodes/post.php:112
+msgid "New post for review"
+msgstr ""
+
+#: shortcodes/post.php:118 shortcodes/post.php:475
+msgid "Your post was successfully added, It's under review."
+msgstr ""
+
+#: shortcodes/post.php:190
+msgid "Post Title"
+msgstr ""
+
+#: shortcodes/post.php:193
+msgid "Please choose an appropriate title for the post."
+msgstr ""
+
+#: shortcodes/post.php:200
+msgid "Please choose the appropriate section so easily search for your post."
+msgstr ""
+
+#: shortcodes/post.php:210 shortcodes/question.php:456
+msgid "Please choose suitable Keywords Ex: "
+msgstr ""
+
+#: shortcodes/post.php:210
+msgid "post, video"
+msgstr ""
+
+#: shortcodes/post.php:265
+#, php-format
+msgid "By posting, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+
+#: shortcodes/post.php:294
+msgid "Publish Your Post"
+msgstr ""
+
+#: shortcodes/post.php:294
+msgid "Edit Your Post"
+msgstr ""
+
+#: shortcodes/post.php:383
+msgid "Error in post."
+msgstr ""
+
+#: shortcodes/post.php:514
+msgid "Sorry no post select or not found."
+msgstr ""
+
+#: shortcodes/post.php:624
+msgid "There are required fields (details)."
+msgstr ""
+
+#: shortcodes/profile.php:21
+msgid "Please login to delete account."
+msgstr ""
+
+#: shortcodes/profile.php:23
+msgid "Please login to edit profile."
+msgstr ""
+
+#: shortcodes/profile.php:108 shortcodes/register.php:486
+msgid "Nickname"
+msgstr ""
+
+#: shortcodes/profile.php:109 shortcodes/register.php:492
+msgid "First Name"
+msgstr ""
+
+#: shortcodes/profile.php:110 shortcodes/register.php:498
+msgid "Last Name"
+msgstr ""
+
+#: shortcodes/profile.php:111 shortcodes/register.php:504
+msgid "Display Name"
+msgstr ""
+
+#: shortcodes/profile.php:117
+msgid "Basic Information"
+msgstr ""
+
+#: shortcodes/profile.php:144
+msgid "Social Profiles"
+msgstr ""
+
+#: shortcodes/profile.php:149 shortcodes/profile.php:155 shortcodes/profile.php:161
+#: shortcodes/profile.php:167 shortcodes/profile.php:173 shortcodes/profile.php:179
+#: shortcodes/profile.php:185
+msgid "(Put the full URL)"
+msgstr ""
+
+#: shortcodes/profile.php:161 shortcodes/profile.php:849
+msgid "Youtube"
+msgstr ""
+
+#: shortcodes/profile.php:167 shortcodes/profile.php:853
+msgid "Vimeo"
+msgstr ""
+
+#: shortcodes/profile.php:173 shortcodes/profile.php:857
+msgid "Linkedin"
+msgstr ""
+
+#: shortcodes/profile.php:179 shortcodes/profile.php:861
+msgid "Instagram"
+msgstr ""
+
+#: shortcodes/profile.php:185 shortcodes/profile.php:865
+msgid "Pinterest"
+msgstr ""
+
+#: shortcodes/profile.php:209
+msgid "About Me"
+msgstr ""
+
+#: shortcodes/profile.php:213
+msgid "Add profile credential"
+msgstr ""
+
+#: shortcodes/profile.php:219
+msgid "Website"
+msgstr ""
+
+#: shortcodes/profile.php:234
+msgid "Professional Bio"
+msgstr ""
+
+#: shortcodes/profile.php:243
+msgid "Show your private pages for all the users?"
+msgstr ""
+
+#: shortcodes/profile.php:243
+msgid "(Points, favorite and followed pages)."
+msgstr ""
+
+#: shortcodes/profile.php:250
+msgid "Do you need to receive message from another users?"
+msgstr ""
+
+#: shortcodes/profile.php:279
+msgid "Mail Settings"
+msgstr ""
+
+#: shortcodes/profile.php:286
+msgid "Show follow up email?"
+msgstr ""
+
+#: shortcodes/profile.php:293
+msgid "Do you need to get schedules mails for the recent questions?"
+msgstr ""
+
+#: shortcodes/profile.php:300
+msgid "Do you need to get mails when new question added?"
+msgstr ""
+
+#: shortcodes/profile.php:307
+msgid "Do you need to unsubscribe all the mails?"
+msgstr ""
+
+#: shortcodes/profile.php:314
+msgid "Do you need to get mails for the new payments?"
+msgstr ""
+
+#: shortcodes/profile.php:321
+msgid "Do you need to get mails when new message sent?"
+msgstr ""
+
+#: shortcodes/profile.php:328
+msgid "Do you need to get mails when new answer added for your question?"
+msgstr ""
+
+#: shortcodes/profile.php:335
+msgid "Do you need to get mails when new answer added for your following question?"
+msgstr ""
+
+#: shortcodes/profile.php:348
+msgid "Custom Categories"
+msgstr ""
+
+#: shortcodes/profile.php:392 shortcodes/profile.php:409
+msgid "Do you need to delete your account?"
+msgstr ""
+
+#: shortcodes/profile.php:423
+msgid "Change password"
+msgstr ""
+
+#: shortcodes/profile.php:425
+msgid "New Password"
+msgstr ""
+
+#: shortcodes/profile.php:430 shortcodes/register.php:71
+msgid "Confirm Password"
+msgstr ""
+
+#: shortcodes/profile.php:448
+msgid "Save"
+msgstr ""
+
+#: shortcodes/profile.php:519
+msgid "Profile has been deleted."
+msgstr ""
+
+#: shortcodes/profile.php:534
+msgid "There are required fields (Email)."
+msgstr ""
+
+#: shortcodes/profile.php:537 shortcodes/register.php:175
+msgid "Password does not match."
+msgstr ""
+
+#: shortcodes/profile.php:543
+msgid "There are required fields (Profile credential)."
+msgstr ""
+
+#: shortcodes/profile.php:546
+msgid "Sorry, The maximum characters for the profile credential is"
+msgstr ""
+
+#: shortcodes/profile.php:549
+msgid "Not a valid URL (Facebook)."
+msgstr ""
+
+#: shortcodes/profile.php:552
+msgid "Not a valid URL (Twitter)."
+msgstr ""
+
+#: shortcodes/profile.php:555
+msgid "Not a valid URL (Youtube)."
+msgstr ""
+
+#: shortcodes/profile.php:558
+msgid "Not a valid URL (Vimeo)."
+msgstr ""
+
+#: shortcodes/profile.php:561
+msgid "Not a valid URL (Linkedin)."
+msgstr ""
+
+#: shortcodes/profile.php:564
+msgid "Not a valid URL (Instagram)."
+msgstr ""
+
+#: shortcodes/profile.php:567
+msgid "Not a valid URL (Pinterest)."
+msgstr ""
+
+#: shortcodes/profile.php:598 shortcodes/profile.php:614
+msgid "Profile has been updated."
+msgstr ""
+
+#: shortcodes/profile.php:809 shortcodes/profile.php:892
+msgid "Custom fields"
+msgstr ""
+
+#: shortcodes/profile.php:837
+msgid "Profile credential"
+msgstr ""
+
+#: shortcodes/profile.php:885 shortcodes/register.php:580
+msgid "Gender"
+msgstr ""
+
+#: shortcodes/question.php:42 shortcodes/question.php:197
+msgid "Select a Category"
+msgstr ""
+
+#: shortcodes/question.php:335
+#, php-format
+msgid "Ask %s a question"
+msgstr ""
+
+#: shortcodes/question.php:385
+msgid "Question Title"
+msgstr ""
+
+#: shortcodes/question.php:389
+msgid ""
+"Please choose an appropriate title for the question so it can be answered easier."
+msgstr ""
+
+#: shortcodes/question.php:447
+msgid "Please choose the appropriate section so question can be searched easier."
+msgstr ""
+
+#: shortcodes/question.php:456
+msgid "question, poll"
+msgstr ""
+
+#: shortcodes/question.php:474
+msgid "This question is a poll?"
+msgstr ""
+
+#: shortcodes/question.php:474
+msgid "If you want to be doing a poll click here."
+msgstr ""
+
+#: shortcodes/question.php:486
+msgid "Image poll?"
+msgstr ""
+
+#: shortcodes/question.php:583
+msgid "Add More Answers"
+msgstr ""
+
+#: shortcodes/question.php:608
+msgid "Add Field"
+msgstr ""
+
+#: shortcodes/question.php:702
+msgid "Get notification by email when someone answers this question."
+msgstr ""
+
+#: shortcodes/question.php:714
+msgid "This question is a private question?"
+msgstr ""
+
+#: shortcodes/question.php:726
+msgid "Ask Anonymously"
+msgstr ""
+
+#: shortcodes/question.php:728
+msgid "asks"
+msgstr ""
+
+#: shortcodes/question.php:732
+msgid "Anonymous asks"
+msgstr ""
+
+#: shortcodes/question.php:753
+#, php-format
+msgid "By asking your question, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+
+#: shortcodes/question.php:770
+msgid "Note: this option shows for the admin only!"
+msgstr ""
+
+#: shortcodes/question.php:780
+msgid "Publish this question"
+msgstr ""
+
+#: shortcodes/question.php:780
+msgid "Note: this option shows for the admin or moderators only!"
+msgstr ""
+
+#: shortcodes/question.php:806
+msgid "Publish Your Question"
+msgstr ""
+
+#: shortcodes/question.php:806
+msgid "Edit Your Question"
+msgstr ""
+
+#: shortcodes/question.php:927
+msgid "New question for review"
+msgstr ""
+
+#: shortcodes/question.php:933 shortcodes/question.php:977
+msgid "Your question was successfully added, It's under review."
+msgstr ""
+
+#: shortcodes/question.php:1008 shortcodes/question.php:1587
+msgid "Has been Edited successfully, The question is under review."
+msgstr ""
+
+#: shortcodes/question.php:1074
+msgid "Sorry, you do not have a permission to ask a question."
+msgstr ""
+
+#: shortcodes/question.php:1076 shortcodes/question.php:1079
+#: shortcodes/question.php:1082 shortcodes/question.php:1479
+#: shortcodes/question.php:1484
+msgid "You must login to ask question."
+msgstr ""
+
+#: shortcodes/question.php:1085
+msgid "You need to pay first."
+msgstr ""
+
+#: shortcodes/question.php:1090 shortcodes/question.php:1527
+#, php-format
+msgid ""
+"Sorry do not have the minimum points Please do answer questions, even gaining "
+"points (The minimum points = %s)."
+msgstr ""
+
+#: shortcodes/question.php:1124
+msgid "Error in question."
+msgstr ""
+
+#: shortcodes/question.php:1474 shortcodes/question.php:1481
+msgid "Sorry, you do not have a permission to ask a question"
+msgstr ""
+
+#: shortcodes/question.php:1474
+msgid "You must login to ask question"
+msgstr ""
+
+#: shortcodes/question.php:1496
+msgid "You have just bought to ask question by points."
+msgstr ""
+
+#: shortcodes/question.php:1516
+#, php-format
+msgid "Please make a payment to allow to be able to ask a question %s."
+msgstr ""
+
+#: shortcodes/question.php:1523
+#, php-format
+msgid "Will lose %s points when add a new question."
+msgstr ""
+
+#: shortcodes/question.php:1538
+msgid "You must login to edit question."
+msgstr ""
+
+#: shortcodes/question.php:1554 shortcodes/question.php:1557
+#: shortcodes/question.php:1645
+msgid "Sorry you can't edit this question."
+msgstr ""
+
+#: shortcodes/question.php:1560
+msgid "Sorry no question has you select or not found."
+msgstr ""
+
+#: shortcodes/question.php:1563
+msgid "Sorry, you do not have a permission to edit a question."
+msgstr ""
+
+#: shortcodes/question.php:1648
+msgid "Sorry no question select or not found."
+msgstr ""
+
+#: shortcodes/question.php:1943
+#, php-format
+msgid "Sorry, The minimum characters for question title is %s."
+msgstr ""
+
+#: shortcodes/question.php:1946
+#, php-format
+msgid "Sorry, The maximum characters for question title is %s."
+msgstr ""
+
+#: shortcodes/question.php:1971
+#, php-format
+msgid "Sorry, The minimum tags for question is %s tags."
+msgstr ""
+
+#: shortcodes/question.php:1974
+#, php-format
+msgid "Sorry, The maximum tags for question is %s tags."
+msgstr ""
+
+#: shortcodes/question.php:1980
+#, php-format
+msgid "Sorry, The minimum characters for question tag is %s."
+msgstr ""
+
+#: shortcodes/question.php:1983
+#, php-format
+msgid "Sorry, The maximum characters for question tag is %s."
+msgstr ""
+
+#: shortcodes/question.php:1999 shortcodes/question.php:2019
+msgid "Please enter at least two values in poll."
+msgstr ""
+
+#: shortcodes/question.php:2002
+msgid "Please enter values in poll."
+msgstr ""
+
+#: shortcodes/question.php:2006
+#, php-format
+msgid "Sorry, The minimum items for question poll is %s items."
+msgstr ""
+
+#: shortcodes/question.php:2009
+#, php-format
+msgid "Sorry, The maximum items for question poll is %s items."
+msgstr ""
+
+#: shortcodes/question.php:2012
+#, php-format
+msgid "Sorry, The minimum characters for question poll is %s."
+msgstr ""
+
+#: shortcodes/question.php:2015
+#, php-format
+msgid "Sorry, The maximum characters for question poll is %s."
+msgstr ""
+
+#: shortcodes/question.php:2038
+#, php-format
+msgid "Sorry, The minimum characters for question content is %s."
+msgstr ""
+
+#: shortcodes/question.php:2041
+#, php-format
+msgid "Sorry, The maximum characters for question content is %s."
+msgstr ""
+
+#: shortcodes/register.php:98
+#, php-format
+msgid "By registering, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr ""
+
+#: shortcodes/register.php:160
+msgid "Please enter your name."
+msgstr ""
+
+#: shortcodes/register.php:163
+msgid "Please enter your name without any spaces."
+msgstr ""
+
+#: shortcodes/register.php:166
+msgid "Please enter your email."
+msgstr ""
+
+#: shortcodes/register.php:169
+msgid "Please enter your password."
+msgstr ""
+
+#: shortcodes/register.php:172
+msgid "Please rewrite password."
+msgstr ""
+
+#: shortcodes/register.php:188
+msgid "This username is already registered."
+msgstr ""
+
+#: shortcodes/register.php:194
+msgid "This email is already registered."
+msgstr ""
+
+#: shortcodes/register.php:201
+msgid ""
+"Sorry, This email or domain are not allowing to register, Please try another email."
+msgstr ""
+
+#: shortcodes/register.php:217
+msgid "Error:"
+msgstr ""
+
+#: shortcodes/register.php:217
+msgid "Sorry, You can not register, Please contact the webmaster"
+msgstr ""
+
+#: shortcodes/register.php:239
+msgid "Check your email please to activate your membership."
+msgstr ""
+
+#: shortcodes/register.php:336
+msgid "Under review"
+msgstr ""
+
+#: shortcodes/register.php:343
+msgid "Activation"
+msgstr ""
+
+#: shortcodes/register.php:382
+msgid "Welcome"
+msgstr ""
+
+#: shortcodes/register.php:521
+msgid "Profile Picture"
+msgstr ""
+
+#: shortcodes/register.php:541
+msgid "Cover Picture"
+msgstr ""
+
+#: shortcodes/register.php:645
+msgid "There are required fields (Nickname)."
+msgstr ""
+
+#: shortcodes/register.php:648
+msgid "There are required fields (First name)."
+msgstr ""
+
+#: shortcodes/register.php:651
+msgid "There are required fields (Last name)."
+msgstr ""
+
+#: shortcodes/register.php:654
+msgid "There are required fields (Display name)."
+msgstr ""
+
+#: shortcodes/register.php:658
+msgid "There are required fields (Profile picture)."
+msgstr ""
+
+#: shortcodes/register.php:661
+msgid "There are required fields (Cover picture)."
+msgstr ""
+
+#: shortcodes/register.php:668 shortcodes/register.php:679
+msgid "Error type, Please upload: jpg, jpeg or png"
+msgstr ""
+
+#: shortcodes/register.php:670 shortcodes/register.php:681
+#, php-format
+msgid "Error size, The maximum size is %s MB."
+msgstr ""
+
+#: shortcodes/register.php:686
+msgid "There are required fields (Country)."
+msgstr ""
+
+#: shortcodes/register.php:689
+msgid "There are required fields (City)."
+msgstr ""
+
+#: shortcodes/register.php:692
+msgid "There are required fields (Phone)."
+msgstr ""
+
+#: shortcodes/register.php:695
+msgid "There are required fields (Gender)."
+msgstr ""
+
+#: shortcodes/register.php:698
+msgid "There are required fields (Age)."
+msgstr ""
+
+#: shortcodes/register.php:734 shortcodes/register.php:768
+msgid "Error in upload the image : "
+msgstr ""
+
+#: shortcodes/register.php:793
+msgid "Need An Account,"
+msgstr ""
+
+#: shortcodes/register.php:799
+msgid "Don't have account,"
+msgstr ""
+
+#: templates/buy-points.php:27
+msgid "You have got a new free points."
+msgstr ""
+
+#: templates/buy-points.php:50
+#, php-format
+msgid "Please make a payment to buy %s points %s."
+msgstr ""
+
+#: templates/profile/content.php:61
+msgid "Sorry, You don't moderator yet."
+msgstr ""
+
+#: templates/profile/content.php:64 templates/profile/content.php:308
+msgid "Sorry, is this private page."
+msgstr ""
+
+#: templates/profile/content.php:143
+msgid "You have added your Facebook link."
+msgstr ""
+
+#: templates/profile/content.php:145
+msgid "You have added your Twitter link."
+msgstr ""
+
+#: templates/profile/content.php:147
+msgid "You have added your Youtube link."
+msgstr ""
+
+#: templates/profile/content.php:149
+msgid "You have added your Vimeo link."
+msgstr ""
+
+#: templates/profile/content.php:151
+msgid "You have added your Linkedin link."
+msgstr ""
+
+#: templates/profile/content.php:153
+msgid "You have added your Instagram link."
+msgstr ""
+
+#: templates/profile/content.php:155
+msgid "You have added your Pinterest link."
+msgstr ""
+
+#: templates/profile/content.php:157
+msgid "You have removed your Facebook link."
+msgstr ""
+
+#: templates/profile/content.php:159
+msgid "You have removed your Twitter link."
+msgstr ""
+
+#: templates/profile/content.php:161
+msgid "You have removed your Youtube link."
+msgstr ""
+
+#: templates/profile/content.php:163
+msgid "You have removed your Vimeo link."
+msgstr ""
+
+#: templates/profile/content.php:165
+msgid "You have removed your Linkedin link."
+msgstr ""
+
+#: templates/profile/content.php:167
+msgid "You have removed your Instagram link."
+msgstr ""
+
+#: templates/profile/content.php:169
+msgid "You have removed your Pinterest link."
+msgstr ""
+
+#: templates/profile/content.php:171
+msgid "You have stickied your question by points."
+msgstr ""
+
+#: templates/profile/content.php:173
+msgid "You have bought to ask question by points."
+msgstr ""
+
+#: templates/profile/content.php:175
+msgid "You have bought new points."
+msgstr ""
+
+#: templates/profile/content.php:177
+msgid "Voted your question."
+msgstr ""
+
+#: templates/profile/content.php:179
+msgid "Voted your answer."
+msgstr ""
+
+#: templates/profile/content.php:181
+msgid "User followed You."
+msgstr ""
+
+#: templates/profile/content.php:183
+msgid "User unfollowed You."
+msgstr ""
+
+#: templates/profile/content.php:185
+msgid "Discount points to bump question."
+msgstr ""
+
+#: templates/profile/content.php:187
+msgid "Chosen your answer best answer."
+msgstr ""
+
+#: templates/profile/content.php:189
+msgid "Canceled your answer best answer."
+msgstr ""
+
+#: templates/profile/content.php:191
+msgid "You have answered the question."
+msgstr ""
+
+#: templates/profile/content.php:195
+msgid "Deleted your question."
+msgstr ""
+
+#: templates/profile/content.php:197
+msgid "Added a new post."
+msgstr ""
+
+#: templates/profile/content.php:199
+msgid "Gift of the site."
+msgstr ""
+
+#: templates/profile/content.php:201
+msgid "Referral a new user."
+msgstr ""
+
+#: templates/profile/content.php:203
+msgid "You have charged points for ask a question."
+msgstr ""
+
+#: templates/profile/content.php:209
+msgid "Your point back because the best answer was selected."
+msgstr ""
+
+#: templates/profile/content.php:211
+msgid "Your point removed because the best answer was removed."
+msgstr ""
+
+#: templates/profile/content.php:213
+msgid "Your answer was removed."
+msgstr ""
+
+#: templates/profile/content.php:215
+msgid "Deleted your best answer."
+msgstr ""
+
+#: templates/profile/content.php:217
+msgid "Deleted your following user."
+msgstr ""
+
+#: templates/profile/content.php:242
+msgid "There are no points yet."
+msgstr ""
+
+#: templates/profile/content.php:300
+msgid "There are no best answers yet."
+msgstr ""
+
+#: templates/profile/content.php:300
+msgid "There are no answers yet"
+msgstr ""
+
+#: templates/profile/content.php:300
+msgid "There are no comments yet"
+msgstr ""
+
+#: templates/profile/content.php:310
+msgid "Sorry, this page is not found."
+msgstr ""
+
+#: templates/profile/follow.php:62 templates/profile/follow.php:65
+#: templates/profile/head.php:77
+msgid "User doesn't have any followers yet."
+msgstr ""
+
+#: templates/profile/follow.php:62 templates/profile/follow.php:65
+#: templates/profile/head.php:107
+msgid "User doesn't follow anyone."
+msgstr ""
+
+#: templates/profile/head-tabs.php:15
+msgid "About"
+msgstr ""
+
+#: templates/profile/head-tabs.php:36
+msgid "Favorite Questions"
+msgstr ""
+
+#: templates/profile/head-tabs.php:38
+msgid "Followed Questions"
+msgstr ""
+
+#: templates/profile/head.php:105
+msgid "Member"
+msgid_plural "Members"
+msgstr[0] ""
+msgstr[1] ""
+
+#: templates/profile/messages.php:20
+msgid "inbox"
+msgstr ""
+
+#: templates/profile/messages.php:21
+msgid "Sent"
+msgstr ""
+
+#: templates/profile/messages.php:88
+msgid "Added a message on"
+msgstr ""
+
+#: templates/profile/messages.php:101
+msgid "View the message"
+msgstr ""
+
+#: templates/profile/referrals.php:40
+msgid "Send a referral by email or share it with your firends."
+msgstr ""
+
+#: templates/profile/referrals.php:46
+msgid "Send an email"
+msgstr ""
+
+#: templates/profile/referrals.php:53
+msgid "Share the referral link on social media."
+msgstr ""
+
+#: templates/profile/referrals.php:58
+msgid "Copy and paste your referral link anywhere."
+msgstr ""
+
+#: templates/profile/referrals.php:60
+msgid "Copy"
+msgstr ""
+
+#: templates/profile/referrals.php:78
+msgid "Invitations Sent"
+msgstr ""
+
+#: templates/profile/referrals.php:87
+msgid "Pending"
+msgstr ""
+
+#: templates/profile/referrals.php:96
+msgid "Completed"
+msgstr ""
+
+#: templates/profile/referrals.php:106
+msgid "Earned"
+msgstr ""
+
+#: templates/profile/referrals.php:145
+msgid "Status"
+msgstr ""
+
+#: templates/profile/referrals.php:146
+msgid "Action"
+msgstr ""
+
+#: templates/profile/referrals.php:163
+msgid "Resend"
+msgstr ""
+
+#: templates/search-form.php:56
+msgid "Hit enter to search"
+msgstr ""
+
+#: templates/search.php:110
+msgid "Search results"
+msgstr ""
+
+#: templates/subscriptions.php:29
+msgid "You have a paid membership already."
+msgstr ""
+
+#: templates/subscriptions.php:38
+msgid "3 Months"
+msgstr ""
+
+#: templates/subscriptions.php:39
+msgid "6 Months"
+msgstr ""
+
+#: templates/subscriptions.php:40
+msgid "Yearly"
+msgstr ""
+
+#: templates/subscriptions.php:43
+msgid "Can ask a question."
+msgstr ""
+
+#: templates/subscriptions.php:44
+msgid "Can show questions."
+msgstr ""
+
+#: templates/subscriptions.php:45
+msgid "Can add an answer."
+msgstr ""
+
+#: templates/subscriptions.php:46
+msgid "Can show answers."
+msgstr ""
+
+#: templates/subscriptions.php:47
+msgid "Can add a post."
+msgstr ""
+
+#: templates/subscriptions.php:48
+msgid "Can add a category."
+msgstr ""
+
+#: templates/subscriptions.php:49
+msgid "Can send message."
+msgstr ""
+
+#: templates/subscriptions.php:50
+msgid "Can can upload files."
+msgstr ""
+
+#: templates/subscriptions.php:51
+msgid "Can get approve to your questions auto."
+msgstr ""
+
+#: templates/subscriptions.php:52
+msgid "Can get approve to your answers auto."
+msgstr ""
+
+#: templates/subscriptions.php:53
+msgid "Can get approve to your posts auto."
+msgstr ""
+
+#: templates/subscriptions.php:54
+msgid "Can get approve to your comments auto."
+msgstr ""
+
+#: templates/subscriptions.php:55
+msgid "Can get approve to your questions auto when have media attached."
+msgstr ""
+
+#: templates/subscriptions.php:56
+msgid "Can get approve to your answers auto when have media attached."
+msgstr ""
+
+#: templates/subscriptions.php:57
+msgid "You will not see any ads at the site."
+msgstr ""
+
+#: templates/subscriptions.php:65
+msgid "Paid"
+msgstr ""
+
+#: templates/subscriptions.php:87 templates/subscriptions.php:89
+msgid "Subscribe"
+msgstr ""
+
+#: templates/subscriptions.php:93
+#, php-format
+msgid "Please make a payment to buy paid membership %s."
+msgstr ""
+
+#: widgets/activities.php:43
+msgid "Activities log"
+msgstr ""
+
+#: widgets/buttons.php:39
+msgid "Add A New Post"
+msgstr ""
+
+#: widgets/buttons.php:49
+msgid "Create A New Account"
+msgstr ""
+
+#: widgets/buttons.php:54
+msgid "Ask A Question"
+msgstr ""
+
+#: widgets/profile_strength.php:127
+msgid "Profile Strength"
+msgstr ""
+
+#: widgets/profile_strength.php:130
+msgid "You must have a total score of 100 for your profile."
+msgstr ""
+
+#: widgets/profile_strength.php:133
+#, php-format
+msgid "%s step left!"
+msgid_plural "%s steps left!"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/profile_strength.php:142
+msgid "Upload your avatar image"
+msgstr ""
+
+#: widgets/profile_strength.php:144
+msgid "Upload your cover image"
+msgstr ""
+
+#: widgets/profile_strength.php:146
+msgid "Add your profile credential"
+msgstr ""
+
+#: widgets/profile_strength.php:148
+#, php-format
+msgid "Follow %s categories"
+msgstr ""
+
+#: widgets/profile_strength.php:150
+#, php-format
+msgid "Follow %s users"
+msgstr ""
+
+#: widgets/profile_strength.php:152
+msgid "Ask your first question"
+msgstr ""
+
+#: widgets/profile_strength.php:154
+#, php-format
+msgid "Answer %s questions"
+msgstr ""
+
+#: widgets/profile_strength.php:159
+msgid "Start Now"
+msgstr ""
+
+#: widgets/questions_categories.php:80
+msgid "Questions Categories"
+msgstr ""
+
+#: widgets/questions_categories.php:133 widgets/questions_categories.php:148
+#, php-format
+msgid "View all questions under %s"
+msgstr ""
+
+#: widgets/related_questions.php:108
+msgid "Related Questions"
+msgstr ""
+
+#: widgets/stats.php:41
+msgid "Stats"
+msgstr ""
+
+#: widgets/stats.php:93
+msgid "User"
+msgid_plural "Users"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/tabs.php:84
+msgid "No answers"
+msgstr ""
+
+#: widgets/tabs.php:84
+msgid "No comments"
+msgstr ""
+
+#: widgets/tabs.php:84
+msgid "Most voted"
+msgstr ""
+
+#: widgets/tabs.php:84
+msgid "Most visited"
+msgstr ""
+
+#: widgets/tabs.php:84
+msgid "Most rated"
+msgstr ""
+
+#: widgets/tabs.php:84
+msgid "Rand"
+msgstr ""
+
+#: widgets/tabs.php:84
+msgid "Recent"
+msgstr ""

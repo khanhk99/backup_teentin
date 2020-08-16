@@ -1,0 +1,5214 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpqa\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-08 04:14+0200\n"
+"PO-Revision-Date: 2020-04-08 04:14+0200\n"
+"Last-Translator: Ahmed Hassan <2codeThemes@gmail.com>\n"
+"Language-Team: العربية\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;_e;__;esc_attr__;esc_attr_e;"
+"esc_html__;esc_html_e;_n:1,2;_n_noop:1,2;_nx:1,2;_nx_noop:1,2;_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.3\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100 >= 3 "
+"&& n%100<=10 ? 3 : n%100 >= 11 && n%100<=99 ? 4 : 5;\n"
+"X-Poedit-SearchPath-0: languages\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: functions/ajax-action.php:586
+msgid "Sorry was mistake, This is not a your question."
+msgstr "آسف هناك خطأ ، هذا ليس سؤالك."
+
+#: functions/ajax-action.php:589 functions/ajax-action.php:591
+msgid "You must enter a numeric value and a value greater than zero."
+msgstr "يجب إدخال قيمة رقمية وتكون أكبر من الصفر."
+
+#: functions/ajax-action.php:607
+msgid "Your points are insufficient."
+msgstr "نقاطك غير كافية."
+
+#: functions/ajax-action.php:653
+msgid "Question report"
+msgstr "تبليغ عن سؤال"
+
+#: functions/ajax-action.php:689
+msgid "Your reported will be reviewed shortly, The question is under review."
+msgstr "‫سوف يتم مراجعه بلاغك قريبا، السؤال تحت المراجعة الآن."
+
+#: functions/ajax-action.php:693 functions/ajax-action.php:789
+#: functions/comments.php:319 functions/functions.php:2335
+#: templates/profile/messages.php:61
+msgid "Has been deleted successfully."
+msgstr "تم الحذف بنجاح."
+
+#: functions/ajax-action.php:701 functions/ajax-action.php:797
+#: includes/class-wpqa.php:184
+msgid "Thank you, your reported will be reviewed shortly."
+msgstr "شكرا لك، سوف يتم مراجعه بلاغك قريبا."
+
+#: functions/ajax-action.php:751
+msgid "Answer report"
+msgstr "تبليغ عن إجابة"
+
+#: functions/ajax-action.php:785
+msgid "Your reported will be reviewed shortly, The answer is under review."
+msgstr "‫سوف يتم مراجعه بلاغك قريبا، الإجابة تحت المراجعة الآن."
+
+#: functions/ajax-action.php:1292 functions/ajax-action.php:1324
+#: functions/ajax-action.php:1347 functions/ajax-action.php:1376
+msgid "View all results."
+msgstr "عرض كل النتائج."
+
+#: functions/ajax-action.php:1369
+msgid "Some suggested questions for you"
+msgstr "بعض الأسئلة المقترحة لك"
+
+#: functions/ajax-action.php:1390 shortcodes/question.php:264
+msgid "No results found."
+msgstr "لا يوجد نتائج."
+
+#: functions/categories.php:67 functions/cover.php:204
+#: templates/profile/head.php:75 widgets/questions_categories.php:137
+#: widgets/questions_categories.php:153
+msgid "Follower"
+msgid_plural "Followers"
+msgstr[0] "‫‫متابعون"
+msgstr[1] "‫‫متابع"
+msgstr[2] "‫‫متابعين"
+msgstr[3] "‫‫متابعون"
+msgstr[4] "‫‫متابع"
+msgstr[5] "‫‫متابع"
+
+#: functions/categories.php:69 functions/comments.php:1042
+#: functions/functions.php:1410 functions/functions.php:1671
+#: functions/functions.php:1786 functions/functions.php:4623
+#: functions/questions.php:809 widgets/stats.php:76
+msgid "Answer"
+msgid_plural "Answers"
+msgstr[0] "‫إجابات"
+msgstr[1] "إجابة"
+msgstr[2] "‫إجابات"
+msgstr[3] "‫إجابات"
+msgstr[4] "‫إجابة"
+msgstr[5] "‫إجابة"
+
+#: functions/categories.php:70 functions/cover.php:205
+#: functions/functions.php:1649 functions/functions.php:1781
+#: functions/functions.php:4611 functions/post_type.php:64
+#: functions/post_type.php:184 functions/post_type.php:268
+#: widgets/questions_categories.php:46 widgets/questions_categories.php:134
+#: widgets/questions_categories.php:194 widgets/stats.php:70
+msgid "Question"
+msgid_plural "Questions"
+msgstr[0] "‫أسئلة"
+msgstr[1] "سؤال"
+msgstr[2] "سؤال"
+msgstr[3] "سؤال"
+msgstr[4] "سؤال"
+msgstr[5] "سؤال"
+
+#: functions/categories.php:228 functions/categories.php:229
+#: functions/functions.php:1879 functions/functions.php:1881
+#: includes/class-wpqa.php:179
+msgid "Unfollow"
+msgstr "إلغاء متابعة"
+
+#: functions/categories.php:228 functions/categories.php:229
+#: functions/functions.php:1890 functions/functions.php:1892
+#: includes/class-wpqa.php:178
+msgid "Follow"
+msgstr "متابعة"
+
+#: functions/categories.php:320 functions/categories.php:321
+#: functions/categories.php:335
+msgid "Categories"
+msgstr "الأقسام"
+
+#: functions/categories.php:371 functions/categories.php:470
+msgid "categories"
+msgstr "الأقسام"
+
+#: functions/categories.php:388 functions/categories.php:459
+#: functions/messages.php:73 functions/post_type.php:165
+#: functions/questions.php:300 functions/questions.php:352
+#: payments/payments.php:1198 payments/payments.php:1248
+msgid "Author"
+msgstr "العضو"
+
+#: functions/categories.php:389 functions/categories.php:460
+#: functions/messages.php:75 functions/post_type.php:169
+#: functions/questions.php:301 functions/questions.php:353
+#: payments/payments.php:1200 payments/payments.php:1250
+msgid "Date"
+msgstr "التاريخ"
+
+#: functions/categories.php:390 functions/categories.php:461
+#: functions/post_type.php:166 shortcodes/post.php:197
+#: shortcodes/question.php:444
+msgid "Category"
+msgstr "القسم"
+
+#: functions/categories.php:391 functions/categories.php:462
+msgid "Accept/Reject"
+msgstr "موافقة/رفض"
+
+#: functions/categories.php:404 functions/questions.php:336
+msgid "ago"
+msgstr "فائتة"
+
+#: functions/categories.php:430
+msgid "You have rejected the category for this user"
+msgstr "قمت برفض القسم لهذا العضو"
+
+#: functions/categories.php:432
+msgid "You have accepted the category for this user"
+msgstr "قمت بالموافقة علي القسم لهذا العضو"
+
+#: functions/categories.php:435
+msgid "Accept the category"
+msgstr "الموافقة علي القسم"
+
+#: functions/categories.php:440
+msgid "Reject the category"
+msgstr "رفض القسم"
+
+#: functions/categories.php:453
+msgid "There are no categories yet."
+msgstr "لا يوجد أقسام حتي الآن."
+
+#: functions/check-account.php:39
+msgid ""
+"Your account is under review, When the admin approved it will send mail to "
+"you."
+msgstr ""
+"عضويتك تحت المراجعة، عندما يتم الموافقة عليها سوف نرسل لك بريد إلكتروني."
+
+#: functions/check-account.php:67 shortcodes/register.php:251
+msgid "New user for review"
+msgstr "عضو جديد للمراجعة"
+
+#: functions/check-account.php:73
+msgid ""
+"Your membership was activated, But it need a review first, When the admin "
+"approved it will send mail to you."
+msgstr ""
+"عضويتك تم تفعيلها، ولكنها تحت المرجعة الآن، عندما يتم الموافقة عليها سوف نرسل "
+"لك بريد إلكتروني."
+
+#: functions/check-account.php:75
+msgid "Your membership was activated."
+msgstr "عضويتك الآن مفعلة."
+
+#: functions/check-account.php:81
+#, php-format
+msgid ""
+"Your confirmation link has expired or not valid, Please request a new link, "
+"kindly %1$s Click here %2$s to re-send another confirmation mail."
+msgstr ""
+"رابط التفعيل منتهي او غير صالح، من فضلك قم بطلب رابط جديد، من فضلك %1$s أضغط "
+"هنا %2$s لطلب رابط جديد للتفعيل."
+
+#: functions/check-account.php:94 shortcodes/profile.php:678
+#: shortcodes/register.php:234
+msgid "Confirm account"
+msgstr "تفعيل العضوية"
+
+#: functions/check-account.php:99
+msgid "Check your mail again."
+msgstr "أفحص بريدك الإلكتروني مرة آخري."
+
+#: functions/check-account.php:104
+#, php-format
+msgid ""
+"A confirmation mail has been sent to your registered email account, If you "
+"have not received the confirmation mail, kindly %1$s Click here %2$s to re-"
+"send another confirmation mail."
+msgstr ""
+"‫‫رسالة التفعيل تم أرسالها علي بريدك الإلكتروني، في حالة عدم وصول رسالة "
+"التفعيل، من فضلك %1$s أضغط هنا %2$s لأرسال رسالة آخري."
+
+#: functions/check-account.php:114
+msgid ""
+"You have banned from the site, you can contact to the admin to know the "
+"resone or to tell him to remove the ban."
+msgstr ""
+"أنت محظور من الموقع، تستطيع التواصل مع المدير لمعرفة السبب أو لإخباره فك "
+"الحظر."
+
+#: functions/check-account.php:120
+#, php-format
+msgid ""
+"You are already logged in, you have activated your membership, go to your "
+"%1$s profile. %2$s"
+msgstr ""
+"‫‫أنت مسجل دخولك بالفعل، انت مفعل عضويتك بالفعل، أذهب إلي %1$s ملفك الشخصي. %2$s"
+
+#: functions/comments.php:15 functions/comments.php:1123
+#: functions/filters.php:78 functions/functions.php:3212 functions/menu.php:247
+#: functions/rewrite.php:1436 templates/profile/head-tabs.php:42
+#: templates/search-form.php:82 templates/search-form.php:110
+#: widgets/comments.php:39 widgets/tabs.php:86
+msgid "Comments"
+msgstr "تعليقات"
+
+#: functions/comments.php:16 functions/comments.php:1124
+#: functions/filters.php:70 functions/functions.php:3205 functions/menu.php:222
+#: functions/post_type.php:168 functions/questions.php:191
+#: functions/questions.php:227 functions/rewrite.php:1416
+#: templates/profile/head-tabs.php:27 templates/search-form.php:74
+#: templates/search-form.php:104 widgets/tabs.php:86
+msgid "Answers"
+msgstr "إجابات"
+
+#: functions/comments.php:41 functions/comments.php:43 functions/comments.php:53
+#: functions/comments.php:55
+#, php-format
+msgid "%1$s ERROR %2$s: Robot verification failed, Please try again."
+msgstr "‫‫‏‫%1$s خطأ %2$s: أختار مربع التحقق خطأ، برجاء المحاولة مرة آخري."
+
+#: functions/comments.php:61 functions/comments.php:63
+#, php-format
+msgid "%1$s ERROR %2$s: Please check on the reCAPTCHA box."
+msgstr "‫‏‫%1$s خطأ %2$s: من فضلك أختار مربع التحقق."
+
+#: functions/comments.php:70 functions/comments.php:72
+#, php-format
+msgid "%1$s ERROR %2$s: please type a captcha."
+msgstr "‫‏‫%1$s خطأ %2$s: من فضلك أكتب كلمة التحقق."
+
+#: functions/comments.php:79 functions/comments.php:81 functions/comments.php:88
+#: functions/comments.php:90 functions/functions.php:86
+#: functions/functions.php:91 includes/class-wpqa.php:154
+msgid "The captcha is incorrect, Please try again."
+msgstr "كلمة التحقق خطأ، برجاء المحاولة مرة آخري."
+
+#: functions/comments.php:103
+msgid "You have already answered this question."
+msgstr "قمت بالإجابة علي السؤال بالفعل."
+
+#: functions/comments.php:110 functions/comments.php:919
+#: shortcodes/question.php:2047
+msgid "There are required fields (Video ID)."
+msgstr "‫‫‫‫يوجد حقول أجبارية (ID الفيديو)."
+
+#: functions/comments.php:119 functions/comments.php:940
+#: shortcodes/question.php:1344 shortcodes/question.php:1866
+msgid "Attachment Error, Please upload image only."
+msgstr "‫خطأ في المرفق، رجاء أستخدام صور فقط."
+
+#: functions/comments.php:138 includes/class-wpqa.php:153
+#: shortcodes/post.php:632 shortcodes/question.php:2053
+#: shortcodes/register.php:184
+msgid "There are required fields (Agree of the terms)."
+msgstr "‫‫‫‫يوجد حقول أجبارية (الموافقة علي الشروط)."
+
+#: functions/comments.php:196
+msgid "Attachment Error:"
+msgstr "‫خطأ في المرفق:"
+
+#: functions/comments.php:234
+msgid "Your answer was successfully added."
+msgstr "‫تم إضافة إجابتك بنجاح."
+
+#: functions/comments.php:237
+msgid "Your answer was successfully added, It's under review."
+msgstr "‫‫تمت إضافة الإجابة بنجاح, الإجابة تحت المراجعة الآن."
+
+#: functions/comments.php:263
+msgid "New comment for review"
+msgstr "تعليق جديد للمراجعة"
+
+#: functions/comments.php:393 functions/comments.php:397
+#: functions/functions.php:2802 shortcodes/question.php:592
+#: shortcodes/question.php:598 shortcodes/question.php:605
+msgid "Attachment"
+msgstr "المرفق"
+
+#: functions/comments.php:393 functions/comments.php:419
+#: functions/functions.php:2864 functions/questions.php:320
+#: functions/questions.php:687 functions/review.php:25 shortcodes/post.php:220
+#: shortcodes/profile.php:448 shortcodes/question.php:592
+#: shortcodes/question.php:598 shortcodes/question.php:620
+#: shortcodes/register.php:516 shortcodes/register.php:537
+#: templates/profile/messages.php:115
+msgid "Delete"
+msgstr "حذف"
+
+#: functions/comments.php:401 functions/comments.php:429
+#: includes/class-wpqa.php:180 shortcodes/post.php:229
+#: shortcodes/question.php:515 shortcodes/question.php:542
+#: shortcodes/question.php:565 shortcodes/question.php:632
+#: shortcodes/register.php:525 shortcodes/register.php:545
+msgid "Select file"
+msgstr "أختار الملف"
+
+#: functions/comments.php:402 functions/comments.php:430
+#: includes/class-wpqa.php:181 shortcodes/post.php:230
+#: shortcodes/question.php:516 shortcodes/question.php:543
+#: shortcodes/question.php:566 shortcodes/question.php:633
+#: shortcodes/register.php:526 shortcodes/register.php:546
+msgid "Browse"
+msgstr "‫تصفح"
+
+#: functions/comments.php:425 shortcodes/post.php:225
+#: shortcodes/question.php:626
+msgid "Featured image"
+msgstr "‫الصورة البارزة"
+
+#: functions/comments.php:454
+msgid "Answer Anonymously"
+msgstr "‫أجب متخفيا"
+
+#: functions/comments.php:458
+msgid "answers"
+msgstr "يجيب"
+
+#: functions/comments.php:461 functions/functions.php:623
+#: functions/functions.php:1061 functions/functions.php:1361
+#: functions/functions.php:1364 functions/functions.php:2653
+#: functions/mails.php:87 functions/mails.php:88 functions/mails.php:89
+#: functions/mails.php:90 functions/mails.php:91 functions/mails.php:150
+#: functions/post_type.php:196 functions/post_type.php:199
+#: shortcodes/question.php:731
+msgid "Anonymous"
+msgstr "مجهول"
+
+#: functions/comments.php:462
+msgid "Anonymous answers"
+msgstr "مجهول يجيب"
+
+#: functions/comments.php:491
+#, php-format
+msgid "By answering, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr "‫بالإجابة في الموقع، انت توافق علي %1$s شروط الخدمة %2$s %3$s."
+
+#: functions/comments.php:491
+#, php-format
+msgid "By commenting, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr "‫بالتعليق في الموقع، انت توافق علي %1$s شروط الخدمة %2$s %3$s."
+
+#: functions/comments.php:491 shortcodes/post.php:265
+#: shortcodes/question.php:753 shortcodes/register.php:98
+#, php-format
+msgid "and %1$s Privacy Policy %2$s"
+msgstr "و %1$s سياسة الخصوصية %2$s"
+
+#: functions/comments.php:531 shortcodes/question.php:664
+msgid "Add a video to describe the problem better."
+msgstr "‫‫أضف فيديو لتوضيح المشكله بشكل افضل."
+
+#: functions/comments.php:537 shortcodes/question.php:670
+msgid "Video type"
+msgstr "نوع الفيديو"
+
+#: functions/comments.php:547 shortcodes/question.php:680
+msgid "Choose from here the video type."
+msgstr "‫أختار من هنا نوع الفيديو."
+
+#: functions/comments.php:551 shortcodes/question.php:684
+msgid "Video ID"
+msgstr "‫ID الفيديو"
+
+#: functions/comments.php:554 shortcodes/question.php:687
+msgid ""
+"Put here the video id : https://www.youtube.com/watch?v=sdUUx5FdySs Ex: "
+"'sdUUx5FdySs'."
+msgstr ""
+"ضع من هنا ID الفيديو : https://www.youtube.com/watch?v=sdUUx5FdySs EX: "
+"‘sdUUx5FdySs’."
+
+#: functions/comments.php:642
+msgid "Answer to your question"
+msgstr "إجابة علي سؤالك"
+
+#: functions/comments.php:657
+msgid "Hi there"
+msgstr "السلام عليكم"
+
+#: functions/comments.php:823
+#, php-format
+msgid "%s Reply"
+msgid_plural "%s Replies"
+msgstr[0] "‫%s رد"
+msgstr[1] "‫%s رد"
+msgstr[2] "‫%s رد"
+msgstr[3] "‫%s ردود"
+msgstr[4] "‫%s رد"
+msgstr[5] "‫%s رد"
+
+#: functions/comments.php:861 shortcodes/post.php:467
+#: shortcodes/question.php:1005 shortcodes/question.php:1579
+msgid "Has been edited successfully."
+msgstr "‫تم التعديل بنجاح."
+
+#: functions/comments.php:863
+msgid "Your answer was successfully edited, It's under review."
+msgstr "‫‫تمت تعديل الإجابة بنجاح, الإجابة تحت المراجعة الآن."
+
+#: functions/comments.php:900 functions/comments.php:909
+#: functions/comments.php:912 functions/comments.php:915
+#: functions/comments.php:919 functions/messages.php:322
+#: functions/messages.php:336 functions/messages.php:338
+#: functions/messages.php:341 functions/messages.php:343
+#: functions/messages.php:345 functions/messages.php:349
+#: functions/messages.php:350 functions/messages.php:351
+#: functions/messages.php:356 functions/messages.php:360
+#: shortcodes/category.php:88 shortcodes/category.php:93
+#: shortcodes/category.php:99 shortcodes/login.php:118
+#: shortcodes/password.php:66 shortcodes/post.php:330 shortcodes/post.php:334
+#: shortcodes/post.php:336 shortcodes/post.php:339 shortcodes/post.php:340
+#: shortcodes/post.php:341 shortcodes/post.php:503 shortcodes/post.php:511
+#: shortcodes/post.php:514 shortcodes/post.php:615 shortcodes/post.php:619
+#: shortcodes/post.php:624 shortcodes/profile.php:530 shortcodes/profile.php:534
+#: shortcodes/profile.php:537 shortcodes/profile.php:543
+#: shortcodes/profile.php:546 shortcodes/profile.php:549
+#: shortcodes/profile.php:552 shortcodes/profile.php:555
+#: shortcodes/profile.php:558 shortcodes/profile.php:561
+#: shortcodes/profile.php:564 shortcodes/profile.php:567
+#: shortcodes/question.php:1058 shortcodes/question.php:1074
+#: shortcodes/question.php:1076 shortcodes/question.php:1079
+#: shortcodes/question.php:1082 shortcodes/question.php:1085
+#: shortcodes/question.php:1090 shortcodes/question.php:1093
+#: shortcodes/question.php:1094 shortcodes/question.php:1095
+#: shortcodes/question.php:1634 shortcodes/question.php:1645
+#: shortcodes/question.php:1648 shortcodes/question.php:1939
+#: shortcodes/question.php:1943 shortcodes/question.php:1946
+#: shortcodes/question.php:1952 shortcodes/question.php:1958
+#: shortcodes/question.php:1971 shortcodes/question.php:1974
+#: shortcodes/question.php:1980 shortcodes/question.php:1983
+#: shortcodes/question.php:1999 shortcodes/question.php:2002
+#: shortcodes/question.php:2006 shortcodes/question.php:2009
+#: shortcodes/question.php:2012 shortcodes/question.php:2015
+#: shortcodes/question.php:2019 shortcodes/question.php:2028
+#: shortcodes/question.php:2038 shortcodes/question.php:2041
+#: shortcodes/question.php:2047 shortcodes/register.php:157
+#: shortcodes/register.php:645 shortcodes/register.php:648
+#: shortcodes/register.php:651 shortcodes/register.php:654
+#: shortcodes/register.php:658 shortcodes/register.php:661
+#: shortcodes/register.php:686 shortcodes/register.php:689
+#: shortcodes/register.php:692 shortcodes/register.php:695
+#: shortcodes/register.php:698
+msgid "Error"
+msgstr "خطأ"
+
+#: functions/comments.php:900
+msgid "There are an error, Please try again."
+msgstr "يوجد خطأ، برجاء المحاولة مرة آخري."
+
+#: functions/comments.php:909 shortcodes/comment.php:65
+msgid "You are not allowed to edit this comment."
+msgstr "غير مسموح لك بتعديل هذا التعليق."
+
+#: functions/comments.php:912 shortcodes/comment.php:68
+msgid "Sorry no comment has you select or not found."
+msgstr "‫عفوا لا يوجد تعليق قمت بتحديده أو لم يتم العثور عليه."
+
+#: functions/comments.php:915
+msgid "There are required fields (comment)."
+msgstr "‫‫يوجد حقول أجبارية ( تعليق )."
+
+#: functions/comments.php:946 shortcodes/post.php:399 shortcodes/post.php:557
+#: shortcodes/question.php:1351 shortcodes/question.php:1873
+msgid "Attachment Error: "
+msgstr "خطأ في المرفق: "
+
+#: functions/comments.php:1024 functions/comments.php:1029
+msgid "Best answer?"
+msgstr "أفضل إجابة؟"
+
+#: functions/comments.php:1028
+msgid "Answer/Comment"
+msgstr "إجابة/تعليق"
+
+#: functions/comments.php:1044 functions/functions.php:1410
+#: functions/functions.php:1640 functions/functions.php:1775
+#: shortcodes/comment.php:42 widgets/stats.php:79
+msgid "Comment"
+msgid_plural "Comments"
+msgstr[0] "تعليق"
+msgstr[1] "تعليق"
+msgstr[2] "‫تعليقات"
+msgstr[3] "‫تعليقات"
+msgstr[4] "تعليق"
+msgstr[5] "تعليق"
+
+#: functions/comments.php:1050 includes/class-wpqa.php:174
+msgid "Best answer"
+msgstr "أفضل إجابة"
+
+#: functions/comments.php:1052
+msgid "Not best answer"
+msgstr "ليست أفضل إجابة"
+
+#: functions/comments.php:1077 functions/post_type.php:342
+msgid "Reason if you need to remove it."
+msgstr "سبب الحذف لو تريد كتابته."
+
+#: functions/comments.php:1082
+msgid "Reason:"
+msgstr "السبب:"
+
+#: functions/comments.php:1090 functions/post_type.php:348
+msgid "Delete?"
+msgstr "حذف؟"
+
+#: functions/cover.php:192 functions/functions.php:3051
+#: functions/functions.php:3055 functions/rewrite.php:1446
+#: shortcodes/profile.php:100
+msgid "Edit profile"
+msgstr "تعديل الملف الشخصي"
+
+#: functions/cover.php:195 functions/functions.php:1720 functions/review.php:37
+#: includes/class-wpqa.php:197
+msgid "Unban user"
+msgstr "إلغاء حظر العضو"
+
+#: functions/cover.php:195 functions/functions.php:1720 functions/review.php:37
+#: includes/class-wpqa.php:196
+msgid "Ban user"
+msgstr "حظر العضو"
+
+#: functions/cover.php:202 functions/functions.php:1760
+#: functions/functions.php:3061
+msgid "Ask"
+msgstr "أسال"
+
+#: functions/filters.php:56
+msgid "Search ..."
+msgstr "بحث …."
+
+#: functions/filters.php:63 templates/search-form.php:67
+msgid "Select kind of search"
+msgstr "أختار نوع البحث"
+
+#: functions/filters.php:68 functions/functions.php:2095
+#: functions/functions.php:2972 functions/functions.php:3204
+#: functions/menu.php:202 functions/post_type.php:59 functions/post_type.php:61
+#: functions/post_type.php:62 functions/post_type.php:63
+#: functions/questions.php:190 functions/questions.php:229
+#: functions/rewrite.php:1414 templates/profile/head-tabs.php:21
+#: templates/search-form.php:72 templates/search-form.php:103
+msgid "Questions"
+msgstr "أسئلة"
+
+#: functions/filters.php:72 templates/search-form.php:76
+msgid "Question categories"
+msgstr "‫أقسام للأسئلة"
+
+#: functions/filters.php:74 templates/search-form.php:78
+msgid "Question tags"
+msgstr "‫كلمات ديليلة للأسئلة"
+
+#: functions/filters.php:76 functions/functions.php:3211 functions/menu.php:242
+#: functions/rewrite.php:1434 templates/profile/head-tabs.php:40
+#: templates/search-form.php:80 templates/search-form.php:109
+#: widgets/posts.php:72
+msgid "Posts"
+msgstr "مقالات"
+
+#: functions/filters.php:80 templates/search-form.php:84
+msgid "Post categories"
+msgstr "أقسام للمقالات"
+
+#: functions/filters.php:82 templates/search-form.php:86
+msgid "Post tags"
+msgstr "كلمات ديليلة للمقالات"
+
+#: functions/filters.php:84 templates/search-form.php:88 widgets/users.php:50
+msgid "Users"
+msgstr "الأعضاء"
+
+#: functions/filters.php:89 functions/functions.php:2919
+#: functions/rewrite.php:2046 templates/search-form.php:117
+msgid "Search"
+msgstr "بحث"
+
+#: functions/filters.php:99
+msgid "Afghanistan"
+msgstr "أفغانستان"
+
+#: functions/filters.php:100
+msgid "&#197;land Islands"
+msgstr "&#197 جزر ايسلندا"
+
+#: functions/filters.php:101
+msgid "Albania"
+msgstr "ألبانيا"
+
+#: functions/filters.php:102
+msgid "Algeria"
+msgstr "الجزائر"
+
+#: functions/filters.php:103
+msgid "Andorra"
+msgstr "أندورا"
+
+#: functions/filters.php:104
+msgid "Angola"
+msgstr "أنغولا"
+
+#: functions/filters.php:105
+msgid "Anguilla"
+msgstr "أنغيلا"
+
+#: functions/filters.php:106
+msgid "Antarctica"
+msgstr "القطب الجنوبي"
+
+#: functions/filters.php:107
+msgid "Antigua and Barbuda"
+msgstr "أنتيغوا وبربودا"
+
+#: functions/filters.php:108
+msgid "Argentina"
+msgstr "الأرجنتين"
+
+#: functions/filters.php:109
+msgid "Armenia"
+msgstr "أرمينيا"
+
+#: functions/filters.php:110
+msgid "Aruba"
+msgstr "أروبا"
+
+#: functions/filters.php:111
+msgid "Australia"
+msgstr "أستراليا"
+
+#: functions/filters.php:112
+msgid "Austria"
+msgstr "النمسا"
+
+#: functions/filters.php:113
+msgid "Azerbaijan"
+msgstr "أذربيجان"
+
+#: functions/filters.php:114
+msgid "Bahamas"
+msgstr "الباهاما"
+
+#: functions/filters.php:115
+msgid "Bahrain"
+msgstr "البحرين"
+
+#: functions/filters.php:116
+msgid "Bangladesh"
+msgstr "بنغلاديش"
+
+#: functions/filters.php:117
+msgid "Barbados"
+msgstr "بربادوس"
+
+#: functions/filters.php:118
+msgid "Belarus"
+msgstr "روسيا البيضاء"
+
+#: functions/filters.php:119
+msgid "Belgium"
+msgstr "بلجيكا"
+
+#: functions/filters.php:120
+msgid "Belau"
+msgstr "بيلاو"
+
+#: functions/filters.php:121
+msgid "Belize"
+msgstr "بيليز"
+
+#: functions/filters.php:122
+msgid "Benin"
+msgstr "بنين"
+
+#: functions/filters.php:123
+msgid "Bermuda"
+msgstr "برمودا"
+
+#: functions/filters.php:124
+msgid "Bhutan"
+msgstr "بوتان"
+
+#: functions/filters.php:125
+msgid "Bolivia"
+msgstr "بوليفيا"
+
+#: functions/filters.php:126
+msgid "Bonaire, Saint Eustatius and Saba"
+msgstr "بونير وسانت أوستاتيوس وسابا"
+
+#: functions/filters.php:127
+msgid "Bosnia and Herzegovina"
+msgstr "البوسنة و الهرسك"
+
+#: functions/filters.php:128
+msgid "Botswana"
+msgstr "بوتسوانا"
+
+#: functions/filters.php:129
+msgid "Bouvet Island"
+msgstr "جزيرة بوفيت"
+
+#: functions/filters.php:130
+msgid "Brazil"
+msgstr "البرازيل"
+
+#: functions/filters.php:131
+msgid "British Indian Ocean Territory"
+msgstr "إقليم المحيط الهندي البريطاني"
+
+#: functions/filters.php:132
+msgid "British Virgin Islands"
+msgstr "جزر فيرجن البريطانية"
+
+#: functions/filters.php:133
+msgid "Brunei"
+msgstr "بروناي"
+
+#: functions/filters.php:134
+msgid "Bulgaria"
+msgstr "بلغاريا"
+
+#: functions/filters.php:135
+msgid "Burkina Faso"
+msgstr "بوركينا فاسو"
+
+#: functions/filters.php:136
+msgid "Burundi"
+msgstr "بوروندي"
+
+#: functions/filters.php:137
+msgid "Cambodia"
+msgstr "كمبوديا"
+
+#: functions/filters.php:138
+msgid "Cameroon"
+msgstr "الكاميرون"
+
+#: functions/filters.php:139
+msgid "Canada"
+msgstr "كندا"
+
+#: functions/filters.php:140
+msgid "Cape Verde"
+msgstr "الرأس الأخضر"
+
+#: functions/filters.php:141
+msgid "Cayman Islands"
+msgstr "جزر كايمان"
+
+#: functions/filters.php:142
+msgid "Central African Republic"
+msgstr "جمهورية افريقيا الوسطى"
+
+#: functions/filters.php:143
+msgid "Chad"
+msgstr "تشاد"
+
+#: functions/filters.php:144
+msgid "Chile"
+msgstr "تشيلي"
+
+#: functions/filters.php:145
+msgid "China"
+msgstr "الصين"
+
+#: functions/filters.php:146
+msgid "Christmas Island"
+msgstr "جزيرة الكريسماس"
+
+#: functions/filters.php:147
+msgid "Cocos (Keeling) Islands"
+msgstr "جزر كوكوس (كيلينغ)"
+
+#: functions/filters.php:148
+msgid "Colombia"
+msgstr "كولومبيا"
+
+#: functions/filters.php:149
+msgid "Comoros"
+msgstr "جزر القمر"
+
+#: functions/filters.php:150
+msgid "Congo (Brazzaville)"
+msgstr "الكونغو (برازافيل)"
+
+#: functions/filters.php:151
+msgid "Congo (Kinshasa)"
+msgstr "الكونغو (كينشاسا)"
+
+#: functions/filters.php:152
+msgid "Cook Islands"
+msgstr "جزر كوك"
+
+#: functions/filters.php:153
+msgid "Costa Rica"
+msgstr "كوستا ريكا"
+
+#: functions/filters.php:154
+msgid "Croatia"
+msgstr "كرواتيا"
+
+#: functions/filters.php:155
+msgid "Cuba"
+msgstr "كوبا"
+
+#: functions/filters.php:156
+msgid "Cura&Ccedil;ao"
+msgstr "كورا & Ccedil، AO"
+
+#: functions/filters.php:157
+msgid "Cyprus"
+msgstr "قبرص"
+
+#: functions/filters.php:158
+msgid "Czech Republic"
+msgstr "جمهورية التشيك"
+
+#: functions/filters.php:159
+msgid "Denmark"
+msgstr "الدنمارك"
+
+#: functions/filters.php:160
+msgid "Djibouti"
+msgstr "جيبوتي"
+
+#: functions/filters.php:161
+msgid "Dominica"
+msgstr "دومينيكا"
+
+#: functions/filters.php:162
+msgid "Dominican Republic"
+msgstr "جمهورية الدومينيكان"
+
+#: functions/filters.php:163
+msgid "Ecuador"
+msgstr "الإكوادور"
+
+#: functions/filters.php:164
+msgid "Egypt"
+msgstr "مصر"
+
+#: functions/filters.php:165
+msgid "El Salvador"
+msgstr "السلفادور"
+
+#: functions/filters.php:166
+msgid "Equatorial Guinea"
+msgstr "غينيا الإستوائية"
+
+#: functions/filters.php:167
+msgid "Eritrea"
+msgstr "إريتريا"
+
+#: functions/filters.php:168
+msgid "Estonia"
+msgstr "استونيا"
+
+#: functions/filters.php:169
+msgid "Ethiopia"
+msgstr "أثيوبيا"
+
+#: functions/filters.php:170
+msgid "Falkland Islands"
+msgstr "جزر فوكلاند"
+
+#: functions/filters.php:171
+msgid "Faroe Islands"
+msgstr "جزر فاروي"
+
+#: functions/filters.php:172
+msgid "Fiji"
+msgstr "فيجي"
+
+#: functions/filters.php:173
+msgid "Finland"
+msgstr "فنلندا"
+
+#: functions/filters.php:174
+msgid "France"
+msgstr "فرنسا"
+
+#: functions/filters.php:175
+msgid "French Guiana"
+msgstr "غيانا الفرنسية"
+
+#: functions/filters.php:176
+msgid "French Polynesia"
+msgstr "بولينزيا الفرنسية"
+
+#: functions/filters.php:177
+msgid "French Southern Territories"
+msgstr "المناطق الجنوبية لفرنسا"
+
+#: functions/filters.php:178
+msgid "Gabon"
+msgstr "الغابون"
+
+#: functions/filters.php:179
+msgid "Gambia"
+msgstr "غامبيا"
+
+#: functions/filters.php:180
+msgid "Georgia"
+msgstr "جورجيا"
+
+#: functions/filters.php:181
+msgid "Germany"
+msgstr "ألمانيا"
+
+#: functions/filters.php:182
+msgid "Ghana"
+msgstr "غانا"
+
+#: functions/filters.php:183
+msgid "Gibraltar"
+msgstr "جبل طارق"
+
+#: functions/filters.php:184
+msgid "Greece"
+msgstr "اليونان"
+
+#: functions/filters.php:185
+msgid "Greenland"
+msgstr "جرينلاند"
+
+#: functions/filters.php:186
+msgid "Grenada"
+msgstr "غرينادا"
+
+#: functions/filters.php:187
+msgid "Guadeloupe"
+msgstr "جوادلوب"
+
+#: functions/filters.php:188
+msgid "Guatemala"
+msgstr "غواتيمالا"
+
+#: functions/filters.php:189
+msgid "Guernsey"
+msgstr "غيرنسي"
+
+#: functions/filters.php:190
+msgid "Guinea"
+msgstr "غينيا"
+
+#: functions/filters.php:191
+msgid "Guinea-Bissau"
+msgstr "غينيا بيساو"
+
+#: functions/filters.php:192
+msgid "Guyana"
+msgstr "غيانا"
+
+#: functions/filters.php:193
+msgid "Haiti"
+msgstr "هايتي"
+
+#: functions/filters.php:194
+msgid "Heard Island and McDonald Islands"
+msgstr "جزيرة هيرد وجزر ماكدونالد"
+
+#: functions/filters.php:195
+msgid "Honduras"
+msgstr "هندوراس"
+
+#: functions/filters.php:196
+msgid "Hong Kong"
+msgstr "هونغ كونغ"
+
+#: functions/filters.php:197
+msgid "Hungary"
+msgstr "هنغاريا"
+
+#: functions/filters.php:198
+msgid "Iceland"
+msgstr "أيسلندا"
+
+#: functions/filters.php:199
+msgid "India"
+msgstr "الهند"
+
+#: functions/filters.php:200
+msgid "Indonesia"
+msgstr "أندونيسيا"
+
+#: functions/filters.php:201
+msgid "Iran"
+msgstr "إيران"
+
+#: functions/filters.php:202
+msgid "Iraq"
+msgstr "العراق"
+
+#: functions/filters.php:203
+msgid "Republic of Ireland"
+msgstr "جمهورية أيرلندا"
+
+#: functions/filters.php:204
+msgid "Isle of Man"
+msgstr "جزيرة الرجل"
+
+#: functions/filters.php:205
+msgid "Israel"
+msgstr "إسرائيل"
+
+#: functions/filters.php:206
+msgid "Italy"
+msgstr "إيطاليا"
+
+#: functions/filters.php:207
+msgid "Ivory Coast"
+msgstr "ساحل العاج"
+
+#: functions/filters.php:208
+msgid "Jamaica"
+msgstr "جامايكا"
+
+#: functions/filters.php:209
+msgid "Japan"
+msgstr "اليابان"
+
+#: functions/filters.php:210
+msgid "Jersey"
+msgstr "جيرسي"
+
+#: functions/filters.php:211
+msgid "Jordan"
+msgstr "الأردن"
+
+#: functions/filters.php:212
+msgid "Kazakhstan"
+msgstr "كازاخستان"
+
+#: functions/filters.php:213
+msgid "Kenya"
+msgstr "كينيا"
+
+#: functions/filters.php:214
+msgid "Kiribati"
+msgstr "كيريباس"
+
+#: functions/filters.php:215
+msgid "Kuwait"
+msgstr "الكويت"
+
+#: functions/filters.php:216
+msgid "Kyrgyzstan"
+msgstr "قرغيزستان"
+
+#: functions/filters.php:217
+msgid "Laos"
+msgstr "لاوس"
+
+#: functions/filters.php:218
+msgid "Latvia"
+msgstr "لاتفيا"
+
+#: functions/filters.php:219
+msgid "Lebanon"
+msgstr "لبنان"
+
+#: functions/filters.php:220
+msgid "Lesotho"
+msgstr "ليسوتو"
+
+#: functions/filters.php:221
+msgid "Liberia"
+msgstr "ليبيريا"
+
+#: functions/filters.php:222
+msgid "Libya"
+msgstr "ليبيا"
+
+#: functions/filters.php:223
+msgid "Liechtenstein"
+msgstr "ليختنشتاين"
+
+#: functions/filters.php:224
+msgid "Lithuania"
+msgstr "ليتوانيا"
+
+#: functions/filters.php:225
+msgid "Luxembourg"
+msgstr "لوكسمبورغ"
+
+#: functions/filters.php:226
+msgid "Macao S.A.R., China"
+msgstr "ماكاو إس آر ، الصين"
+
+#: functions/filters.php:227
+msgid "Macedonia"
+msgstr "مقدونيا"
+
+#: functions/filters.php:228
+msgid "Madagascar"
+msgstr "مدغشقر"
+
+#: functions/filters.php:229
+msgid "Malawi"
+msgstr "مالاوي"
+
+#: functions/filters.php:230
+msgid "Malaysia"
+msgstr "ماليزيا"
+
+#: functions/filters.php:231
+msgid "Maldives"
+msgstr "جزر المالديف"
+
+#: functions/filters.php:232
+msgid "Mali"
+msgstr "مالي"
+
+#: functions/filters.php:233
+msgid "Malta"
+msgstr "مالطا"
+
+#: functions/filters.php:234
+msgid "Marshall Islands"
+msgstr "جزر مارشال"
+
+#: functions/filters.php:235
+msgid "Martinique"
+msgstr "مارتينيك"
+
+#: functions/filters.php:236
+msgid "Mauritania"
+msgstr "موريتانيا"
+
+#: functions/filters.php:237
+msgid "Mauritius"
+msgstr "موريشيوس"
+
+#: functions/filters.php:238
+msgid "Mayotte"
+msgstr "مايوت"
+
+#: functions/filters.php:239
+msgid "Mexico"
+msgstr "المكسيك"
+
+#: functions/filters.php:240
+msgid "Micronesia"
+msgstr "ميكرونيزيا"
+
+#: functions/filters.php:241
+msgid "Moldova"
+msgstr "مولدوفا"
+
+#: functions/filters.php:242
+msgid "Monaco"
+msgstr "موناكو"
+
+#: functions/filters.php:243
+msgid "Mongolia"
+msgstr "منغوليا"
+
+#: functions/filters.php:244
+msgid "Montenegro"
+msgstr "الجبل الأسود"
+
+#: functions/filters.php:245
+msgid "Montserrat"
+msgstr "مونتسيرات"
+
+#: functions/filters.php:246
+msgid "Morocco"
+msgstr "المغرب"
+
+#: functions/filters.php:247
+msgid "Mozambique"
+msgstr "موزمبيق"
+
+#: functions/filters.php:248
+msgid "Myanmar"
+msgstr "ميانمار"
+
+#: functions/filters.php:249
+msgid "Namibia"
+msgstr "ناميبيا"
+
+#: functions/filters.php:250
+msgid "Nauru"
+msgstr "ناورو"
+
+#: functions/filters.php:251
+msgid "Nepal"
+msgstr "نيبال"
+
+#: functions/filters.php:252
+msgid "Netherlands"
+msgstr "هولندا"
+
+#: functions/filters.php:253
+msgid "Netherlands Antilles"
+msgstr "جزر الأنتيل الهولندية"
+
+#: functions/filters.php:254
+msgid "New Caledonia"
+msgstr "كاليدونيا الجديدة"
+
+#: functions/filters.php:255
+msgid "New Zealand"
+msgstr "نيوزيلاندا"
+
+#: functions/filters.php:256
+msgid "Nicaragua"
+msgstr "نيكاراغوا"
+
+#: functions/filters.php:257
+msgid "Niger"
+msgstr "النيجر"
+
+#: functions/filters.php:258
+msgid "Nigeria"
+msgstr "نيجيريا"
+
+#: functions/filters.php:259
+msgid "Niue"
+msgstr "نيوي"
+
+#: functions/filters.php:260
+msgid "Norfolk Island"
+msgstr "جزيرة نورفولك"
+
+#: functions/filters.php:261
+msgid "North Korea"
+msgstr "كوريا الشمالية"
+
+#: functions/filters.php:262
+msgid "Norway"
+msgstr "النرويج"
+
+#: functions/filters.php:263
+msgid "Oman"
+msgstr "عمان"
+
+#: functions/filters.php:264
+msgid "Pakistan"
+msgstr "باكستان"
+
+#: functions/filters.php:265
+msgid "Palestinian Territory"
+msgstr "فلسطين"
+
+#: functions/filters.php:266
+msgid "Panama"
+msgstr "بنما"
+
+#: functions/filters.php:267
+msgid "Papua New Guinea"
+msgstr "بابوا غينيا الجديدة"
+
+#: functions/filters.php:268
+msgid "Paraguay"
+msgstr "باراغواي"
+
+#: functions/filters.php:269
+msgid "Peru"
+msgstr "بيرو"
+
+#: functions/filters.php:270
+msgid "Philippines"
+msgstr "الفليبين"
+
+#: functions/filters.php:271
+msgid "Pitcairn"
+msgstr "بيتكيرن"
+
+#: functions/filters.php:272
+msgid "Poland"
+msgstr "بولندا"
+
+#: functions/filters.php:273
+msgid "Portugal"
+msgstr "البرتغال"
+
+#: functions/filters.php:274
+msgid "Qatar"
+msgstr "قطر"
+
+#: functions/filters.php:275
+msgid "Reunion"
+msgstr "جزيرة ريونيون"
+
+#: functions/filters.php:276
+msgid "Romania"
+msgstr "رومانيا"
+
+#: functions/filters.php:277
+msgid "Russia"
+msgstr "روسيا"
+
+#: functions/filters.php:278
+msgid "Rwanda"
+msgstr "رواندا"
+
+#: functions/filters.php:279
+msgid "Saint Barth&eacute;lemy"
+msgstr "سانت بارتيليمي"
+
+#: functions/filters.php:280
+msgid "Saint Helena"
+msgstr "سانت هيلانا"
+
+#: functions/filters.php:281
+msgid "Saint Kitts and Nevis"
+msgstr "سانت كيتس ونيفيس"
+
+#: functions/filters.php:282
+msgid "Saint Lucia"
+msgstr "سانت لوسيا"
+
+#: functions/filters.php:283
+msgid "Saint Martin (French part)"
+msgstr "سانت مارتن (الجزء الفرنسي)"
+
+#: functions/filters.php:284
+msgid "Saint Martin (Dutch part)"
+msgstr "سانت مارتن (الجزء الهولندي)"
+
+#: functions/filters.php:285
+msgid "Saint Pierre and Miquelon"
+msgstr "سان بيير وميكلون"
+
+#: functions/filters.php:286
+msgid "Saint Vincent and the Grenadines"
+msgstr "سانت فنسنت وجزر غرينادين"
+
+#: functions/filters.php:287
+msgid "San Marino"
+msgstr "سان مارينو"
+
+#: functions/filters.php:288
+msgid "S&atilde;o Tom&eacute; and Pr&iacute;ncipe"
+msgstr "ساو تومي وبرينسيبي"
+
+#: functions/filters.php:289
+msgid "Saudi Arabia"
+msgstr "المملكة العربية السعودية"
+
+#: functions/filters.php:290
+msgid "Senegal"
+msgstr "السنغال"
+
+#: functions/filters.php:291
+msgid "Serbia"
+msgstr "صربيا"
+
+#: functions/filters.php:292
+msgid "Seychelles"
+msgstr "سيشيل"
+
+#: functions/filters.php:293
+msgid "Sierra Leone"
+msgstr "سيراليون"
+
+#: functions/filters.php:294
+msgid "Singapore"
+msgstr "سنغافورة"
+
+#: functions/filters.php:295
+msgid "Slovakia"
+msgstr "سولفكيا"
+
+#: functions/filters.php:296
+msgid "Slovenia"
+msgstr "سلوفينيا"
+
+#: functions/filters.php:297
+msgid "Solomon Islands"
+msgstr "جزر سليمان"
+
+#: functions/filters.php:298
+msgid "Somalia"
+msgstr "الصومال"
+
+#: functions/filters.php:299
+msgid "South Africa"
+msgstr "جنوب أفريقيا"
+
+#: functions/filters.php:300
+msgid "South Georgia/Sandwich Islands"
+msgstr "جورجيا الجنوبية وجزر الساندويتش"
+
+#: functions/filters.php:301
+msgid "South Korea"
+msgstr "كوريا الجنوبية"
+
+#: functions/filters.php:302
+msgid "South Sudan"
+msgstr "جنوب السودان"
+
+#: functions/filters.php:303
+msgid "Spain"
+msgstr "اسبانيا"
+
+#: functions/filters.php:304
+msgid "Sri Lanka"
+msgstr "سيريلانكا"
+
+#: functions/filters.php:305
+msgid "Sudan"
+msgstr "السودان"
+
+#: functions/filters.php:306
+msgid "Suriname"
+msgstr "سورينام"
+
+#: functions/filters.php:307
+msgid "Svalbard and Jan Mayen"
+msgstr "سفالبارد وجان مايان"
+
+#: functions/filters.php:308
+msgid "Swaziland"
+msgstr "سوازيلاند"
+
+#: functions/filters.php:309
+msgid "Sweden"
+msgstr "السويد"
+
+#: functions/filters.php:310
+msgid "Switzerland"
+msgstr "سويسرا"
+
+#: functions/filters.php:311
+msgid "Syria"
+msgstr "سورية"
+
+#: functions/filters.php:312
+msgid "Taiwan"
+msgstr "تايوان"
+
+#: functions/filters.php:313
+msgid "Tajikistan"
+msgstr "طاجيكستان"
+
+#: functions/filters.php:314
+msgid "Tanzania"
+msgstr "تنزانيا"
+
+#: functions/filters.php:315
+msgid "Thailand"
+msgstr "تايلاند"
+
+#: functions/filters.php:316
+msgid "Timor-Leste"
+msgstr "تيمور الشرقية"
+
+#: functions/filters.php:317
+msgid "Togo"
+msgstr "توجو"
+
+#: functions/filters.php:318
+msgid "Tokelau"
+msgstr "توكيلاو"
+
+#: functions/filters.php:319
+msgid "Tonga"
+msgstr "تونغا"
+
+#: functions/filters.php:320
+msgid "Trinidad and Tobago"
+msgstr "ترينداد وتوباغو"
+
+#: functions/filters.php:321
+msgid "Tunisia"
+msgstr "تونس"
+
+#: functions/filters.php:322
+msgid "Turkey"
+msgstr "تركيا"
+
+#: functions/filters.php:323
+msgid "Turkmenistan"
+msgstr "تركمانستان"
+
+#: functions/filters.php:324
+msgid "Turks and Caicos Islands"
+msgstr "جزر تركس وكايكوس"
+
+#: functions/filters.php:325
+msgid "Tuvalu"
+msgstr "توفالو"
+
+#: functions/filters.php:326
+msgid "Uganda"
+msgstr "أوغندا"
+
+#: functions/filters.php:327
+msgid "Ukraine"
+msgstr "أوكرانيا"
+
+#: functions/filters.php:328
+msgid "United Arab Emirates"
+msgstr "الإمارات العربية المتحدة"
+
+#: functions/filters.php:329
+msgid "United Kingdom (UK)"
+msgstr "المملكة المتحدة"
+
+#: functions/filters.php:330
+msgid "United States (US)"
+msgstr "الولايات المتحدة الأمريكية"
+
+#: functions/filters.php:331
+msgid "Uruguay"
+msgstr "اورجواي"
+
+#: functions/filters.php:332
+msgid "Uzbekistan"
+msgstr "أوزبكستان"
+
+#: functions/filters.php:333
+msgid "Vanuatu"
+msgstr "فانواتو"
+
+#: functions/filters.php:334
+msgid "Vatican"
+msgstr "الفاتيكان"
+
+#: functions/filters.php:335
+msgid "Venezuela"
+msgstr "فنزويلا"
+
+#: functions/filters.php:336
+msgid "Vietnam"
+msgstr "فيتنام"
+
+#: functions/filters.php:337
+msgid "Wallis and Futuna"
+msgstr "واليس وفوتونا"
+
+#: functions/filters.php:338
+msgid "Western Sahara"
+msgstr "الصحراء الغربية"
+
+#: functions/filters.php:339
+msgid "Western Samoa"
+msgstr "ساموا الغربية"
+
+#: functions/filters.php:340
+msgid "Yemen"
+msgstr "اليمن"
+
+#: functions/filters.php:341
+msgid "Zambia"
+msgstr "زامبيا"
+
+#: functions/filters.php:342
+msgid "Zimbabwe"
+msgstr "زيمبابوي"
+
+#: functions/filters.php:354 functions/functions.php:2823
+#: templates/profile/messages.php:111
+msgid "Reply"
+msgstr "رد"
+
+#: functions/functions.php:35 functions/functions.php:37
+#: functions/functions.php:45
+msgid "Captcha"
+msgstr "كلمة التحقق"
+
+#: functions/functions.php:45
+msgid "Click here to update the captcha"
+msgstr "أضغط هنا لتحديث كلمة التحقق"
+
+#: functions/functions.php:46
+msgid "Click on image to update the captcha."
+msgstr "أضغط علي الصورة لتحديث كلمة التحقق."
+
+#: functions/functions.php:68 functions/functions.php:75
+msgid "Robot verification failed, Please try again."
+msgstr "‫أختار مربع التحقق خطأ، برجاء المحاولة مرة آخري."
+
+#: functions/functions.php:78
+msgid "Please check on the reCAPTCHA box."
+msgstr "‫من فضلك أختار مربع التحقق."
+
+#: functions/functions.php:82
+msgid "There are required fields (captcha)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (كلمة التحقق)."
+
+#: functions/functions.php:270
+msgid "k"
+msgstr "ألف"
+
+#: functions/functions.php:272
+msgid "mil"
+msgstr "ميلون"
+
+#: functions/functions.php:274
+msgid "bil"
+msgstr "بيلون"
+
+#: functions/functions.php:367
+msgid "Edit User"
+msgstr "تعديل العضو"
+
+#: functions/functions.php:498 functions/functions.php:628
+#: functions/functions.php:840
+msgid "has"
+msgstr "قد"
+
+#: functions/functions.php:498 functions/functions.php:746
+msgid "sent a message for you."
+msgstr "أرسال رسالة لك."
+
+#: functions/functions.php:499 functions/functions.php:783
+#: functions/functions.php:984 functions/functions.php:1082
+#: templates/profile/content.php:233 templates/profile/messages.php:88
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "‫%1$s في %2$s"
+
+#: functions/functions.php:506
+msgid "Show all messages."
+msgstr "مشاهدة كل الرسائل."
+
+#: functions/functions.php:509 templates/profile/messages.php:133
+msgid "There are no messages yet."
+msgstr "لا يوجد رسائل حتي الآن."
+
+#: functions/functions.php:549 functions/functions.php:553
+msgid "Show all notifications."
+msgstr "مشاهده كل الأشعارات."
+
+#: functions/functions.php:556 templates/profile/content.php:242
+msgid "There are no notifications yet."
+msgstr "لا يوجد أشعارات حتي الآن."
+
+#: functions/functions.php:626
+msgid "A non-registered user"
+msgstr "زائر غير مسجل"
+
+#: functions/functions.php:632 functions/functions.php:842
+msgid "Deleted user"
+msgstr "عضو محذوف"
+
+#: functions/functions.php:654
+msgid "The administrator approved your category."
+msgstr "‫المدير وافق علي إضافة القسم."
+
+#: functions/functions.php:656
+msgid "The administrator rejected your category."
+msgstr "‫المدير رفض علي إضافة القسم."
+
+#: functions/functions.php:658
+msgid "polled at your question"
+msgstr "قام بالتصويت علي سؤالك"
+
+#: functions/functions.php:660
+msgid "Gift of the site"
+msgstr "هدية من الموقع"
+
+#: functions/functions.php:662
+msgid "referred a new user"
+msgstr "أحال عضو جديد"
+
+#: functions/functions.php:664 templates/profile/content.php:205
+msgid "The administrator added points for you."
+msgstr "‫المدير أضاف نقاط لك‫."
+
+#: functions/functions.php:666 templates/profile/content.php:207
+msgid "The administrator removed points from you."
+msgstr "‫المدير حذف نقاط منك."
+
+#: functions/functions.php:668
+msgid "voted up your question."
+msgstr "‫صوت لأعلي علي سؤالك."
+
+#: functions/functions.php:670
+msgid "voted down your question."
+msgstr "‫صوت لأسفل علي سؤالك."
+
+#: functions/functions.php:672
+msgid "voted up your answer."
+msgstr "‫‫صوت لأعلي علي إجابتك."
+
+#: functions/functions.php:674
+msgid "voted down your answer."
+msgstr "‫‫صوت لأسفل علي إجابتك."
+
+#: functions/functions.php:676
+msgid "followed you."
+msgstr "‫قام بمتابعتك."
+
+#: functions/functions.php:678
+msgid "unfollowed you."
+msgstr "‫قام بألغاء متابعتك."
+
+#: functions/functions.php:680
+msgid "Your point back because the best answer selected."
+msgstr "نقاطتك قد عادت لانه تم إختيار إجابتك أفضل إجابة."
+
+#: functions/functions.php:682
+msgid "chosen your answer best answer."
+msgstr "تم إختيار إجابتك أفضل إجابة."
+
+#: functions/functions.php:684
+msgid "Your point removed because the best answer removed."
+msgstr "نقاطتك تم خصمها لان إجابتك تم حذفها كأفضل إجابة."
+
+#: functions/functions.php:686
+msgid "canceled your answer best answer."
+msgstr "تم ألغاء إجابتك كأفضل إجابة."
+
+#: functions/functions.php:688
+msgid "answered at your asked question."
+msgstr "تم الإجابة علي السؤال الموجهه لك."
+
+#: functions/functions.php:690
+msgid "answered your question."
+msgstr "أجاب علي سؤالك."
+
+#: functions/functions.php:692
+msgid "answered your question you followed."
+msgstr "إجاب علي السؤال الذي تتابعه."
+
+#: functions/functions.php:694
+msgid "added a new question."
+msgstr "أضاف سؤال جديد."
+
+#: functions/functions.php:696
+msgid "asked you a question."
+msgstr "تم توجيه سؤال لك."
+
+#: functions/functions.php:698
+msgid "added your question to favorites."
+msgstr "أضاف سؤالك إلي المفضلة."
+
+#: functions/functions.php:700
+msgid "removed your question from favorites."
+msgstr "حذف سؤالك من المفضلة."
+
+#: functions/functions.php:702
+msgid "followed your question."
+msgstr "تابع سؤالك."
+
+#: functions/functions.php:704
+msgid "unfollowed your question."
+msgstr "ألغي متابعه سؤالك."
+
+#: functions/functions.php:706
+msgid "The administrator approved your answer."
+msgstr "‫المدير وافق علي إجابتك."
+
+#: functions/functions.php:708
+msgid "The administrator approved your comment."
+msgstr "‫المدير وافق علي تعليقك."
+
+#: functions/functions.php:711
+msgid "approved your question."
+msgstr "وافق علي سؤالك."
+
+#: functions/functions.php:713
+msgid "The administrator approved your question."
+msgstr "‫المدير وافق علي سؤالك."
+
+#: functions/functions.php:716
+msgid "The administrator approved your message."
+msgstr "‫المدير وافق علي رسالتك."
+
+#: functions/functions.php:718
+msgid "The administrator review your answer."
+msgstr "‫المدير يراجع علي إجابتك."
+
+#: functions/functions.php:720
+msgid "The administrator review your question."
+msgstr "‫‫المدير يراجع علي سؤالك."
+
+#: functions/functions.php:722
+msgid "The administrator approved your post."
+msgstr "‫المدير وافق علي مقالك."
+
+#: functions/functions.php:724 functions/functions.php:726
+#, php-format
+msgid "The administrator %s your %s."
+msgstr "المدير قام ب%s %s."
+
+#: functions/functions.php:724 functions/functions.php:764
+msgid "answer"
+msgstr "إجابة"
+
+#: functions/functions.php:724 functions/functions.php:764
+msgid "comment"
+msgstr "تعليق"
+
+#: functions/functions.php:726
+msgid "question"
+msgstr "سؤال"
+
+#: functions/functions.php:726
+msgid "post"
+msgstr "مقال"
+
+#: functions/functions.php:728
+#, php-format
+msgid "The administrator reason: %s."
+msgstr "سبب المدير: %s."
+
+#: functions/functions.php:732
+msgid "deleted your question."
+msgstr "حذف سؤالك."
+
+#: functions/functions.php:734
+msgid "Your question was deleted."
+msgstr "‫تم حذف سؤالك."
+
+#: functions/functions.php:737
+msgid "Your post was deleted."
+msgstr "‫تم حذف مقالك."
+
+#: functions/functions.php:741
+msgid "Your answer was deleted."
+msgstr "‫تم حذف إجابتك."
+
+#: functions/functions.php:743
+msgid "Your comment was deleted."
+msgstr "‫تم حذف تعليقك."
+
+#: functions/functions.php:748
+msgid "seen your message."
+msgstr "مشاهدة رسالتك."
+
+#: functions/functions.php:757 functions/functions.php:958
+msgid "( Spam )"
+msgstr "( مزعج )"
+
+#: functions/functions.php:759 functions/functions.php:769
+#: functions/functions.php:960 functions/functions.php:967
+msgid "( Trashed )"
+msgstr "( سلة المهملات )"
+
+#: functions/functions.php:761 functions/functions.php:771
+#: functions/functions.php:962 functions/functions.php:969
+msgid "( Deleted )"
+msgstr "( محذوف )"
+
+#: functions/functions.php:864
+msgid "Poll at question"
+msgstr "تصويت علي سؤالك"
+
+#: functions/functions.php:866
+msgid "Voted up question."
+msgstr "‫قمت بالتصويت لأعلي علي سؤال."
+
+#: functions/functions.php:868
+msgid "Voted down question."
+msgstr "‫قمت بالتصويت لأسفل علي سؤال."
+
+#: functions/functions.php:870
+msgid "Voted up answer."
+msgstr "‫قمت بالتصويت لأعلي علي إجابة."
+
+#: functions/functions.php:872
+msgid "Voted down answer."
+msgstr "‫قمت بالتصويت لأسفل علي إجابة."
+
+#: functions/functions.php:874
+msgid "You have followed"
+msgstr "قمت بمتابعة"
+
+#: functions/functions.php:876
+msgid "You have banned user"
+msgstr "‫‫‫قمت بحظر العضو"
+
+#: functions/functions.php:878
+msgid "You have unbanned user"
+msgstr "‫‫‫قمت بإلغاء حظر العضو"
+
+#: functions/functions.php:880
+msgid "You have unfollowed"
+msgstr "قمت بإلغاء متابعة"
+
+#: functions/functions.php:882 includes/class-wpqa.php:199
+msgid "You have bumped your question."
+msgstr "أنت قمت برفع سؤالك."
+
+#: functions/functions.php:884
+msgid "You have reported a question."
+msgstr "‫‫قمت بأبلاغ عن سؤال."
+
+#: functions/functions.php:886
+msgid "You have reported an answer."
+msgstr "‫‫قمت بأبلاغ عن إجابة."
+
+#: functions/functions.php:888
+msgid "You have chosen the best answer."
+msgstr "‫‫قمت بأختيار أفضل إجابة."
+
+#: functions/functions.php:890
+msgid "You have canceled the best answer."
+msgstr "قمت بألغاء إجابتك كأفضل إجابة."
+
+#: functions/functions.php:892
+msgid "You have closed the question."
+msgstr "‫‫‫قمت بأغلاق السؤال."
+
+#: functions/functions.php:894
+msgid "You have opend the question."
+msgstr "‫‫‫قمت بفتح السؤال."
+
+#: functions/functions.php:896
+msgid "You have followed the question."
+msgstr "‫‫قمت بمتابعة سؤال."
+
+#: functions/functions.php:898
+msgid "You have unfollowed the question."
+msgstr "قمت بإلغاء متابعة سؤال."
+
+#: functions/functions.php:900
+msgid "You have added a question at favorites."
+msgstr "‫قمت بأضافة سؤال إلي المفضلة."
+
+#: functions/functions.php:902
+msgid "You have removed a question from favorites."
+msgstr "‫قمت بحذف سؤال من المفضلة."
+
+#: functions/functions.php:904
+msgid "You have added an answer."
+msgstr "‫‫‫قمت بأضافة إجابة."
+
+#: functions/functions.php:906
+msgid "You have added a comment."
+msgstr "‫‫‫قمت بأضافة تعليق."
+
+#: functions/functions.php:908
+msgid "Your answere is pending for review."
+msgstr "‫إجابتك تحت المراجعة."
+
+#: functions/functions.php:910
+msgid "Your comment is pending for review."
+msgstr "‫تعليقك تحت المراجعة."
+
+#: functions/functions.php:912 templates/profile/content.php:193
+msgid "Added a new question."
+msgstr "تم أضافة سؤال جديد."
+
+#: functions/functions.php:914
+msgid "Add a new post."
+msgstr "أضف مقالة جديدة."
+
+#: functions/functions.php:916
+msgid "Your question is pending for review."
+msgstr "‫سؤالك تحت المراجعة."
+
+#: functions/functions.php:918
+msgid "Your message is pending for review."
+msgstr "‫رسالتك تحت المراجعة."
+
+#: functions/functions.php:920
+msgid "Your post is pending for review."
+msgstr "‫مقالك تحت المراجعة."
+
+#: functions/functions.php:922
+msgid "Your category is pending for review."
+msgstr "القسم تحت المراجعة."
+
+#: functions/functions.php:924
+msgid "You have deleted a question."
+msgstr "‫قمت بحذف سؤال."
+
+#: functions/functions.php:926
+msgid "You have deleted a post."
+msgstr "‫قمت بحذف مقال."
+
+#: functions/functions.php:928
+msgid "You have deleted an answer."
+msgstr "‫قمت بحذف إجابة."
+
+#: functions/functions.php:930
+msgid "You have deleted a comment."
+msgstr "‫قمت بحذف تعليق."
+
+#: functions/functions.php:932
+msgid "You have sent a message for"
+msgstr "‫قمت بحذف رسالة"
+
+#: functions/functions.php:943
+msgid "Delete user"
+msgstr "عضو محذوف"
+
+#: functions/functions.php:947
+msgid "You have deleted your inbox message"
+msgstr "‫قمت بحذف رسالتك المستقبلة"
+
+#: functions/functions.php:949
+msgid "You have deleted your sent message"
+msgstr "‫قمت بحذف رسالتك المرسلة"
+
+#: functions/functions.php:1013
+msgid "Show all activities."
+msgstr "مشاهدة كل الأنشطة."
+
+#: functions/functions.php:1016 templates/profile/content.php:242
+msgid "There are no activities yet."
+msgstr "لا يوجد أنشطة حتي الآن."
+
+#: functions/functions.php:1061 functions/functions.php:2653
+msgid "[Deleted User]"
+msgstr "‫[عضو محذوف]"
+
+#: functions/functions.php:1076
+msgid "added an answer"
+msgstr "‫أضاف إجابة"
+
+#: functions/functions.php:1076
+msgid "added a comment"
+msgstr "‫أضاف تعليق"
+
+#: functions/functions.php:1119 functions/functions.php:1429
+msgid "Explore Our Blog"
+msgstr "أستكشف مدونتنا"
+
+#: functions/functions.php:1401
+msgid "On"
+msgstr "‫في"
+
+#: functions/functions.php:1413
+#, php-format
+msgid "%s Answer"
+msgid_plural "%s Answers"
+msgstr[0] "0 إجابة"
+msgstr[1] "1 إجابة"
+msgstr[2] "إجابتين"
+msgstr[3] "‫%s إجابات"
+msgstr[4] "‏‫%s إجابة"
+msgstr[5] "‏‫%s إجابة"
+
+#: functions/functions.php:1413
+#, php-format
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "0 تعليق"
+msgstr[1] "1 تعليق"
+msgstr[2] "تعليقين"
+msgstr[3] "‏‫%s تعليقات"
+msgstr[4] "‏‫%s تعليق"
+msgstr[5] "‏‫%s تعليق"
+
+#: functions/functions.php:1601
+msgid "Visit site"
+msgstr "زيارة الموقع"
+
+#: functions/functions.php:1608 shortcodes/profile.php:886
+#: shortcodes/register.php:584
+msgid "Male"
+msgstr "ذكر"
+
+#: functions/functions.php:1608 shortcodes/profile.php:886
+#: shortcodes/register.php:588
+msgid "Female"
+msgstr "أنثي"
+
+#: functions/functions.php:1608 shortcodes/profile.php:886
+#: shortcodes/register.php:593
+msgid "Other"
+msgstr "آخر"
+
+#: functions/functions.php:1615
+msgid "years old"
+msgstr "سنة"
+
+#: functions/functions.php:1632 functions/functions.php:1770
+#: widgets/stats.php:73
+msgid "Post"
+msgid_plural "Posts"
+msgstr[0] "مقالات"
+msgstr[1] "مقال"
+msgstr[2] "مقالات"
+msgstr[3] "مقالات"
+msgstr[4] "مقال"
+msgstr[5] "مقال"
+
+#: functions/functions.php:1657 functions/functions.php:1792
+#: functions/functions.php:1823 functions/functions.php:2638
+#: functions/functions.php:4635 widgets/stats.php:83
+msgid "Best Answer"
+msgid_plural "Best Answers"
+msgstr[0] "أفضل إجابات"
+msgstr[1] "أفضل إجابة"
+msgstr[2] "أفضل إجابات"
+msgstr[3] "أفضل إجابة"
+msgstr[4] "أفضل إجابة"
+msgstr[5] "أفضل إجابة"
+
+#: functions/functions.php:1664 functions/functions.php:1798
+#: functions/functions.php:1830 functions/functions.php:4649
+#: shortcodes/register.php:399 shortcodes/register.php:414
+msgid "Point"
+msgid_plural "Points"
+msgstr[0] "نقاط"
+msgstr[1] "‫نقطة"
+msgstr[2] "نقطتين"
+msgstr[3] "نقاط"
+msgstr[4] "نقطة"
+msgstr[5] "نقاط"
+
+#: functions/functions.php:1744 templates/profile/referrals.php:144
+msgid "Email"
+msgstr "البريد الإلكتروني"
+
+#: functions/functions.php:1809
+msgid "View Profile"
+msgstr "زيارة الملف الشخصي"
+
+#: functions/functions.php:1857
+msgid "Send Message"
+msgstr "‫أرسل رسالة"
+
+#: functions/functions.php:1857
+msgid "Message"
+msgstr "‫أرسل رسالة"
+
+#: functions/functions.php:1869 functions/functions.php:2927
+#: functions/menu.php:72 functions/rewrite.php:2052 shortcodes/login.php:73
+#: widgets/buttons.php:44 widgets/login.php:34
+msgid "Login"
+msgstr "تسجيل دخول"
+
+#: functions/functions.php:1914
+msgid "Verified"
+msgstr "موثق"
+
+#: functions/functions.php:2031
+#, php-format
+msgid "%s post"
+msgstr "‫%s مقال"
+
+#: functions/functions.php:2031
+#, php-format
+msgid "%s posts"
+msgstr "‫%s مقالات"
+
+#: functions/functions.php:2037
+#, php-format
+msgid "%s question"
+msgstr "‫%s سؤال"
+
+#: functions/functions.php:2037
+#, php-format
+msgid "%s questions"
+msgstr "‫%s اسئلة"
+
+#: functions/functions.php:2097 functions/functions.php:3208
+#: functions/menu.php:197 functions/rewrite.php:1420
+#: templates/profile/referrals.php:148 templates/search-form.php:107
+msgid "Points"
+msgstr "نقاط"
+
+#: functions/functions.php:2100 shortcodes/profile.php:881
+#: shortcodes/register.php:573
+msgid "Phone"
+msgstr "التليفون"
+
+#: functions/functions.php:2103 payments/payments.php:334
+#: shortcodes/profile.php:869 shortcodes/register.php:554
+msgid "Country"
+msgstr "الدولة"
+
+#: functions/functions.php:2106 shortcodes/profile.php:877
+#: shortcodes/register.php:600
+msgid "Age"
+msgstr "العمر"
+
+#: functions/functions.php:2109
+msgid "Invitation"
+msgstr "الدعوات"
+
+#: functions/functions.php:2449 functions/messages.php:277
+msgid "New message"
+msgstr "رسالة جديدة"
+
+#: functions/functions.php:2685 functions/functions.php:2688
+msgid "Replied to"
+msgstr "رد علي"
+
+#: functions/functions.php:2685
+msgid "Added an"
+msgstr "‫أضاف"
+
+#: functions/functions.php:2686
+#, php-format
+msgid "answer on %1$s at %2$s"
+msgstr "‫‫إجابة يوم %1$s في %2$s"
+
+#: functions/functions.php:2688
+msgid "Added a"
+msgstr "‫أضاف"
+
+#: functions/functions.php:2689
+#, php-format
+msgid "comment on %1$s at %2$s"
+msgstr "‫‫تعليق يوم %1$s في %2$s"
+
+#: functions/functions.php:2701
+msgid "This answer was edited."
+msgstr "‫‫هذه الإجابة تم تعديلها."
+
+#: functions/functions.php:2703
+msgid "This comment was edited."
+msgstr "‫هذا التعليق تم تعديله."
+
+#: functions/functions.php:2710
+msgid "Your answer is awaiting moderation."
+msgstr "‫إجابتك قيد المراجعة."
+
+#: functions/functions.php:2712
+msgid "Your comment is awaiting moderation."
+msgstr "‫تعليقك قيد المراجعة."
+
+#: functions/functions.php:2783
+msgid "Read more"
+msgstr "‫اقرأ المزيد"
+
+#: functions/functions.php:2811 functions/questions.php:649
+msgid "Like"
+msgstr "أعجبني"
+
+#: functions/functions.php:2815 functions/questions.php:653
+msgid "Dislike"
+msgstr "لم يعجبنى"
+
+#: functions/functions.php:2823
+msgid "Login to Reply"
+msgstr "تسجيل دخول للرد"
+
+#: functions/functions.php:2834 functions/functions.php:4443
+#: templates/profile/referrals.php:54
+msgid "Share"
+msgstr "شارك"
+
+#: functions/functions.php:2845 includes/class-wpqa.php:173
+msgid "Cancel the best answer"
+msgstr "‫‫إلغاء أفضل إجابة"
+
+#: functions/functions.php:2848 includes/class-wpqa.php:172
+msgid "Select as best answer"
+msgstr "‫‫أختيار أفضل إجابة"
+
+#: functions/functions.php:2861 functions/post_type.php:102
+#: functions/post_type.php:128 functions/questions.php:684
+#: functions/review.php:22
+msgid "Edit"
+msgstr "تعديل"
+
+#: functions/functions.php:2868 functions/functions.php:3945
+#: functions/questions.php:299 functions/questions.php:351
+#: functions/questions.php:694
+msgid "Report"
+msgstr "إبلاغ"
+
+#: functions/functions.php:2892
+msgid "Home"
+msgstr "الرئيسية"
+
+#: functions/functions.php:2917
+msgid "Search results for "
+msgstr "نتائج البحث عن "
+
+#: functions/functions.php:2923 functions/menu.php:132
+#: functions/rewrite.php:2048 templates/subscriptions.php:32
+msgid "Subscriptions"
+msgstr "الأشتراكات"
+
+#: functions/functions.php:2925 functions/rewrite.php:2050
+#: payments/payments.php:41 templates/buy-points.php:32
+#: templates/buy-points.php:46
+msgid "Buy points"
+msgstr "‫شراء نقاط"
+
+#: functions/functions.php:2929 functions/menu.php:82 functions/rewrite.php:2054
+#: shortcodes/register.php:114 widgets/signup.php:34
+msgid "Signup"
+msgstr "سجل"
+
+#: functions/functions.php:2931 functions/rewrite.php:2056
+msgid "Lost password"
+msgstr "أسترجاع كلمة المرور"
+
+#: functions/functions.php:2937 functions/rewrite.php:2060
+msgid "Ask question"
+msgstr "‫أسأل سؤال"
+
+#: functions/functions.php:2937
+msgid "to"
+msgstr "الي"
+
+#: functions/functions.php:2939 functions/menu.php:107
+#: functions/rewrite.php:2058 shortcodes/profile.php:364
+msgid "Add category"
+msgstr "إضافة قسم"
+
+#: functions/functions.php:2941 functions/rewrite.php:2062
+msgid "Edit question"
+msgstr "تعديل سؤال"
+
+#: functions/functions.php:2943 functions/rewrite.php:2066
+msgid "Add post"
+msgstr "أضف مقال"
+
+#: functions/functions.php:2945 functions/rewrite.php:2068
+msgid "Edit post"
+msgstr "تعديل مقال"
+
+#: functions/functions.php:2947 functions/rewrite.php:2070
+msgid "Edit comment"
+msgstr "تعديل تعليق"
+
+#: functions/functions.php:2949 functions/rewrite.php:2064
+msgid "Edit tags"
+msgstr "تعديل الوسوم"
+
+#: functions/functions.php:2973
+msgid "Q"
+msgstr "س"
+
+#: functions/functions.php:3009
+msgid "Error 404"
+msgstr "‫خطأ 404"
+
+#: functions/functions.php:3030
+msgid "Posts tagged "
+msgstr "المقالات تحت "
+
+#: functions/functions.php:3032
+msgid "Error 404 "
+msgstr "‫خطأ 404 "
+
+#: functions/functions.php:3036
+msgid "Page"
+msgstr "صفحة"
+
+#: functions/functions.php:3052 shortcodes/profile.php:101
+msgid "Change Password"
+msgstr "تغير كلمة المرور"
+
+#: functions/functions.php:3098 functions/functions.php:3159 widgets/tabs.php:84
+msgid "Popular"
+msgstr "الشائع"
+
+#: functions/functions.php:3099 functions/functions.php:3160
+#: functions/functions.php:3210 functions/menu.php:157
+#: functions/rewrite.php:1398 templates/profile/head.php:57
+msgid "Followers"
+msgstr "‫‫متابعون"
+
+#: functions/functions.php:3100 functions/functions.php:3161
+#: functions/functions.php:3202 templates/search-form.php:101
+msgid "Name"
+msgstr "الأسم"
+
+#: functions/functions.php:3109 functions/post_type.php:98
+msgid "All Categories"
+msgstr "كل الأقسام"
+
+#: functions/functions.php:3129 functions/functions.php:3178
+#: functions/functions.php:3219
+msgid "Type to find..."
+msgstr "أكتب للبحث…."
+
+#: functions/functions.php:3201 templates/search-form.php:100
+msgid "Date Register"
+msgstr "تاريخ التسجيل"
+
+#: functions/functions.php:3203 templates/search-form.php:102
+msgid "ID"
+msgstr "‫ID"
+
+#: functions/functions.php:3206 functions/menu.php:227
+#: functions/rewrite.php:1418 templates/profile/head-tabs.php:23
+#: templates/search-form.php:105
+msgid "Best Answers"
+msgstr "أفضل إجابات"
+
+#: functions/functions.php:3248
+msgid "Next"
+msgstr "التالي"
+
+#: functions/functions.php:3262
+msgid "Closed"
+msgstr "مغلق"
+
+#: functions/functions.php:3264
+msgid "Answered"
+msgstr "مجاب"
+
+#: functions/functions.php:3266
+msgid "In Process"
+msgstr "قيد الأنتظار"
+
+#: functions/functions.php:3401
+msgid ""
+"Kindly fill the required fields, You need to fill all the required fields."
+msgstr "برجاء إدخال كل الحقول الإجبارية، تحتاج الي ملئ جميع الحقول الإجبارية."
+
+#: functions/functions.php:3598
+msgid "You just unlocked a new badge!"
+msgstr "لقد اكتسبت شارة جديدة!"
+
+#: functions/functions.php:3599
+#, php-format
+msgid ""
+"Woohoo! You've earned the %s badge%s, here's a new badge to celebrate! "
+"Looking for more? Browse the complete list of questions, or popular tags. "
+"Help us answer unanswered questions."
+msgstr ""
+"رائع! لقد حصلت على شارة %s %s ، إليك شارة جديدة للاحتفال! اتبحث عن المزيد؟ "
+"تصفح قائمة الأسئلة ، أو الكلمات الدليلية. ساعدنا في الإجابة على الأسئلة التي "
+"لم يتم الرد عليها."
+
+#: functions/functions.php:3599
+msgid "in the"
+msgstr "في"
+
+#: functions/functions.php:3599
+msgid "category"
+msgstr "القسم"
+
+#: functions/functions.php:3602
+msgid "Earn More Points!"
+msgstr "كسب مزيد من النقاط!"
+
+#: functions/functions.php:3626 functions/functions.php:3629
+#: functions/functions.php:3632 functions/functions.php:3644
+#: templates/subscriptions.php:83
+msgid "Sign Up"
+msgstr "تسجيل جديد"
+
+#: functions/functions.php:3649 shortcodes/login.php:244
+msgid "Have an account?"
+msgstr "هل لديك عضوية؟"
+
+#: functions/functions.php:3649 functions/functions.php:3689
+#: functions/functions.php:3692 functions/functions.php:3695
+#: functions/functions.php:3707
+msgid "Sign In"
+msgstr "تسجيل دخول"
+
+#: functions/functions.php:3712 shortcodes/register.php:793
+#: shortcodes/register.php:799
+msgid "Sign Up Here"
+msgstr "‫تسجيل جديد من هنا"
+
+#: functions/functions.php:3752 functions/functions.php:3755
+#: functions/functions.php:3758 functions/functions.php:3770
+msgid "Forgot Password"
+msgstr "نسيت كلمة المرور"
+
+#: functions/functions.php:3931
+msgid "Please briefly explain why you feel this answer should be reported."
+msgstr "برجاء توضيح اسباب شعورك انك بحاجة للابلاغ."
+
+#: functions/functions.php:3937
+msgid "Explain"
+msgstr "توضيح"
+
+#: functions/functions.php:4174
+msgid "No more comments"
+msgstr "‫لا يوجد المزيد من التعليقات"
+
+#: functions/functions.php:4175
+msgid "Load More Comments"
+msgstr "‫تحميل المزيد من التعليقات"
+
+#: functions/functions.php:4177
+msgid "No more answers"
+msgstr "‫لا يوجد المزيد من الإجابات"
+
+#: functions/functions.php:4178
+msgid "Load More Answers"
+msgstr "‫تحميل المزيد من الإجابات"
+
+#: functions/functions.php:4181
+msgid "No more questions"
+msgstr "‫لا يوجد المزيد من الأسئلة"
+
+#: functions/functions.php:4182
+msgid "Load More Questions"
+msgstr "‫تحميل المزيد من الأسئلة"
+
+#: functions/functions.php:4184
+msgid "No more posts"
+msgstr "‫لا يوجد المزيد من المقالات"
+
+#: functions/functions.php:4185
+msgid "Load More Posts"
+msgstr "‫تحميل المزيد من المقالات"
+
+#: functions/functions.php:4414
+msgid "Old Questions"
+msgstr "الأسئلة القديمة"
+
+#: functions/functions.php:4414
+msgid "Old Entries"
+msgstr "المقالات القديمة"
+
+#: functions/functions.php:4417
+msgid "New Questions"
+msgstr "‫الأسئلة الاحدث"
+
+#: functions/functions.php:4417
+msgid "New Entries"
+msgstr "المقالات الاحدث"
+
+#: functions/functions.php:4441
+msgid "Share This Article"
+msgstr "شارك هذا المقال"
+
+#: functions/functions.php:4450 functions/functions.php:4452
+#: functions/functions.php:4454 functions/functions.php:4456
+msgid "Share on"
+msgstr "شارك علي"
+
+#: functions/functions.php:4450 shortcodes/profile.php:149
+#: shortcodes/profile.php:845
+msgid "Facebook"
+msgstr "فيسبوك"
+
+#: functions/functions.php:4452 shortcodes/profile.php:155
+#: shortcodes/profile.php:841
+msgid "Twitter"
+msgstr "توتير"
+
+#: functions/functions.php:4454
+msgid "LinkedIn"
+msgstr "لينكد إن"
+
+#: functions/functions.php:4456
+msgid "WhatsApp"
+msgstr "واتس آب"
+
+#: functions/functions.php:4664
+msgid "has been qualified at the following categories"
+msgstr "مؤهل في الأقسام التالية"
+
+#: functions/functions.php:4664
+msgid "has been qualified at the following category"
+msgstr "مؤهل في القسم التالي"
+
+#: functions/functions.php:4676
+msgid "point"
+msgid_plural "points"
+msgstr[0] "نقاط"
+msgstr[1] "‫نقطة"
+msgstr[2] "نقطتين"
+msgstr[3] "نقاط"
+msgstr[4] "‫نقطة"
+msgstr[5] "‫نقطة"
+
+#: functions/mails.php:236
+msgid "Hello"
+msgstr "أهلا"
+
+#: functions/mails.php:356
+msgid "Hello there,"
+msgstr "السلام عليكم،"
+
+#: functions/mails.php:357
+msgid "A new post has been submitted in "
+msgstr "هناك مقالة جديدة تم إضافتها "
+
+#: functions/mails.php:357
+msgid " Please find details below:"
+msgstr " من فضلك أدخل البيانات في الأسفل:"
+
+#: functions/mails.php:374
+msgid "To take action (approve/reject)- please go here:"
+msgstr "لإتخاذ إجراء (الموافقة / الرفض) - يرجى الدخول إلى هنا:"
+
+#: functions/mails.php:377
+msgid "Thank You"
+msgstr "شكرا لك"
+
+#: functions/mails.php:378
+msgid "New Post Submission"
+msgstr "مقالة جديدة مضافة"
+
+#: functions/mails.php:388
+msgid "Recent questions"
+msgstr "آخر الاسئلة"
+
+#: functions/mails.php:411
+msgid "Once Weekly"
+msgstr "مره اسبوعيا"
+
+#: functions/mails.php:415
+msgid "Once Monthly"
+msgstr "مره شهريا"
+
+#: functions/menu.php:14
+msgid "WPQA - Custom Links"
+msgstr "‫WPQA - روابط خاصة"
+
+#: functions/menu.php:25
+msgid "Profile links"
+msgstr "روابط الملف الشخصي"
+
+#: functions/menu.php:34
+msgid "View All"
+msgstr "عرض الكل"
+
+#: functions/menu.php:46
+msgid "Select All"
+msgstr "أختار الكل"
+
+#: functions/menu.php:49
+msgid "Add to Menu"
+msgstr "أضف للقائمة"
+
+#: functions/menu.php:77
+msgid "Login Pop Up"
+msgstr "تسجيل دخول منبثق"
+
+#: functions/menu.php:87
+msgid "Signup Pop Up"
+msgstr "تسجيل جديد منبثق"
+
+#: functions/menu.php:92
+msgid "Lost Password"
+msgstr "أسترجاع كلمة المرور"
+
+#: functions/menu.php:97
+msgid "Lost Password Pop Up"
+msgstr "أسترجاع كلمة المرور منبثق"
+
+#: functions/menu.php:102 functions/menu.php:207 functions/rewrite.php:1422
+#: templates/profile/head-tabs.php:25
+msgid "Polls"
+msgstr "‫التصويتات"
+
+#: functions/menu.php:112
+msgid "Ask Question"
+msgstr "اسأل سؤال"
+
+#: functions/menu.php:117
+msgid "Ask Question Pop Up"
+msgstr "اسأل سؤال منبثق"
+
+#: functions/menu.php:122
+msgid "Add Post"
+msgstr "أضف مقال"
+
+#: functions/menu.php:127
+msgid "Add Post Pop Up"
+msgstr "أضف مقال منبثق"
+
+#: functions/menu.php:137
+msgid "Buy Points"
+msgstr "‫شراء نقاط"
+
+#: functions/menu.php:142
+msgid "Profile"
+msgstr "الملف الشخصي"
+
+#: functions/menu.php:147
+msgid "Edit Profile"
+msgstr "تعديل الملف الشخصي"
+
+#: functions/menu.php:152
+msgid "Delete Account"
+msgstr "حذف الملف الشخصي"
+
+#: functions/menu.php:162 functions/rewrite.php:1400
+#: templates/profile/head.php:88
+msgid "Following"
+msgstr "‫المتابعين"
+
+#: functions/menu.php:167
+msgid "Pending questions"
+msgstr "‫‫الأسئلة المعلقة"
+
+#: functions/menu.php:172
+msgid "Pending posts"
+msgstr "‫‫المقالات المعلقة"
+
+#: functions/menu.php:177 functions/rewrite.php:1406
+#: widgets/notifications.php:43
+msgid "Notifications"
+msgstr "الأشعارات"
+
+#: functions/menu.php:182 functions/rewrite.php:1408
+msgid "Activities"
+msgstr "الأنشطة"
+
+#: functions/menu.php:187 functions/rewrite.php:1410
+msgid "Referrals"
+msgstr "‫الإحالات"
+
+#: functions/menu.php:192 functions/messages.php:20 functions/messages.php:22
+#: functions/messages.php:23 functions/messages.php:24 functions/messages.php:25
+#: functions/rewrite.php:1412 templates/profile/messages.php:17
+msgid "Messages"
+msgstr "‫الرسائل"
+
+#: functions/menu.php:212 functions/rewrite.php:1424
+#: templates/profile/head-tabs.php:29
+msgid "Asked Questions"
+msgstr "‫‫‫الأسئلة الموجهه للعضو"
+
+#: functions/menu.php:217 functions/rewrite.php:1428
+#: templates/profile/head-tabs.php:34
+msgid "Paid Questions"
+msgstr "‫الأسئلة المدفوعة"
+
+#: functions/menu.php:232 functions/rewrite.php:1430
+msgid "Followed"
+msgstr "‫المتابعة"
+
+#: functions/menu.php:237 functions/rewrite.php:1432
+msgid "Favorites"
+msgstr "‫‫المفضلة"
+
+#: functions/menu.php:252 functions/rewrite.php:1438
+#: templates/profile/head-tabs.php:44
+msgid "Followers Questions"
+msgstr "‫الأسئلة المتابعة"
+
+#: functions/menu.php:257 functions/rewrite.php:1440
+#: templates/profile/head-tabs.php:46
+msgid "Followers Answers"
+msgstr "‫‫‫‫الإجابات المتابعة"
+
+#: functions/menu.php:262 functions/rewrite.php:1442
+#: templates/profile/head-tabs.php:48
+msgid "Followers Posts"
+msgstr "‫‫‫‫المقالات المتابعة"
+
+#: functions/menu.php:267 functions/rewrite.php:1444
+#: templates/profile/head-tabs.php:50
+msgid "Followers Comments"
+msgstr "‫‫‫‫التعليقات المتابعة"
+
+#: functions/menu.php:272
+msgid "Logout"
+msgstr "تسجيل خروج"
+
+#: functions/messages.php:26 functions/post_type.php:65
+msgid "Add New"
+msgstr "أضف جديد"
+
+#: functions/messages.php:27
+msgid "Add New Message"
+msgstr "أضافة رسالة جديدة"
+
+#: functions/messages.php:28
+msgid "New Message"
+msgstr "رسالة جديدة"
+
+#: functions/messages.php:29
+msgid "Edit Message"
+msgstr "تعديل الرسالة"
+
+#: functions/messages.php:30
+msgid "View Message"
+msgstr "عرض الرسالة"
+
+#: functions/messages.php:31
+msgid "View Messages"
+msgstr "عرض الرسائل"
+
+#: functions/messages.php:32
+msgid "All Messages"
+msgstr "كل الرسائل"
+
+#: functions/messages.php:33
+msgid "Search Messages"
+msgstr "البحث في الرسائل"
+
+#: functions/messages.php:34
+msgid "Parent Message:"
+msgstr "‫الرسالة الرئيسية:"
+
+#: functions/messages.php:35
+msgid "No Messages Found."
+msgstr "لا يوجد رسائل."
+
+#: functions/messages.php:36
+msgid "No Messages Found in Trash."
+msgstr "لا يوجد رسائل في سلة المهملات."
+
+#: functions/messages.php:71 functions/post_type.php:163
+msgid "Title"
+msgstr "العنوان"
+
+#: functions/messages.php:72
+msgid "Content"
+msgstr "المحتوي"
+
+#: functions/messages.php:74
+msgid "To user/groups/s"
+msgstr "للعضو/المجوعة"
+
+#: functions/messages.php:76
+msgid "User deleted?"
+msgstr "حذفها العضو؟"
+
+#: functions/messages.php:121
+msgid "One of the users has deleted his inbox message."
+msgstr "عضو حذف الرسالة."
+
+#: functions/messages.php:124
+msgid "has deleted his inbox message."
+msgstr "حذف رسالته المستقبلة."
+
+#: functions/messages.php:133
+msgid "has delete his sent message."
+msgstr "حذف رسالته المرسلة."
+
+#: functions/messages.php:137
+msgid "No one delete it"
+msgstr "لا يوجد آحد حذف"
+
+#: functions/messages.php:162 functions/messages.php:336
+msgid "Sorry, you do not have a permission to send message."
+msgstr "‫‫عفوا، ليس لديك صلاحيات لأرسال رسالة."
+
+#: functions/messages.php:167 functions/messages.php:338
+#: functions/messages.php:341
+msgid "You must login to send a message."
+msgstr "‫يجب تسجيل الدخول لتستطيع أرسال رسالة."
+
+#: functions/messages.php:176 functions/messages.php:343
+msgid "You can't send message for yourself."
+msgstr "لا تستطيع إرسال رسالة لنفسك."
+
+#: functions/messages.php:186 shortcodes/post.php:175
+#: shortcodes/question.php:344 shortcodes/register.php:46
+#: shortcodes/register.php:54
+msgid "Username"
+msgstr "أسم المستخدم"
+
+#: functions/messages.php:189 shortcodes/post.php:178
+#: shortcodes/question.php:347
+msgid "Please type your username."
+msgstr "برجاء أدخال الأسم."
+
+#: functions/messages.php:193 shortcodes/password.php:33 shortcodes/post.php:182
+#: shortcodes/profile.php:120 shortcodes/question.php:351
+#: shortcodes/register.php:47 shortcodes/register.php:60
+msgid "E-Mail"
+msgstr "البريد الإلكتروني"
+
+#: functions/messages.php:196 shortcodes/post.php:185
+#: shortcodes/question.php:354
+msgid "Please type your E-Mail."
+msgstr "برجاء أدخال البريد الإلكتروني."
+
+#: functions/messages.php:200
+msgid "Message Title"
+msgstr "عنوان الرسالة"
+
+#: functions/messages.php:206 shortcodes/post.php:236
+#: shortcodes/question.php:640
+msgid "Details"
+msgstr "التفاصيل"
+
+#: functions/messages.php:218 shortcodes/question.php:652
+msgid "Type the description thoroughly and in details."
+msgstr "أكتب الوصف تمامًا وبالتفاصيل."
+
+#: functions/messages.php:236
+msgid "Send Your Message"
+msgstr "أرسل رسالتك"
+
+#: functions/messages.php:288
+msgid "The message has been sent successfully."
+msgstr "‫تم إرسال الرسالة بنجاح."
+
+#: functions/messages.php:290
+msgid "Has been sent successfully, The message is under review."
+msgstr "‫‫تم الإرسال بنجاح, الرسالة تحت المراجعة الآن."
+
+#: functions/messages.php:322 payments/payments.php:690
+#: shortcodes/category.php:88 shortcodes/login.php:118
+#: shortcodes/password.php:66 shortcodes/post.php:330 shortcodes/post.php:503
+#: shortcodes/profile.php:530 shortcodes/question.php:1058
+#: shortcodes/question.php:1634 shortcodes/register.php:157
+msgid "There is an error, Please reload the page and try again."
+msgstr "هناك خطأ، يرجى إعادة تحميل الصفحة والمحاولة مرة أخرى."
+
+#: functions/messages.php:345
+msgid "There is an error."
+msgstr "يوجد خطأ."
+
+#: functions/messages.php:349 shortcodes/post.php:339
+#: shortcodes/question.php:1093
+msgid "There are required fields (username)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (أسم المستخدم)."
+
+#: functions/messages.php:350 shortcodes/post.php:340
+#: shortcodes/question.php:1094
+msgid "There are required fields (email)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (البريد الإلكتروني)."
+
+#: functions/messages.php:351 shortcodes/post.php:341
+#: shortcodes/question.php:1095 shortcodes/register.php:192
+msgid "Please write correctly email."
+msgstr "من فضلك قم بكتابة بريد إلكتروني صالح."
+
+#: functions/messages.php:356 shortcodes/post.php:615
+#: shortcodes/question.php:1939
+msgid "There are required fields (title)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (العنوان)."
+
+#: functions/messages.php:360 shortcodes/question.php:2028
+msgid "There are required fields (content)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (المحتوي)."
+
+#: functions/messages.php:382
+msgid "Error in message."
+msgstr "خطأ في الرسالة."
+
+#: functions/messages.php:442
+msgid "RE:"
+msgstr "رد:"
+
+#: functions/post_type.php:66
+msgid "Add New Question"
+msgstr "أضف سؤال جديد"
+
+#: functions/post_type.php:67
+msgid "New Question"
+msgstr "سؤال جديد"
+
+#: functions/post_type.php:68
+msgid "Edit Question"
+msgstr "تعديل السؤال"
+
+#: functions/post_type.php:69
+msgid "View Question"
+msgstr "عرض السؤال"
+
+#: functions/post_type.php:70
+msgid "View Questions"
+msgstr "عرض الأسئلة"
+
+#: functions/post_type.php:71
+msgid "All Questions"
+msgstr "كل الأسئلة"
+
+#: functions/post_type.php:72
+msgid "Search Questions"
+msgstr "البحث في الأسئلة"
+
+#: functions/post_type.php:73
+msgid "Parent Question:"
+msgstr "‫السؤال الرئيسي:"
+
+#: functions/post_type.php:74
+msgid "No Questions Found."
+msgstr "لا يوجد أسئلة."
+
+#: functions/post_type.php:75
+msgid "No Questions Found in Trash."
+msgstr "لا يوجد أسئلة في سلة المهملات."
+
+#: functions/post_type.php:95 functions/post_type.php:96
+#: functions/post_type.php:99 functions/post_type.php:100
+msgid "Question Categories"
+msgstr "أقسام الأسئلة"
+
+#: functions/post_type.php:97
+msgid "Search Categories"
+msgstr "البحث في الاقسام"
+
+#: functions/post_type.php:101
+msgid "Edit Category"
+msgstr "تعديل القسم"
+
+#: functions/post_type.php:103 functions/post_type.php:104
+msgid "Add New Category"
+msgstr "أضافة قسم جديد"
+
+#: functions/post_type.php:121 functions/post_type.php:122
+#: functions/post_type.php:125 functions/post_type.php:126
+msgid "Question Tags"
+msgstr "وسوم الأسئلة"
+
+#: functions/post_type.php:123
+msgid "Search Tags"
+msgstr "البحث في الوسوم"
+
+#: functions/post_type.php:124
+msgid "All Tags"
+msgstr "كل الوسوم"
+
+#: functions/post_type.php:127
+msgid "Edit Tag"
+msgstr "تعديل الوسم"
+
+#: functions/post_type.php:129 functions/post_type.php:130
+msgid "Add New Tag"
+msgstr "أضافة وسماً جديداً"
+
+#: functions/post_type.php:164
+msgid "Type"
+msgstr "النوع"
+
+#: functions/post_type.php:167 shortcodes/post.php:208
+#: shortcodes/question.php:454 widgets/tabs.php:88
+msgid "Tags"
+msgstr "الوسوم"
+
+#: functions/post_type.php:182 functions/post_type.php:269
+msgid "Poll"
+msgstr "التصويت"
+
+#: functions/post_type.php:206
+msgid "Asked to"
+msgstr "سأل إلي"
+
+#: functions/post_type.php:214
+msgid "No category"
+msgstr "لا أقسام"
+
+#: functions/post_type.php:226
+msgid "No tags"
+msgstr "لا وسوم"
+
+#: functions/post_type.php:246
+#, php-format
+msgid "Updated. %1$s View question %2$s"
+msgstr "‫‫تم التحيث. %1$s عرض السؤال %2$s"
+
+#: functions/post_type.php:270 functions/post_type.php:359
+msgid "Sticky"
+msgstr "مثبت"
+
+#: functions/post_type.php:331
+msgid "Delete post"
+msgstr "حذف المقال"
+
+#: functions/post_type.php:331
+msgid "Delete question"
+msgstr "حذف السؤال"
+
+#: functions/post_type.php:368
+msgid "ON"
+msgstr "تفعيل"
+
+#: functions/post_type.php:368
+msgid "OFF"
+msgstr "‫تعطيل"
+
+#: functions/post_type.php:370 shortcodes/question.php:770
+msgid "Stick this question"
+msgstr "ثبت هذا السؤال"
+
+#: functions/questions.php:23
+msgid "New question"
+msgstr "سؤال جديد"
+
+#: functions/questions.php:189 functions/questions.php:230
+#: functions/questions.php:281 functions/questions.php:361
+msgid "Reports"
+msgstr "البلاغات"
+
+#: functions/questions.php:298 functions/questions.php:350
+msgid "Link"
+msgstr "الرابط"
+
+#: functions/questions.php:344 includes/class-wpqa.php:214
+msgid "There are no reports yet."
+msgstr "لا يوجد بلاغات حتي الآن."
+
+#: functions/questions.php:476
+msgid "This is a paid question."
+msgstr "هذا السؤال مدفوع."
+
+#: functions/questions.php:476
+msgid "Paid details"
+msgstr "بيانات الدفع"
+
+#: functions/questions.php:481
+msgid "This question will sticky to"
+msgstr "هذا السؤال مثبت حتي"
+
+#: functions/questions.php:491
+msgid "The transaction id"
+msgstr "‫‫رقم العملية"
+
+#: functions/questions.php:494
+msgid "This transaction is from PayPal sandbox."
+msgstr "‫هذه العملية من الباي بال التجريبي."
+
+#: functions/questions.php:500
+msgid "The transaction id for sticky question"
+msgstr "رقم عملية الدفع للسؤال المثبت"
+
+#: functions/questions.php:503
+msgid "This transaction is from PayPal sandbox for sticky question."
+msgstr "‫هذه العملية من الباي بال التجريبي للسؤال المثبت."
+
+#: functions/questions.php:540
+msgid "Bump your question"
+msgstr "قم برفع سؤالك للأعلي"
+
+#: functions/questions.php:558
+msgid "Pay to sticky question"
+msgstr "أدفع لتثبيت السؤال"
+
+#: functions/questions.php:561
+#, php-format
+msgid ""
+"Please make a payment to allow to be able to sticky the question %s For %s "
+"days."
+msgstr "من فضلك أدفع لجعل السؤال مثبت %s لمدة %s أيام."
+
+#: functions/questions.php:579
+msgid "Question bump points"
+msgstr "النقاط لرفع السؤال"
+
+#: functions/questions.php:580
+msgid "Bump"
+msgstr "رفع"
+
+#: functions/questions.php:608
+msgid "You have just stickied the question by points."
+msgstr "‫لقد قمت بتثبيت السؤال بواسطة النقاط."
+
+#: functions/questions.php:611 payments/payments.php:115
+#: shortcodes/question.php:1499
+msgid "Sorry, you haven't enough points"
+msgstr "عفوا لا تملك نقاط كافية"
+
+#: functions/questions.php:611 payments/payments.php:115
+#: shortcodes/question.php:1499
+msgid "You can buy the points from here."
+msgstr "تستطيع شراء النقاط من هنا."
+
+#: functions/questions.php:690
+msgid "Open the question"
+msgstr "فتح السؤال"
+
+#: functions/questions.php:690
+msgid "Close the question"
+msgstr "غلق السؤال"
+
+#: functions/questions.php:690
+msgid "Open"
+msgstr "فتح"
+
+#: functions/questions.php:690
+msgid "Close"
+msgstr "غلق"
+
+#: functions/questions.php:793 templates/profile/content.php:292
+#: templates/search.php:67
+msgid "Sorry it a private answer."
+msgstr "عفوا هذه إجابة خاصة."
+
+#: functions/questions.php:801
+msgid "There are no answers yet."
+msgstr "لا يوجد إجابات حتي الآن."
+
+#: functions/questions.php:805
+msgid "Leave an answer"
+msgstr "‫أضف اجابة"
+
+#: functions/questions.php:814
+msgid "Submit"
+msgstr "تنفيذ"
+
+#: functions/referrals.php:27 functions/referrals.php:58
+msgid "New invitation"
+msgstr "دعوة جديدة"
+
+#: functions/review.php:17
+msgid "Review the question"
+msgstr "مراجعة السؤال"
+
+#: functions/review.php:17
+msgid "Review the post"
+msgstr "مراجعة المقال"
+
+#: functions/review.php:19
+msgid "Approve"
+msgstr "موافقة"
+
+#: functions/review.php:147
+msgid "Ban group"
+msgstr "مجموعة الحظر"
+
+#: functions/rewrite.php:1402
+msgid "Pending Questions"
+msgstr "‫‫الأسئلة المعلقة"
+
+#: functions/rewrite.php:1404
+msgid "Pending Posts"
+msgstr "‫‫المقالات المعلقة"
+
+#: functions/rewrite.php:1426 templates/profile/head-tabs.php:31
+msgid "Waiting Questions"
+msgstr "‫الأسئلة في قائمة الانتظار"
+
+#: functions/rewrite.php:1448 shortcodes/profile.php:391
+#: shortcodes/profile.php:404
+msgid "Delete account"
+msgstr "حذف الملف الشخصي"
+
+#: functions/subscriptions.php:17
+msgid "Get the paid membership"
+msgstr "الحصول على العضوية المدفوعة"
+
+#: functions/subscriptions.php:116 payments/payments.php:48
+#: templates/subscriptions.php:36
+msgid "Free membership"
+msgstr "عضوية مجانية"
+
+#: functions/subscriptions.php:117 payments/payments.php:49
+#: templates/subscriptions.php:37
+msgid "Monthly membership"
+msgstr "عضوية شهرية"
+
+#: functions/subscriptions.php:118 payments/payments.php:50
+msgid "3 Months membership"
+msgstr "عضوية ربع سنوية"
+
+#: functions/subscriptions.php:119 payments/payments.php:51
+msgid "6 Months membership"
+msgstr "عضوية نصف سنوية"
+
+#: functions/subscriptions.php:120 payments/payments.php:52
+msgid "Yearly membership"
+msgstr "عضوية سنوية"
+
+#: functions/subscriptions.php:122 functions/subscriptions.php:153
+#: payments/payments.php:55
+msgid "Paid membership"
+msgstr "عضوية مدفوعة"
+
+#: functions/subscriptions.php:122 payments/payments.php:1043
+msgid "(Renew)"
+msgstr "(تجديد)"
+
+#: functions/subscriptions.php:153
+msgid "membership"
+msgstr "عضوية"
+
+#: functions/subscriptions.php:172
+msgid "You have got a new free membership."
+msgstr "لقد حصلت علي عضوية مجانية."
+
+#: includes/class-wpqa.php:68
+#, php-format
+msgid ""
+"This plugin can not be activated because it requires a WordPress version at "
+"least %1$s (or later). Please go to Dashboard &#9656; Updates to get the "
+"latest version of WordPress."
+msgstr ""
+"لا يمكن تفعيل هذه الأضافة لانها تحتاج آخر أصدار من الوردبريس او علي الأقل "
+"%1$s (أو أحدث). من فضلك اذهب إلي لوحة التحكم &#9656; للحصول علي آخر نسخه من "
+"الوردبريس."
+
+#: includes/class-wpqa.php:68
+msgid "go back"
+msgstr "الرجوع للخلف"
+
+#: includes/class-wpqa.php:150
+msgid "Please fill the required field."
+msgstr "من فضلك قم بأدخال جميع الحقول المطلوبة."
+
+#: includes/class-wpqa.php:151
+msgid "Sorry, The minimum characters is"
+msgstr "‫عفوا، الحد الأدني للحروف هو"
+
+#: includes/class-wpqa.php:152
+msgid "Sorry, The maximum characters is"
+msgstr "‫عفوا، الحد الأقصي للحروف هو"
+
+#: includes/class-wpqa.php:155
+msgid "Are you sure you want to delete your account?"
+msgstr "‫هل انت متاكد من حذف ملفك الشخصي؟"
+
+#: includes/class-wpqa.php:156
+msgid "Are you sure you want to delete the question?"
+msgstr "‫هل انت متاكد من حذف السؤال؟"
+
+#: includes/class-wpqa.php:157
+msgid "Are you sure you want to delete the post?"
+msgstr "‫هل انت متاكد من حذف المقال؟"
+
+#: includes/class-wpqa.php:158
+msgid "Are you sure you want to delete the comment?"
+msgstr "‫هل انت متاكد من حذف التعليق؟"
+
+#: includes/class-wpqa.php:159
+msgid "Are you sure you want to delete the answer?"
+msgstr "‫هل انت متاكد من حذف الإجابة؟"
+
+#: includes/class-wpqa.php:160
+msgid "Are you sure you want to delete the message?"
+msgstr "‫هل انت متاكد من حذف الرسالة؟"
+
+#: includes/class-wpqa.php:161
+msgid "Are you sure you want to ban this user?"
+msgstr "‫هل انت متاكد من حظر العضو؟"
+
+#: includes/class-wpqa.php:162
+msgid "Are you sure you want to delete the image?"
+msgstr "‫هل انت متاكد من حذف الصورة؟"
+
+#: includes/class-wpqa.php:163
+msgid "Are you sure you want to delete the attachment?"
+msgstr "‫هل انت متاكد من حذف المرفق؟"
+
+#: includes/class-wpqa.php:164
+msgid "Sorry, you cannot vote your question."
+msgstr "‫عفوا، لا تستطيع التصويت علي سؤالك."
+
+#: includes/class-wpqa.php:165
+msgid "Sorry, you cannot vote on the same question more than once."
+msgstr "‫‫عفوا، لا تستطيع التصويت علي نفس السؤال اكثر من مره."
+
+#: includes/class-wpqa.php:166
+msgid "Voting is available to members only."
+msgstr "التصويت متاح للأعضاء فقط."
+
+#: includes/class-wpqa.php:167
+msgid "Sorry, you cannot vote your answer."
+msgstr "‫عفوا، لا تستطيع التصويت علي إجابتك."
+
+#: includes/class-wpqa.php:168
+msgid "Sorry, you cannot vote on the same answer more than once."
+msgstr "‫‫عفوا، لا تستطيع التصويت علي نفس الإجابة اكثر من مره."
+
+#: includes/class-wpqa.php:169
+msgid "Sorry, you cannot vote your comment."
+msgstr "‫عفوا، لا تستطيع التصويت علي تعليقك."
+
+#: includes/class-wpqa.php:170
+msgid "Sorry, you cannot vote on the same comment more than once."
+msgstr "‫‫عفوا، لا تستطيع التصويت علي نفس التعليق اكثر من مره."
+
+#: includes/class-wpqa.php:171
+msgid "Sorry, you cannot poll on the same question more than once."
+msgstr "‫عفوا، لا تستطيع التصويت علي نفس السؤال اكثر من مره."
+
+#: includes/class-wpqa.php:175
+msgid "There is another one select this a best answer"
+msgstr "يوجد شخص آخر قام بتحديث أفضل إجابة"
+
+#: includes/class-wpqa.php:176
+msgid "Follow the question"
+msgstr "متابعة السؤال"
+
+#: includes/class-wpqa.php:177
+msgid "Unfollow the question"
+msgstr "إلغاء متابعة السؤال"
+
+#: includes/class-wpqa.php:182
+msgid "There are no questions yet."
+msgstr "لا يوجد أسئلة حتي الآن."
+
+#: includes/class-wpqa.php:183
+msgid "There are no posts yet."
+msgstr "لا يوجد مقالات حتي الآن."
+
+#: includes/class-wpqa.php:185
+msgid "Add this question to favorites"
+msgstr "أضف السؤال إلي المفضلة"
+
+#: includes/class-wpqa.php:186
+msgid "Remove this question of my favorites"
+msgstr "أحذف السؤال من المفضلة"
+
+#: includes/class-wpqa.php:187
+msgid "Please fill the required fields (name)."
+msgstr "‫‫‫يوجد حقول أجبارية ( الأسم )."
+
+#: includes/class-wpqa.php:188
+msgid "Please fill the required fields (email)."
+msgstr "‫‫‫يوجد حقول أجبارية ( البريد الإلكتروني )."
+
+#: includes/class-wpqa.php:189
+msgid "Please type a comment."
+msgstr "لو سمحت قم بكتابة التعليق."
+
+#: includes/class-wpqa.php:190
+msgid "Please enter a valid email address."
+msgstr "لو سمحت قم بأدخال بريد الإلكتروني صالح."
+
+#: includes/class-wpqa.php:191
+msgid "Cancel reply."
+msgstr "ألغاء الرد."
+
+#: includes/class-wpqa.php:192 templates/profile/messages.php:120
+msgid "Block Message"
+msgstr "حظر الإرسال"
+
+#: includes/class-wpqa.php:193 templates/profile/messages.php:120
+msgid "Unblock Message"
+msgstr "إلغاء حظر الإرسال"
+
+#: includes/class-wpqa.php:194
+msgid "Click here to continue."
+msgstr "‫قم بالضغط للإستمرار."
+
+#: includes/class-wpqa.php:195
+msgid "Complete your following to continue."
+msgstr "‫قم بإنهاء متابعة لتستطيع الإستمرار."
+
+#: includes/class-wpqa.php:198
+msgid "Please login, Only users can vote and see the results."
+msgstr ""
+"قم بتسجيل الدخول من فضلك، الأعضاء فقط من يمكنهم التصويت ومشاهدة النتائج."
+
+#: includes/class-wpqa.php:200
+msgid "This email is exist already."
+msgstr "هذا البريد الإلكتروني مسجل من قبل."
+
+#: includes/class-wpqa.php:201
+msgid "The invitation was sent."
+msgstr "الدعوة تم إرسالها."
+
+#: includes/class-wpqa.php:202
+#, php-format
+msgid "Sorry, you are bumping your question with less than %s points."
+msgstr "عفو، أنت تقوم برفع سؤالك بنقاط اقل من %s."
+
+#: includes/class-wpqa.php:212
+msgid "Are you sure you want to delete?"
+msgstr "هل أنت متاكد من الحذف؟"
+
+#: includes/class-wpqa.php:213
+msgid "If you press will delete report!"
+msgstr "‫لو قمت بالضغط سوف تحذف البلاغ!"
+
+#: includes/class-wpqa.php:215
+msgid "If you press will delete the attachment!"
+msgstr "‫لو قمت بالضغط سوف تحذف المرفق!"
+
+#: payments/payments.php:25
+msgid "Pay to add answer"
+msgstr "‫أدفع لإضافة إجابة"
+
+#: payments/payments.php:34
+msgid "Pay to make question sticky"
+msgstr "أدفع لجعل هذا السؤال مثبت"
+
+#: payments/payments.php:69
+msgid "Ask a new question"
+msgstr "‫أضف سؤال جديد"
+
+#: payments/payments.php:69
+msgid "for"
+msgstr "لـ"
+
+#: payments/payments.php:94
+#, php-format
+msgid ""
+"Please pay by points to allow to be able to sticky the question %s For %s "
+"days."
+msgstr "من فضلك أدفع بالنقاط لجعل السؤال مثبت %s لمدة %s أيام."
+
+#: payments/payments.php:94 payments/payments.php:96 payments/payments.php:98
+msgid "points"
+msgstr "نقاط"
+
+#: payments/payments.php:96
+#, php-format
+msgid "Please pay by points to allow to be able to add a answer %s."
+msgstr "من فضلك أدفع بالنقاط لتستطيع أضافة إجابة %s."
+
+#: payments/payments.php:98
+#, php-format
+msgid "Please pay by points to allow to be able to ask a question %s."
+msgstr "من فضلك أدفع بالنقاط لتستطيع أضافة سؤال %s."
+
+#: payments/payments.php:105 payments/payments.php:386
+msgid "Process"
+msgstr "‫متابعة"
+
+#: payments/payments.php:126
+msgid "Please enter your coupon."
+msgstr "برجاء إدخال الكوبون."
+
+#: payments/payments.php:137 payments/payments.php:1076
+msgid "This coupon has expired."
+msgstr "الكوبون منتهي."
+
+#: payments/payments.php:139 payments/payments.php:141
+#: payments/payments.php:1079 payments/payments.php:1089
+msgid "This coupon is not valid."
+msgstr "الكوبون غير صالح."
+
+#: payments/payments.php:149
+#, php-format
+msgid "Coupon \"%s\" applied successfully."
+msgstr "كوبون “%s” تمت إضافته بنجاح."
+
+#: payments/payments.php:158
+msgid "Coupon does not exist!."
+msgstr "‫الكوبون غير موجود!."
+
+#: payments/payments.php:160
+#, php-format
+msgid "Coupon \"%s\" does not exist!."
+msgstr "الكوبون “%s” غير موجود!."
+
+#: payments/payments.php:197
+#, php-format
+msgid "Take it free? Add this coupon %s."
+msgstr "‫تريده مجاني؟ أضف هذا الكوبون %s."
+
+#: payments/payments.php:206
+msgid "Coupon code"
+msgstr "الكوبون"
+
+#: payments/payments.php:207
+msgid "Apply Coupon"
+msgstr "‫تطبيق الكوبون"
+
+#: payments/payments.php:232
+msgid "Pay"
+msgstr "‫أدفع"
+
+#: payments/payments.php:247
+msgid "Select Payment Method"
+msgstr "اختر طريقة الدفع"
+
+#: payments/payments.php:318
+msgid "Address"
+msgstr "العنوان"
+
+#: payments/payments.php:325
+msgid "ZIP"
+msgstr "الرمز البريدي"
+
+#: payments/payments.php:337 shortcodes/register.php:557
+msgid "Select a country&hellip;"
+msgstr "أختار الدولة&hellip;"
+
+#: payments/payments.php:348 shortcodes/profile.php:873
+#: shortcodes/register.php:567
+msgid "City"
+msgstr "المدينة"
+
+#: payments/payments.php:355
+msgid "State"
+msgstr "المنطقة"
+
+#: payments/payments.php:602
+msgid "Thank you for your payment you can now add a new answer"
+msgstr "شكرا علي دفعك، يمكن الآن أضافة إجابة"
+
+#: payments/payments.php:604
+msgid "Thank you for your payment, Your question now is sticky"
+msgstr "شكرا علي دفعك، سؤالك الان مثبت"
+
+#: payments/payments.php:606
+msgid "Thank you for your payment, Your points was added now"
+msgstr "شكرا علي دفعك، نقاطتك تم إضافتها الآن"
+
+#: payments/payments.php:608
+msgid "Thank you for your payment, your membership was upgraded"
+msgstr "شكرًا لك على الدفع ، تمت ترقية عضويتك"
+
+#: payments/payments.php:610
+msgid "Thank you for your payment you can now add a new question"
+msgstr "شكرا علي دفعك، يمكن الآن أضافة سؤال"
+
+#: payments/payments.php:620
+msgid "Instant Payment Notification - Received Payment"
+msgstr "إشعار دفع - أستلام دفع"
+
+#: payments/payments.php:633
+#, php-format
+msgid "Your transaction id %s, Please copy it."
+msgstr "‫رقم العملية %s, من فضلك احتفظ به."
+
+#: payments/payments.php:685 payments/payments.php:787 payments/payments.php:792
+#: payments/payments.php:836
+msgid "Transaction has been failed."
+msgstr "‫‫العملية فشلت."
+
+#: payments/payments.php:960
+msgid "The payment was failed!"
+msgstr "عملة الدفع فشلت!"
+
+#: payments/payments.php:968
+msgid "The payment was canceled!"
+msgstr "تم إلغاء عملية الدفع!"
+
+#: payments/payments.php:1097
+msgid "Coupon code applied successfully."
+msgstr "تم إضافة الكوبون بنجاح."
+
+#: payments/payments.php:1131 payments/payments.php:1139
+#: payments/payments.php:1183 payments/payments.php:1260
+msgid "Payments"
+msgstr "المدفوعات"
+
+#: payments/payments.php:1142
+msgid "All my money"
+msgstr "جميع نقودي"
+
+#: payments/payments.php:1197 payments/payments.php:1247
+msgid "Price"
+msgstr "السعر"
+
+#: payments/payments.php:1197 payments/payments.php:1247
+msgid "coupon"
+msgstr "‫الكوبون"
+
+#: payments/payments.php:1199 payments/payments.php:1249
+msgid "Item"
+msgstr "البند"
+
+#: payments/payments.php:1201 payments/payments.php:1251
+msgid "Transaction"
+msgstr "العملية"
+
+#: payments/payments.php:1202 payments/payments.php:1252
+msgid "Payer email"
+msgstr "بريد المشتري"
+
+#: payments/payments.php:1202 payments/payments.php:1252
+msgid "sandbox"
+msgstr "تجريبي"
+
+#: payments/payments.php:1228 templates/subscriptions.php:65
+msgid "Free"
+msgstr "مجاني"
+
+#: shortcodes/category.php:28
+msgid "Sorry, you do not have a permission to add a category."
+msgstr "‫‫‫عفوا، ليس لديك صلاحيات لأضافة قسم."
+
+#: shortcodes/category.php:33
+msgid "You must login to add category."
+msgstr "‫يجب تسجيل الدخول لتستطيع أضافة قسم."
+
+#: shortcodes/category.php:38 templates/buy-points.php:64
+#: templates/subscriptions.php:108
+msgid "Sorry, this page is not available."
+msgstr "عفوا، هذه الصفحه غير موجودة."
+
+#: shortcodes/category.php:55
+msgid "New category for review"
+msgstr "قسم جديد للمراجعة"
+
+#: shortcodes/category.php:61
+msgid "Your category was sent to review."
+msgstr "القسم الجديد تحت المراجعة."
+
+#: shortcodes/category.php:93 shortcodes/post.php:619
+#: shortcodes/question.php:1952 shortcodes/question.php:1958
+msgid "There are required fields (category)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (القسم)."
+
+#: shortcodes/category.php:99
+msgid "The category exists!"
+msgstr "القسم موجود بالفعل!"
+
+#: shortcodes/category.php:146
+msgid "Category name"
+msgstr "أسم القسم"
+
+#: shortcodes/category.php:149
+msgid "Please choose an appropriate category for questions."
+msgstr "‫برجاء أختيار عنوان مناسب لقسم الأسئلة."
+
+#: shortcodes/category.php:160
+msgid "Add new category"
+msgstr "أضافة قسم جديد"
+
+#: shortcodes/comment.php:60
+msgid "Edit Comment"
+msgstr "تعديل التعليق"
+
+#: shortcodes/login.php:39 shortcodes/register.php:38
+msgid "or use"
+msgstr "أو أستخدم"
+
+#: shortcodes/login.php:48
+msgid "Username or email"
+msgstr "أسم المستخدم أو البريد الإلكتروني"
+
+#: shortcodes/login.php:53 shortcodes/register.php:48 shortcodes/register.php:66
+msgid "Password"
+msgstr "كلمة المرور"
+
+#: shortcodes/login.php:63
+msgid "Remember Me!"
+msgstr "تذكرني!"
+
+#: shortcodes/login.php:66
+msgid "Forgot Password?"
+msgstr "نسيت كلمة المرور؟"
+
+#: shortcodes/login.php:74
+msgid "Register"
+msgstr "تسجيل"
+
+#: shortcodes/login.php:123
+#, php-format
+msgid "%1$s ERROR %2$s: please insert your name."
+msgstr "‫‏‫%1$s خطأ %2$s: قم بأدخال أسمك من فضلك."
+
+#: shortcodes/login.php:125
+#, php-format
+msgid "%1$s ERROR %2$s: please insert your password."
+msgstr "‫‏‫%1$s خطأ %2$s: قم بأدخال كلمة المرور من فضلك."
+
+#: shortcodes/login.php:201
+#, php-format
+msgid "Hello %1$s (not %2$s? %3$s Log out %4$s)"
+msgstr "‫مرحبا %1$s (لست %2$s? %3$s تسجيل الخروج %4$s)"
+
+#: shortcodes/login.php:201
+#, php-format
+msgid ""
+"From your profile you can view your %1$s recent questions %2$s, %3$s edit "
+"your password and profile details %4$s."
+msgstr ""
+"‫من ملفك الشخصي تستطيع عرض %1$s آخر الأسئلة %2$s, %3$s تعديل كلمة المرور "
+"والملف الشخصي %4$s."
+
+#: shortcodes/login.php:244
+msgid "Sign In Now"
+msgstr "تسجيل دخول الآن"
+
+#: shortcodes/password.php:26
+msgid ""
+"Lost your password? Please enter your email address. You will receive a link "
+"and will create a new password via email."
+msgstr ""
+"نسيت كلمة المرور؟ الرجاء إدخال بريدك الإلكتروني. وسوف تصلك رسالة عليه حتي "
+"تستطيع عمل كلمة مرور جديدة."
+
+#: shortcodes/password.php:45
+msgid "Reset"
+msgstr "أسترجاع"
+
+#: shortcodes/password.php:64 shortcodes/password.php:186
+#, php-format
+msgid ""
+"You are already logged in, If you want to change your password go to %1$s "
+"edit profile %2$s."
+msgstr ""
+"‫أنت مسجل دخول بالفعل، أذا تريد تغير كلمة المرور أذهب الي %1$s تعديل الملف "
+"الشخصي %2$s."
+
+#: shortcodes/password.php:68
+#, php-format
+msgid "%1$s ERROR %2$s: please insert your email."
+msgstr "‫‫%1$s خطأ %2$s: أدخل البريد الإلكتروني."
+
+#: shortcodes/password.php:70 shortcodes/password.php:74
+#, php-format
+msgid "%1$s ERROR %2$s: there is no user registered with that email address."
+msgstr "‫‫%1$s خطأ %2$s: لا يوجد عضو مسجل بهذا البريد الإلكتروني."
+
+#: shortcodes/password.php:98 shortcodes/password.php:167
+msgid "Reset your password"
+msgstr "أسترجاع كلمة المرور"
+
+#: shortcodes/password.php:104
+msgid "Check your email please."
+msgstr "‫أفحص بريدك الإلكتروني."
+
+#: shortcodes/password.php:172
+msgid "Check your email, Your password has been reset."
+msgstr "‫أفحص بريدك الإلكتروني، كلمة المرور تم استرجاعها."
+
+#: shortcodes/password.php:176
+msgid ""
+"Your password reset link has expired or not valid, Please request a new link"
+msgstr "رابط أسترجاع كلمة المرور منتهي أو غير صالح، من فضلك أطلب رابط جديد"
+
+#: shortcodes/password.php:176
+msgid "Reset Password"
+msgstr "أسترجاع كلمة المرور"
+
+#: shortcodes/post.php:30 shortcodes/post.php:37 shortcodes/post.php:334
+msgid "Sorry, you do not have a permission to add a post."
+msgstr "‫‫‫عفوا، ليس لديك صلاحيات لأضافة إجابة علي هذا السؤال."
+
+#: shortcodes/post.php:35 shortcodes/post.php:336
+msgid "You must login to add post."
+msgstr "‫يجب تسجيل الدخول لتستطيع أضافة مقالة."
+
+#: shortcodes/post.php:47
+msgid "You must login to edit post."
+msgstr "‫يجب تسجيل الدخول لتستطيع تعديل المقالة."
+
+#: shortcodes/post.php:59 shortcodes/post.php:62 shortcodes/post.php:511
+msgid "Sorry you can't edit this post."
+msgstr "عفوا لا تستطيع تعديل هذه المقالة."
+
+#: shortcodes/post.php:65
+msgid "Sorry no post has you select or not found."
+msgstr "‫عفوا لا يوجد مقال قمت بتحديده أو لم يتم العثور عليه."
+
+#: shortcodes/post.php:68
+msgid "Sorry, you do not have a permission to edit a post."
+msgstr "‫‫عفوا، ليس لديك صلاحيات لتعديل المقال."
+
+#: shortcodes/post.php:112
+msgid "New post for review"
+msgstr "مقالة جديدة للمراجعة"
+
+#: shortcodes/post.php:118 shortcodes/post.php:475
+msgid "Your post was successfully added, It's under review."
+msgstr "‫‫تمت إضافة المقال بنجاح, المقال تحت المراجعة الآن."
+
+#: shortcodes/post.php:190
+msgid "Post Title"
+msgstr "عنوان المقال"
+
+#: shortcodes/post.php:193
+msgid "Please choose an appropriate title for the post."
+msgstr "‫برجاء أختيار عنوان مناسب للمقال."
+
+#: shortcodes/post.php:200
+msgid "Please choose the appropriate section so easily search for your post."
+msgstr "‫برجاء أختيار القسم المناسب حتي يسهل البحث عن مقالك."
+
+#: shortcodes/post.php:210 shortcodes/question.php:456
+msgid "Please choose suitable Keywords Ex: "
+msgstr "برجاء أختيار الوسوم المناسبة علي سبيل المثال: "
+
+#: shortcodes/post.php:210
+msgid "post, video"
+msgstr "مقال، فيديو"
+
+#: shortcodes/post.php:265
+#, php-format
+msgid "By posting, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr "‫بإضافة مقال في الموقع، انت توافق علي %1$s شروط الخدمة %2$s %3$s."
+
+#: shortcodes/post.php:294
+msgid "Publish Your Post"
+msgstr "أنشر المقال"
+
+#: shortcodes/post.php:294
+msgid "Edit Your Post"
+msgstr "تعديل المقال"
+
+#: shortcodes/post.php:383
+msgid "Error in post."
+msgstr "خطأ في المقال."
+
+#: shortcodes/post.php:514
+msgid "Sorry no post select or not found."
+msgstr "‫‫عفوا لا يوجد مقال قمت بتحديده أو لم يتم العثور عليه."
+
+#: shortcodes/post.php:624
+msgid "There are required fields (details)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (التفاصيل)."
+
+#: shortcodes/profile.php:21
+msgid "Please login to delete account."
+msgstr "من فضلك قم بتسجيل الدخول لتستطيع حذف ملفك الشخصي."
+
+#: shortcodes/profile.php:23
+msgid "Please login to edit profile."
+msgstr "من فضلك قم بتسجيل الدخول لتستطيع تعديل الملف الشخصي."
+
+#: shortcodes/profile.php:108 shortcodes/register.php:486
+msgid "Nickname"
+msgstr "الأسم المستعار"
+
+#: shortcodes/profile.php:109 shortcodes/register.php:492
+msgid "First Name"
+msgstr "‫الأسم الأول"
+
+#: shortcodes/profile.php:110 shortcodes/register.php:498
+msgid "Last Name"
+msgstr "‫الأسم الأخير"
+
+#: shortcodes/profile.php:111 shortcodes/register.php:504
+msgid "Display Name"
+msgstr "عرض الاسم علناً كـ"
+
+#: shortcodes/profile.php:117
+msgid "Basic Information"
+msgstr "المعلومات الأساسية"
+
+#: shortcodes/profile.php:144
+msgid "Social Profiles"
+msgstr "المنصات الأجتماعية للملف الشخصي"
+
+#: shortcodes/profile.php:149 shortcodes/profile.php:155
+#: shortcodes/profile.php:161 shortcodes/profile.php:167
+#: shortcodes/profile.php:173 shortcodes/profile.php:179
+#: shortcodes/profile.php:185
+msgid "(Put the full URL)"
+msgstr "(ضع الرابط كامل)"
+
+#: shortcodes/profile.php:161 shortcodes/profile.php:849
+msgid "Youtube"
+msgstr "يوتيوب"
+
+#: shortcodes/profile.php:167 shortcodes/profile.php:853
+msgid "Vimeo"
+msgstr "‫Vimeo"
+
+#: shortcodes/profile.php:173 shortcodes/profile.php:857
+msgid "Linkedin"
+msgstr "‫Linkedin"
+
+#: shortcodes/profile.php:179 shortcodes/profile.php:861
+msgid "Instagram"
+msgstr "‫Instagram"
+
+#: shortcodes/profile.php:185 shortcodes/profile.php:865
+msgid "Pinterest"
+msgstr "‫Pinterest"
+
+#: shortcodes/profile.php:209
+msgid "About Me"
+msgstr "عني"
+
+#: shortcodes/profile.php:213
+msgid "Add profile credential"
+msgstr "أضافة معلومات إضافية للملف الشخصي"
+
+#: shortcodes/profile.php:219
+msgid "Website"
+msgstr "رابط الموقع"
+
+#: shortcodes/profile.php:234
+msgid "Professional Bio"
+msgstr "سيرة ذاتية"
+
+#: shortcodes/profile.php:243
+msgid "Show your private pages for all the users?"
+msgstr "أظهار صفحاتك الخاصة؟"
+
+#: shortcodes/profile.php:243
+msgid "(Points, favorite and followed pages)."
+msgstr "(النقاط، المفضلة وصفحات المتابعة)."
+
+#: shortcodes/profile.php:250
+msgid "Do you need to receive message from another users?"
+msgstr "هل تريد استقبال رسائل من الأعضاء؟"
+
+#: shortcodes/profile.php:279
+msgid "Mail Settings"
+msgstr "إعدادات البريد الإلكتروني"
+
+#: shortcodes/profile.php:286
+msgid "Show follow up email?"
+msgstr "أظهار بريدك الإلكتروني؟"
+
+#: shortcodes/profile.php:293
+msgid "Do you need to get schedules mails for the recent questions?"
+msgstr "‫‫هل إستقبال بريد إلكتروني عند إضافة أسئلة جديدة بشكل دوري؟"
+
+#: shortcodes/profile.php:300
+msgid "Do you need to get mails when new question added?"
+msgstr "‫‫‫‫هل تريد إستقبال بريد إلكتروني عند إضافة سؤال جديد؟"
+
+#: shortcodes/profile.php:307
+msgid "Do you need to unsubscribe all the mails?"
+msgstr "‫هل تريد إلغاء الاشتراك في جميع الإيميلات؟"
+
+#: shortcodes/profile.php:314
+msgid "Do you need to get mails for the new payments?"
+msgstr "‫‫هل تريد إستقبال بريد إلكتروني يخص معاملات الدفع؟"
+
+#: shortcodes/profile.php:321
+msgid "Do you need to get mails when new message sent?"
+msgstr "هل تريد إستقبال بريد إلكتروني عند إرسال رسالة جديدة؟"
+
+#: shortcodes/profile.php:328
+msgid "Do you need to get mails when new answer added for your question?"
+msgstr "‫هل تريد إستقبال بريد إلكتروني عند إضافة إجابة جديدة علي سؤالك؟"
+
+#: shortcodes/profile.php:335
+msgid ""
+"Do you need to get mails when new answer added for your following question?"
+msgstr "‫‫هل تريد إستقبال بريد إلكتروني عند إضافة إجابة جديدة علي سؤال متابعه؟"
+
+#: shortcodes/profile.php:348
+msgid "Custom Categories"
+msgstr "‫أقسام مخصصة"
+
+#: shortcodes/profile.php:392 shortcodes/profile.php:409
+msgid "Do you need to delete your account?"
+msgstr "‫هل تريد حذف ملفك الشخصي؟"
+
+#: shortcodes/profile.php:423
+msgid "Change password"
+msgstr "تغير كلمة المرور"
+
+#: shortcodes/profile.php:425
+msgid "New Password"
+msgstr "كلمة مرور جديدة"
+
+#: shortcodes/profile.php:430 shortcodes/register.php:71
+msgid "Confirm Password"
+msgstr "تاكيد كلمة المرور"
+
+#: shortcodes/profile.php:448
+msgid "Save"
+msgstr "حفظ"
+
+#: shortcodes/profile.php:519
+msgid "Profile has been deleted."
+msgstr "تم حذف الملف الشخصي."
+
+#: shortcodes/profile.php:534
+msgid "There are required fields (Email)."
+msgstr "‫‫‫‫يوجد حقول أجبارية (البريد الإلكتروني)."
+
+#: shortcodes/profile.php:537 shortcodes/register.php:175
+msgid "Password does not match."
+msgstr "كلمة المرور غير متطابقة."
+
+#: shortcodes/profile.php:543
+msgid "There are required fields (Profile credential)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (معلومات إضافية للملف الشخصي)."
+
+#: shortcodes/profile.php:546
+msgid "Sorry, The maximum characters for the profile credential is"
+msgstr "‫عفوا، الحد الأقصي للحروف للمعلومات الإضافية للملف الشخصي هي"
+
+#: shortcodes/profile.php:549
+msgid "Not a valid URL (Facebook)."
+msgstr "‫ليس عنوان URL صالحًا (Facebook)."
+
+#: shortcodes/profile.php:552
+msgid "Not a valid URL (Twitter)."
+msgstr "‫ليس عنوان URL صالحًا (Twitter)."
+
+#: shortcodes/profile.php:555
+msgid "Not a valid URL (Youtube)."
+msgstr "‫ليس عنوان URL صالحًا (Youtube)."
+
+#: shortcodes/profile.php:558
+msgid "Not a valid URL (Vimeo)."
+msgstr "‫ليس عنوان URL صالحًا (Vimeo)."
+
+#: shortcodes/profile.php:561
+msgid "Not a valid URL (Linkedin)."
+msgstr "‫ليس عنوان URL صالحًا (Linkedin)."
+
+#: shortcodes/profile.php:564
+msgid "Not a valid URL (Instagram)."
+msgstr "‫ليس عنوان URL صالحًا (Instagram)."
+
+#: shortcodes/profile.php:567
+msgid "Not a valid URL (Pinterest)."
+msgstr "‫ليس عنوان URL صالحًا (Pinterest)."
+
+#: shortcodes/profile.php:598 shortcodes/profile.php:614
+msgid "Profile has been updated."
+msgstr "تم تعديل الملف الشخصي."
+
+#: shortcodes/profile.php:809 shortcodes/profile.php:892
+msgid "Custom fields"
+msgstr "الحقول المخصصة"
+
+#: shortcodes/profile.php:837
+msgid "Profile credential"
+msgstr "معلومات إضافية للملف الشخص"
+
+#: shortcodes/profile.php:885 shortcodes/register.php:580
+msgid "Gender"
+msgstr "الجنس"
+
+#: shortcodes/question.php:42 shortcodes/question.php:197
+msgid "Select a Category"
+msgstr "أختار القسم"
+
+#: shortcodes/question.php:335
+#, php-format
+msgid "Ask %s a question"
+msgstr "اسأل %s سؤال"
+
+#: shortcodes/question.php:385
+msgid "Question Title"
+msgstr "عنوان السؤال"
+
+#: shortcodes/question.php:389
+msgid ""
+"Please choose an appropriate title for the question so it can be answered "
+"easier."
+msgstr "‫برجاء أختيار عنوان مناسب للسؤال حتي يسهل الإجابة عليه."
+
+#: shortcodes/question.php:447
+msgid ""
+"Please choose the appropriate section so question can be searched easier."
+msgstr "‫برجاء أختيار القسم المناسب حتي يسهل البحث عن سؤالك."
+
+#: shortcodes/question.php:456
+msgid "question, poll"
+msgstr "سؤال، تصويت"
+
+#: shortcodes/question.php:474
+msgid "This question is a poll?"
+msgstr "أختار هذا السؤال كتصويت؟"
+
+#: shortcodes/question.php:474
+msgid "If you want to be doing a poll click here."
+msgstr "إذا كنت تريد إجراء استطلاع ، أضغط هنا."
+
+#: shortcodes/question.php:486
+msgid "Image poll?"
+msgstr "تصويت بالصور؟"
+
+#: shortcodes/question.php:583
+msgid "Add More Answers"
+msgstr "أضف مزيد من الإجابات"
+
+#: shortcodes/question.php:608
+msgid "Add Field"
+msgstr "أضافة حقل"
+
+#: shortcodes/question.php:702
+msgid "Get notification by email when someone answers this question."
+msgstr "أحصل علي أشعار عندما يقوم شخص بالإجابة علي السؤال."
+
+#: shortcodes/question.php:714
+msgid "This question is a private question?"
+msgstr "هل السؤال سؤال خاص؟"
+
+#: shortcodes/question.php:726
+msgid "Ask Anonymously"
+msgstr "‫أسأل متخفيا"
+
+#: shortcodes/question.php:728
+msgid "asks"
+msgstr "يسأل"
+
+#: shortcodes/question.php:732
+msgid "Anonymous asks"
+msgstr "مجهول يسأل"
+
+#: shortcodes/question.php:753
+#, php-format
+msgid ""
+"By asking your question, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr "‫بنشر سؤالك انت توافق علي %1$s شروط الخدمة %2$s %3$s."
+
+#: shortcodes/question.php:770
+msgid "Note: this option shows for the admin only!"
+msgstr "ملحوظة: هذا الخيار يظهر للمدير فقط!"
+
+#: shortcodes/question.php:780
+msgid "Publish this question"
+msgstr "أنشر هذا سؤالك"
+
+#: shortcodes/question.php:780
+msgid "Note: this option shows for the admin or moderators only!"
+msgstr "ملحوظة: هذا الخيار يظهر للمدير والمشرفين فقط!"
+
+#: shortcodes/question.php:806
+msgid "Publish Your Question"
+msgstr "نشر سؤالك"
+
+#: shortcodes/question.php:806
+msgid "Edit Your Question"
+msgstr "تعديل سؤالك"
+
+#: shortcodes/question.php:927
+msgid "New question for review"
+msgstr "‫سؤال جديد للمراجعة"
+
+#: shortcodes/question.php:933 shortcodes/question.php:977
+msgid "Your question was successfully added, It's under review."
+msgstr "‫‫تمت إضافة السؤال بنجاح, السؤال تحت المراجعة الآن."
+
+#: shortcodes/question.php:1008 shortcodes/question.php:1587
+msgid "Has been Edited successfully, The question is under review."
+msgstr "‫تم التعديل بنجاح، السؤال تحت المراجعة الآن."
+
+#: shortcodes/question.php:1074
+msgid "Sorry, you do not have a permission to ask a question."
+msgstr "‫‫‫‫عفوا، ليس لديك صلاحيات لأضافة سؤال."
+
+#: shortcodes/question.php:1076 shortcodes/question.php:1079
+#: shortcodes/question.php:1082 shortcodes/question.php:1479
+#: shortcodes/question.php:1484
+msgid "You must login to ask question."
+msgstr "يجب تسجيل الدخول لتستطيع أضافة سؤال."
+
+#: shortcodes/question.php:1085
+msgid "You need to pay first."
+msgstr "يجب الدفع أولا."
+
+#: shortcodes/question.php:1090 shortcodes/question.php:1527
+#, php-format
+msgid ""
+"Sorry do not have the minimum points Please do answer questions, even gaining "
+"points (The minimum points = %s)."
+msgstr ""
+"‫عفوا لاتملك الحد الأدني للنقاط، من فضلك قم بالإجابة علي الأسئلة لتحصل علي "
+"النقاط (الحد الادني للنقاط = %s)."
+
+#: shortcodes/question.php:1124
+msgid "Error in question."
+msgstr "خطأ في السؤال."
+
+#: shortcodes/question.php:1474 shortcodes/question.php:1481
+msgid "Sorry, you do not have a permission to ask a question"
+msgstr "‫‫‫‫عفوا، ليس لديك صلاحيات لإضافة سؤال"
+
+#: shortcodes/question.php:1474
+msgid "You must login to ask question"
+msgstr "يجب تسجيل الدخول لتستطيع أضافة سؤال"
+
+#: shortcodes/question.php:1496
+msgid "You have just bought to ask question by points."
+msgstr "‫‫قمت بشراء سؤال جديد بواسطة النقاط."
+
+#: shortcodes/question.php:1516
+#, php-format
+msgid "Please make a payment to allow to be able to ask a question %s."
+msgstr "من فضلك أدفع لتستطيع أضافة سؤال %s."
+
+#: shortcodes/question.php:1523
+#, php-format
+msgid "Will lose %s points when add a new question."
+msgstr "سوف تفقد %s نقاط عند أضافة سؤال جديد."
+
+#: shortcodes/question.php:1538
+msgid "You must login to edit question."
+msgstr "يجب تسجيل الدخول لتستطيع تعديل السؤال."
+
+#: shortcodes/question.php:1554 shortcodes/question.php:1557
+#: shortcodes/question.php:1645
+msgid "Sorry you can't edit this question."
+msgstr "عفوا لا تستطيع تعديل هذا السؤال."
+
+#: shortcodes/question.php:1560
+msgid "Sorry no question has you select or not found."
+msgstr "‫‫عفوا لا يوجد سؤال قمت بتحديده أو لم يتم العثور عليه."
+
+#: shortcodes/question.php:1563
+msgid "Sorry, you do not have a permission to edit a question."
+msgstr "‫‫‫‫عفوا، ليس لديك صلاحيات لتعديل السؤال."
+
+#: shortcodes/question.php:1648
+msgid "Sorry no question select or not found."
+msgstr "‫‫عفوا لا يوجد سؤال قمت بتحديده أو لم يتم العثور عليه."
+
+#: shortcodes/question.php:1943
+#, php-format
+msgid "Sorry, The minimum characters for question title is %s."
+msgstr "‫‫عفوا، الحد الأدني للحروف في عنوان السؤال هو %s."
+
+#: shortcodes/question.php:1946
+#, php-format
+msgid "Sorry, The maximum characters for question title is %s."
+msgstr "‫‫عفوا، الحد الأقصي للحروف في عنوان السؤال هو %s."
+
+#: shortcodes/question.php:1971
+#, php-format
+msgid "Sorry, The minimum tags for question is %s tags."
+msgstr "‫‫عفوا، الحد الأدني للكلمات الدليلية في السؤال هو %s كلمة."
+
+#: shortcodes/question.php:1974
+#, php-format
+msgid "Sorry, The maximum tags for question is %s tags."
+msgstr "‫‫عفوا، الحد الأقصي ني للكلمات الدليلية في السؤال هو %s كلمة."
+
+#: shortcodes/question.php:1980
+#, php-format
+msgid "Sorry, The minimum characters for question tag is %s."
+msgstr "‫‫عفوا، الحد الأدني للحروف في الكلمة الدليلية للسؤال هو %s."
+
+#: shortcodes/question.php:1983
+#, php-format
+msgid "Sorry, The maximum characters for question tag is %s."
+msgstr "‫‫عفوا، الحد الأقصي للحروف في الكلملة الديليلة للسؤال هو %s."
+
+#: shortcodes/question.php:1999 shortcodes/question.php:2019
+msgid "Please enter at least two values in poll."
+msgstr "برجاء أدخال قمتين علي الأقل في التصويت."
+
+#: shortcodes/question.php:2002
+msgid "Please enter values in poll."
+msgstr "برجاء أدخال قيم في التصويت."
+
+#: shortcodes/question.php:2006
+#, php-format
+msgid "Sorry, The minimum items for question poll is %s items."
+msgstr "‫‫عفوا، الحد الأدني للإجابات تصويت السؤال هو %s إجابة."
+
+#: shortcodes/question.php:2009
+#, php-format
+msgid "Sorry, The maximum items for question poll is %s items."
+msgstr "‫‫عفوا، الحد الأقصي للإجابات في تصويت السؤال هو %s إجابة."
+
+#: shortcodes/question.php:2012
+#, php-format
+msgid "Sorry, The minimum characters for question poll is %s."
+msgstr "‫‫عفوا، الحد الأدني للحروف في إجابة تصويت السؤال هو %s."
+
+#: shortcodes/question.php:2015
+#, php-format
+msgid "Sorry, The maximum characters for question poll is %s."
+msgstr "‫‫عفوا، الحد الأقصي للحروف في إجابة توصيت السؤال هو %s."
+
+#: shortcodes/question.php:2038
+#, php-format
+msgid "Sorry, The minimum characters for question content is %s."
+msgstr "‫‫عفوا، الحد الأدني للحروف في محتوي السؤال هو %s."
+
+#: shortcodes/question.php:2041
+#, php-format
+msgid "Sorry, The maximum characters for question content is %s."
+msgstr "‫‫‫عفوا، الحد الأقصي للحروف في محتوي السؤال هو %s."
+
+#: shortcodes/register.php:98
+#, php-format
+msgid "By registering, you agreed to the %1$s Terms of Service %2$s %3$s."
+msgstr "‫بتسجيلك في الموقع، انت توافق علي %1$s شروط الخدمة %2$s %3$s."
+
+#: shortcodes/register.php:160
+msgid "Please enter your name."
+msgstr "‫برجاء أدخال الأسم."
+
+#: shortcodes/register.php:163
+msgid "Please enter your name without any spaces."
+msgstr "‫برجاء أدخال الأسم بدون أي مسافات."
+
+#: shortcodes/register.php:166
+msgid "Please enter your email."
+msgstr "برجاء أدخال البريد الإلكتروني."
+
+#: shortcodes/register.php:169
+msgid "Please enter your password."
+msgstr "‫برجاء أدخال كلمة المرور."
+
+#: shortcodes/register.php:172
+msgid "Please rewrite password."
+msgstr "‫برجاء إعادة كلمة المرور."
+
+#: shortcodes/register.php:188
+msgid "This username is already registered."
+msgstr "هذا الأسم مسجل من قبل."
+
+#: shortcodes/register.php:194
+msgid "This email is already registered."
+msgstr "هذا البريد الإلكتروني مسجل من قبل."
+
+#: shortcodes/register.php:201
+msgid ""
+"Sorry, This email or domain are not allowing to register, Please try another "
+"email."
+msgstr ""
+"‫عفوا، هذا البريد الإلكتروني او هذا الدومين غير مصرح له بالتسجيل، من فضلك جرب "
+"بريد إلكتروني آخر."
+
+#: shortcodes/register.php:217
+msgid "Error:"
+msgstr "خطأ:"
+
+#: shortcodes/register.php:217
+msgid "Sorry, You can not register, Please contact the webmaster"
+msgstr "عفوا، لا تستطيع التسجيل، من فضلك اتصل بمدير الموقع"
+
+#: shortcodes/register.php:239
+msgid "Check your email please to activate your membership."
+msgstr "أفحص بريدك الإلكتروني لتفعيل عضويتك."
+
+#: shortcodes/register.php:336
+msgid "Under review"
+msgstr "تحت المرجعة"
+
+#: shortcodes/register.php:343
+msgid "Activation"
+msgstr "‫مجموعة التفعيل"
+
+#: shortcodes/register.php:382
+msgid "Welcome"
+msgstr "أهلا"
+
+#: shortcodes/register.php:521
+msgid "Profile Picture"
+msgstr "صورة الملف الشخصي"
+
+#: shortcodes/register.php:541
+msgid "Cover Picture"
+msgstr "‫صورة الترويسة"
+
+#: shortcodes/register.php:645
+msgid "There are required fields (Nickname)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (الأسم المستعار)."
+
+#: shortcodes/register.php:648
+msgid "There are required fields (First name)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (الأسم الأول)."
+
+#: shortcodes/register.php:651
+msgid "There are required fields (Last name)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (الأسم الأخير)."
+
+#: shortcodes/register.php:654
+msgid "There are required fields (Display name)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (الأسم العلني)."
+
+#: shortcodes/register.php:658
+msgid "There are required fields (Profile picture)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (صورة الملف الشخصي)."
+
+#: shortcodes/register.php:661
+msgid "There are required fields (Cover picture)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (‫صورة الترويسة)."
+
+#: shortcodes/register.php:668 shortcodes/register.php:679
+msgid "Error type, Please upload: jpg, jpeg or png"
+msgstr "خطأ في النوع، يجب رفع صور من النوع: jpg, jpeg or png"
+
+#: shortcodes/register.php:670 shortcodes/register.php:681
+#, php-format
+msgid "Error size, The maximum size is %s MB."
+msgstr "حجم خطأ، الحد الأقصي للرفع هو %s ميجا بايت."
+
+#: shortcodes/register.php:686
+msgid "There are required fields (Country)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (الدولة)."
+
+#: shortcodes/register.php:689
+msgid "There are required fields (City)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (المدينة)."
+
+#: shortcodes/register.php:692
+msgid "There are required fields (Phone)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (التليفون)."
+
+#: shortcodes/register.php:695
+msgid "There are required fields (Gender)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (الجنس)."
+
+#: shortcodes/register.php:698
+msgid "There are required fields (Age)."
+msgstr "‫‫‫‫‫يوجد حقول أجبارية (العمر)."
+
+#: shortcodes/register.php:734 shortcodes/register.php:768
+msgid "Error in upload the image : "
+msgstr "خطا في رفع الصورة : "
+
+#: shortcodes/register.php:793
+msgid "Need An Account,"
+msgstr "تحتاج الي عضوية،"
+
+#: shortcodes/register.php:799
+msgid "Don't have account,"
+msgstr "لا تملك عضوية،"
+
+#: templates/buy-points.php:27
+msgid "You have got a new free points."
+msgstr "لقد حصلت علي نقاط مجانية."
+
+#: templates/buy-points.php:50
+#, php-format
+msgid "Please make a payment to buy %s points %s."
+msgstr "من فضلك أدفع لتستطيع شراء %s من النقاط  %s."
+
+#: templates/profile/content.php:61
+msgid "Sorry, You don't moderator yet."
+msgstr "‫عفوا، أنت لست مشرف الآن."
+
+#: templates/profile/content.php:64 templates/profile/content.php:308
+msgid "Sorry, is this private page."
+msgstr "‫عفوا، هذه الصفحة خاصة."
+
+#: templates/profile/content.php:143
+msgid "You have added your Facebook link."
+msgstr "‫‫أنت قمت بإضافة رابط Facebook الخاص بك."
+
+#: templates/profile/content.php:145
+msgid "You have added your Twitter link."
+msgstr "‫‫أنت قمت بإضافة رابط Twitter الخاص بك."
+
+#: templates/profile/content.php:147
+msgid "You have added your Youtube link."
+msgstr "‫‫أنت قمت بإضافة رابط Youtube الخاص بك."
+
+#: templates/profile/content.php:149
+msgid "You have added your Vimeo link."
+msgstr "‫‫أنت قمت بإضافة رابط Vimeo الخاص بك."
+
+#: templates/profile/content.php:151
+msgid "You have added your Linkedin link."
+msgstr "‫‫أنت قمت بإضافة رابط Linkedin الخاص بك."
+
+#: templates/profile/content.php:153
+msgid "You have added your Instagram link."
+msgstr "‫‫أنت قمت بإضافة رابط Instagram الخاص بك."
+
+#: templates/profile/content.php:155
+msgid "You have added your Pinterest link."
+msgstr "‫‫أنت قمت بإضافة رابط Pinterest الخاص بك."
+
+#: templates/profile/content.php:157
+msgid "You have removed your Facebook link."
+msgstr "‫أنت قمت بحذف رابط Facebook الخاص بك."
+
+#: templates/profile/content.php:159
+msgid "You have removed your Twitter link."
+msgstr "‫أنت قمت بحذف رابط Twitter الخاص بك."
+
+#: templates/profile/content.php:161
+msgid "You have removed your Youtube link."
+msgstr "‫أنت قمت بحذف رابط Youtube الخاص بك."
+
+#: templates/profile/content.php:163
+msgid "You have removed your Vimeo link."
+msgstr "‫أنت قمت بحذف رابط Vimeo الخاص بك."
+
+#: templates/profile/content.php:165
+msgid "You have removed your Linkedin link."
+msgstr "‫أنت قمت بحذف رابط Linkedin الخاص بك."
+
+#: templates/profile/content.php:167
+msgid "You have removed your Instagram link."
+msgstr "‫أنت قمت بحذف رابط Instagram الخاص بك."
+
+#: templates/profile/content.php:169
+msgid "You have removed your Pinterest link."
+msgstr "‫أنت قمت بحذف رابط Pinterest الخاص بك."
+
+#: templates/profile/content.php:171
+msgid "You have stickied your question by points."
+msgstr "‫أنت قمت برفع السؤال بواسطة النقاط."
+
+#: templates/profile/content.php:173
+msgid "You have bought to ask question by points."
+msgstr "‫‫قمت بشراء سؤال جديد بواسطة النقاط."
+
+#: templates/profile/content.php:175
+msgid "You have bought new points."
+msgstr "لقد قمت بشراء نقاط جديدة."
+
+#: templates/profile/content.php:177
+msgid "Voted your question."
+msgstr "‫قمت بالتصويت لأعلي علي سؤال."
+
+#: templates/profile/content.php:179
+msgid "Voted your answer."
+msgstr "‫قمت بالتصويت لأعلي علي إجابة."
+
+#: templates/profile/content.php:181
+msgid "User followed You."
+msgstr "‫عضو قام بمتابعتك."
+
+#: templates/profile/content.php:183
+msgid "User unfollowed You."
+msgstr "‫عضو قام بألغاء متابعتك."
+
+#: templates/profile/content.php:185
+msgid "Discount points to bump question."
+msgstr "خصم نقاط منك لرفع السؤال لأعلي."
+
+#: templates/profile/content.php:187
+msgid "Chosen your answer best answer."
+msgstr "‫أختيار إجابتك كأفضل إجابة."
+
+#: templates/profile/content.php:189
+msgid "Canceled your answer best answer."
+msgstr "تم ألغاء إجابتك كأفضل إجابة."
+
+#: templates/profile/content.php:191
+msgid "You have answered the question."
+msgstr "قمت بالإجابة علي سؤال."
+
+#: templates/profile/content.php:195
+msgid "Deleted your question."
+msgstr "تم حذف سؤالك."
+
+#: templates/profile/content.php:197
+msgid "Added a new post."
+msgstr "تم أضافة مقالة جديدة."
+
+#: templates/profile/content.php:199
+msgid "Gift of the site."
+msgstr "هدية من الموقع."
+
+#: templates/profile/content.php:201
+msgid "Referral a new user."
+msgstr "دعوة عضو جديد."
+
+#: templates/profile/content.php:203
+msgid "You have charged points for ask a question."
+msgstr "قمت بإضافة نقاط لإضافة سؤال."
+
+#: templates/profile/content.php:209
+msgid "Your point back because the best answer was selected."
+msgstr "نقاطتك قد عادت لانه تم إختيار إجابتك أفضل إجابة."
+
+#: templates/profile/content.php:211
+msgid "Your point removed because the best answer was removed."
+msgstr "نقاطتك تم خصمها لان إجابتك تم حذفها كأفضل إجابة."
+
+#: templates/profile/content.php:213
+msgid "Your answer was removed."
+msgstr "‫تم حذف إجابتك."
+
+#: templates/profile/content.php:215
+msgid "Deleted your best answer."
+msgstr "تم حذف أفضل إجابة الخاصة بك."
+
+#: templates/profile/content.php:217
+msgid "Deleted your following user."
+msgstr "تم حذف العضو الذي تتابعه."
+
+#: templates/profile/content.php:242
+msgid "There are no points yet."
+msgstr "لا يوجد نقاط حتي الآن."
+
+#: templates/profile/content.php:300
+msgid "There are no best answers yet."
+msgstr "لا يوجد أفضل إجابات حتي الآن."
+
+#: templates/profile/content.php:300
+msgid "There are no answers yet"
+msgstr "لا يوجد إجابات حتي الآن"
+
+#: templates/profile/content.php:300
+msgid "There are no comments yet"
+msgstr "لا يوجد تعليقات حتي الآن"
+
+#: templates/profile/content.php:310
+msgid "Sorry, this page is not found."
+msgstr "عفوا، هذه الصفحة غير موجودة."
+
+#: templates/profile/follow.php:62 templates/profile/follow.php:65
+#: templates/profile/head.php:77
+msgid "User doesn't have any followers yet."
+msgstr "العضو لا يوجد لديه متابعين."
+
+#: templates/profile/follow.php:62 templates/profile/follow.php:65
+#: templates/profile/head.php:107
+msgid "User doesn't follow anyone."
+msgstr "العضو لا يتابع أحد."
+
+#: templates/profile/head-tabs.php:15
+msgid "About"
+msgstr "عني"
+
+#: templates/profile/head-tabs.php:36
+msgid "Favorite Questions"
+msgstr "الأسئلة المفضلة"
+
+#: templates/profile/head-tabs.php:38
+msgid "Followed Questions"
+msgstr "‫‫أسئلة الأعضاء التي أتابعها"
+
+#: templates/profile/head.php:105
+msgid "Member"
+msgid_plural "Members"
+msgstr[0] "‫أعضاء"
+msgstr[1] "عضو"
+msgstr[2] "عضوين"
+msgstr[3] "‫أعضاء"
+msgstr[4] "عضو"
+msgstr[5] "عضو"
+
+#: templates/profile/messages.php:20
+msgid "inbox"
+msgstr "المستقبل"
+
+#: templates/profile/messages.php:21
+msgid "Sent"
+msgstr "‫المرسل"
+
+#: templates/profile/messages.php:88
+msgid "Added a message on"
+msgstr "أضاف رسالة يوم"
+
+#: templates/profile/messages.php:101
+msgid "View the message"
+msgstr "عرض الرسالة"
+
+#: templates/profile/referrals.php:40
+msgid "Send a referral by email or share it with your firends."
+msgstr "قم بإرسال دعوة علي البريد الإلكتروني أو المشاركة مع أصدقائك."
+
+#: templates/profile/referrals.php:46
+msgid "Send an email"
+msgstr "إرسال بريد اإلكتروني"
+
+#: templates/profile/referrals.php:53
+msgid "Share the referral link on social media."
+msgstr "قم بمشاركة رابط الدعوات علي مواقع التواصل الإجتماعي."
+
+#: templates/profile/referrals.php:58
+msgid "Copy and paste your referral link anywhere."
+msgstr "قم بنسخ ولصق رابط الدعوات في اي مكان."
+
+#: templates/profile/referrals.php:60
+msgid "Copy"
+msgstr "نسخ"
+
+#: templates/profile/referrals.php:78
+msgid "Invitations Sent"
+msgstr "دعوات مرسلة"
+
+#: templates/profile/referrals.php:87
+msgid "Pending"
+msgstr "قيد الأنتظار"
+
+#: templates/profile/referrals.php:96
+msgid "Completed"
+msgstr "مكتملة"
+
+#: templates/profile/referrals.php:106
+msgid "Earned"
+msgstr "نقاط مكتسبة"
+
+#: templates/profile/referrals.php:145
+msgid "Status"
+msgstr "الحالة"
+
+#: templates/profile/referrals.php:146
+msgid "Action"
+msgstr "حالة الإحالة"
+
+#: templates/profile/referrals.php:163
+msgid "Resend"
+msgstr "إعادة إرسال"
+
+#: templates/search-form.php:56
+msgid "Hit enter to search"
+msgstr "‫أضغط للبحث"
+
+#: templates/search.php:110
+msgid "Search results"
+msgstr "نتائج البحث"
+
+#: templates/subscriptions.php:29
+msgid "You have a paid membership already."
+msgstr "لديك عضوية مدفوعة بالفعل."
+
+#: templates/subscriptions.php:38
+msgid "3 Months"
+msgstr "ربع سنوي"
+
+#: templates/subscriptions.php:39
+msgid "6 Months"
+msgstr "نصف سنوي"
+
+#: templates/subscriptions.php:40
+msgid "Yearly"
+msgstr "سنويا"
+
+#: templates/subscriptions.php:43
+msgid "Can ask a question."
+msgstr "تستطيع إضافة سؤال."
+
+#: templates/subscriptions.php:44
+msgid "Can show questions."
+msgstr "‫تستطيع مشاهدة الأسئلة."
+
+#: templates/subscriptions.php:45
+msgid "Can add an answer."
+msgstr "‫تستطيع ‫إضافة إجابة."
+
+#: templates/subscriptions.php:46
+msgid "Can show answers."
+msgstr "‫‫تستطيع مشاهدة الإجابات."
+
+#: templates/subscriptions.php:47
+msgid "Can add a post."
+msgstr "‫تستطيع إضافة مقالة جديدة."
+
+#: templates/subscriptions.php:48
+msgid "Can add a category."
+msgstr "‫تستطيع إضافة قسم."
+
+#: templates/subscriptions.php:49
+msgid "Can send message."
+msgstr "‫تستطيع ‫أرسل رسالة."
+
+#: templates/subscriptions.php:50
+msgid "Can can upload files."
+msgstr "‫تستطيع رفع ملفات."
+
+#: templates/subscriptions.php:51
+msgid "Can get approve to your questions auto."
+msgstr "‫‫سوف تحصل علي موافقة علي سؤالك تلقائيًا."
+
+#: templates/subscriptions.php:52
+msgid "Can get approve to your answers auto."
+msgstr "‫‫‫سوف تحصل علي موافقة علي إجابتك تلقائيًا."
+
+#: templates/subscriptions.php:53
+msgid "Can get approve to your posts auto."
+msgstr "‫‫سوف تحصل علي موافقة علي مقالك تلقائيًا."
+
+#: templates/subscriptions.php:54
+msgid "Can get approve to your comments auto."
+msgstr "‫‫سوف تحصل علي موافقة علي تعليقك تلقائيًا."
+
+#: templates/subscriptions.php:55
+msgid "Can get approve to your questions auto when have media attached."
+msgstr "‫‫سوف تحصل علي موافقة علي سؤالك الذي يحتوي ملفات و صور تلقائيًا."
+
+#: templates/subscriptions.php:56
+msgid "Can get approve to your answers auto when have media attached."
+msgstr "‫‫‫سوف تحصل علي موافقة علي إجابتك الذي يحتوي ملفات و صور تلقائيًا."
+
+#: templates/subscriptions.php:57
+msgid "You will not see any ads at the site."
+msgstr "لن ترى أي إعلانات في الموقع."
+
+#: templates/subscriptions.php:65
+msgid "Paid"
+msgstr "مدفوع"
+
+#: templates/subscriptions.php:87 templates/subscriptions.php:89
+msgid "Subscribe"
+msgstr "إشترك"
+
+#: templates/subscriptions.php:93
+#, php-format
+msgid "Please make a payment to buy paid membership %s."
+msgstr "من فضلك أدفع لتستطيع شراء عضوية مدفوعة  %s."
+
+#: widgets/activities.php:43
+msgid "Activities log"
+msgstr "سجل الأنشطة"
+
+#: widgets/buttons.php:39
+msgid "Add A New Post"
+msgstr "أضف مقالة جديدة"
+
+#: widgets/buttons.php:49
+msgid "Create A New Account"
+msgstr "تسجيل عضوية جديدة"
+
+#: widgets/buttons.php:54
+msgid "Ask A Question"
+msgstr "اسأل سؤال"
+
+#: widgets/profile_strength.php:127
+msgid "Profile Strength"
+msgstr "قوة الملف الشخصي"
+
+#: widgets/profile_strength.php:130
+msgid "You must have a total score of 100 for your profile."
+msgstr "يجب ان يكون لديك مجموع نقاط 100 لملف التعريف الخاص بك."
+
+#: widgets/profile_strength.php:133
+#, php-format
+msgid "%s step left!"
+msgid_plural "%s steps left!"
+msgstr[0] "متبقي صفر خطوات!"
+msgstr[1] "متبقي خطوة واحده!"
+msgstr[2] "متبقي خطوتين!"
+msgstr[3] "متبقي %s خطوات!"
+msgstr[4] "متبقي %s خطوة!"
+msgstr[5] "متبقي %s خطوة!"
+
+#: widgets/profile_strength.php:142
+msgid "Upload your avatar image"
+msgstr "قم بتحميل صورتك الشخصية"
+
+#: widgets/profile_strength.php:144
+msgid "Upload your cover image"
+msgstr "قم بتحميل صورة الغلاف الخاصة بك"
+
+#: widgets/profile_strength.php:146
+msgid "Add your profile credential"
+msgstr "أضافة معلومات إضافية للملف الشخصي"
+
+#: widgets/profile_strength.php:148
+#, php-format
+msgid "Follow %s categories"
+msgstr "تابع %s أقسام"
+
+#: widgets/profile_strength.php:150
+#, php-format
+msgid "Follow %s users"
+msgstr "تابع %s أعضاء"
+
+#: widgets/profile_strength.php:152
+msgid "Ask your first question"
+msgstr "اسأل سؤالك الأول"
+
+#: widgets/profile_strength.php:154
+#, php-format
+msgid "Answer %s questions"
+msgstr "أجب علي %s أسئلة"
+
+#: widgets/profile_strength.php:159
+msgid "Start Now"
+msgstr "ابدأ الآن"
+
+#: widgets/questions_categories.php:80
+msgid "Questions Categories"
+msgstr "أقسام الأسئلة"
+
+#: widgets/questions_categories.php:133 widgets/questions_categories.php:148
+#, php-format
+msgid "View all questions under %s"
+msgstr "عرض كل الأسئلة في  %s"
+
+#: widgets/related_questions.php:108
+msgid "Related Questions"
+msgstr "آخر الاسئلة"
+
+#: widgets/stats.php:41
+msgid "Stats"
+msgstr "أحصائيات"
+
+#: widgets/stats.php:93
+msgid "User"
+msgid_plural "Users"
+msgstr[0] "الأعضاء"
+msgstr[1] "عضو"
+msgstr[2] "عضوين"
+msgstr[3] "الأعضاء"
+msgstr[4] "عضو"
+msgstr[5] "عضو"
+
+#: widgets/tabs.php:84
+msgid "No answers"
+msgstr "‫لا إجابات"
+
+#: widgets/tabs.php:84
+msgid "No comments"
+msgstr "‫لا تعليقات"
+
+#: widgets/tabs.php:84
+msgid "Most voted"
+msgstr "‫الأكثر تصويتا"
+
+#: widgets/tabs.php:84
+msgid "Most visited"
+msgstr "‫الأكثر زيارة"
+
+#: widgets/tabs.php:84
+msgid "Most rated"
+msgstr "الأكثر تقيما"
+
+#: widgets/tabs.php:84
+msgid "Rand"
+msgstr "عشوائي"
+
+#: widgets/tabs.php:84
+msgid "Recent"
+msgstr "الأخيرة"
+
+#~ msgid ""
+#~ "Please register a free account, subscribe the paid membership or login to "
+#~ "see the content."
+#~ msgstr ""
+#~ "يرجى تسجيل حساب مجاني، الاشتراك في العضوية المدفوعة أو تسجيل الدخول "
+#~ "لمشاهدة المحتوى."
+
+#~ msgid "Card Number"
+#~ msgstr "رقم البطاقة"
+
+#~ msgid "Expiration Date"
+#~ msgstr "تاريخ إنتهاء الصلاحية"
+
+#~ msgid "Month"
+#~ msgstr "الشهر"
+
+#~ msgid "January"
+#~ msgstr "يناير"
+
+#~ msgid "February"
+#~ msgstr "فبراير"
+
+#~ msgid "March"
+#~ msgstr "مارس"
+
+#~ msgid "April"
+#~ msgstr "ابريل"
+
+#~ msgid "May"
+#~ msgstr "مايو"
+
+#~ msgid "June"
+#~ msgstr "يونيو"
+
+#~ msgid "July"
+#~ msgstr "يوليو"
+
+#~ msgid "August"
+#~ msgstr "أغسطس"
+
+#~ msgid "September"
+#~ msgstr "سبتمبر"
+
+#~ msgid "October"
+#~ msgstr "أكتوبر"
+
+#~ msgid "November"
+#~ msgstr "نوفمبر"
+
+#~ msgid "December"
+#~ msgstr "ديسمبر"
+
+#~ msgid "Expiration Year"
+#~ msgstr "سنة انتهاء الصلاحية"
+
+#~ msgid "Year"
+#~ msgstr "السنة"
+
+#~ msgid "CVV"
+#~ msgstr "‫CVV"
+
+#~ msgid "Please wait will go to the PayPal now to pay a new payment."
+#~ msgstr "برجاء الأنتظار حتي يم توجيهك علي الباي بال لتقوم بالدفع."
+
+#~ msgid "Monthly"
+#~ msgstr "شهريا"
+
+#, fuzzy
+#~| msgid "Signup"
+#~ msgid "Sign up"
+#~ msgstr "سجل"
+
+#, php-format
+#~ msgid "Please make a payment to allow to be able to add a annswer %s."
+#~ msgstr "من فضلك أدفع لتستطيع أضافة إجابة %s."
+
+#~ msgid "Your comment was removed."
+#~ msgstr "تم حذف تعليقك."
+
+#~ msgid "The captcha is incorrect, please try again."
+#~ msgstr "كلمة التحقق خطأ، برجاء المحاولة مرة آخري."
+
+#, fuzzy
+#~| msgid "Sorry, you do not have a permission to add a post."
+#~ msgid "Sorry, you do not have a permission to add a post"
+#~ msgstr "‫‫‫عفوا، ليس لديك صلاحيات لأضافة إجابة علي هذا السؤال."
+
+#~ msgid "Replies"
+#~ msgstr "الردود"
+
+#~ msgid "Received mail when user add a new question."
+#~ msgstr "أستقبال إيميل عند أضافة سؤال جديد."
+
+#~ msgid "0 Answers"
+#~ msgstr "0 إجابات"
+
+#~ msgid "0 Comments"
+#~ msgstr "0 تعليقات"
+
+#~ msgid "Your membership under review"
+#~ msgstr "عضويتك تحت المراجعة"
+
+#~ msgid "and <a target='%s' href='%s'>Privacy Policy</a>"
+#~ msgstr "و <a target='%s' href='%s'>سياسة خاصة</a>"
+
+#~ msgid "You have rejected the request for this user"
+#~ msgstr "‫‫‫قمت برفض القسم لهذا العضو"
+
+#~ msgid "Still no points yet."
+#~ msgstr "لا يوجد نقاط حتي الآن."
+
+#~ msgid "Still no notifications yet."
+#~ msgstr "لا يوجد أشعارات حتي الآن."
+
+#~ msgid "Still no activities yet."
+#~ msgstr "لا يوجد نشاطات حتي الآن."
+
+#~ msgid "Still no best answers yet."
+#~ msgstr "‫لا يوجد أفضل إجابات حتي الآن."
+
+#~ msgid "Still no answers yet"
+#~ msgstr "‫لا يوجد إجابات حتي الآن"
+
+#~ msgid "Still no comments yet"
+#~ msgstr "‫لا يوجد تعليقات حتي الآن"
+
+#~ msgid "payments"
+#~ msgstr "المدفوعات"
+
+#~ msgid "reports"
+#~ msgstr "البلاغات"
+
+#~ msgid "Author doesn't have any followers yet."
+#~ msgstr "العضو لا يوجد لديه متابعين."
+
+#~ msgid "Author doesn't follow anyone."
+#~ msgstr "العضو لا يتابع أحد."
+
+#~ msgid "Add a video to describe the problem better"
+#~ msgstr "‫‫هل تحتاج فيديو لتوضيح المشكله بشكل افضل."
+
+#~ msgid "The answer has added successfully."
+#~ msgstr "تمت إضافة الإجابة بنجاح."
+
+#~ msgid "for category"
+#~ msgstr "للقسم"
+
+#~ msgid "Google plus"
+#~ msgstr "جوجل بلس"
+
+#~ msgid "Add question"
+#~ msgstr "أفضل سؤال"
+
+#~ msgid "Add Question"
+#~ msgstr "اسأل سؤال"
+
+#~ msgid "Add a new question."
+#~ msgstr "إضافة سؤال جديد."
+
+#~ msgid "Remove"
+#~ msgstr "حذف"
+
+#~ msgid "You have just bought by points."
+#~ msgstr "لقد قمت بشراء نقاط."
+
+#~ msgid "You don't modify anything this is the same comment!."
+#~ msgstr "‫أنت لم تقوم بتعديل أي شئ هو نفس التعليق."
+
+#~ msgid "Thank you for your payment, Your question now is sticky,"
+#~ msgstr "‫شكرا علي دفعك، سؤالك الان مثبت،"
+
+#~ msgid "Post this On twitter"
+#~ msgstr "شارك علي توتير"
+
+#~ msgid "Has been added successfully, The answer is under review."
+#~ msgstr "‫‫تمت إضافته بنجاح, الإجابة تحت المراجعة الآن."
+
+#~ msgid "Has been added successfully, The comment is under review."
+#~ msgstr "‫تمت إضافته بنجاح, التعليق تحت المراجعة الآن."
+
+#~ msgid "Has been added successfully, The question is under review."
+#~ msgstr "‫‫تمت إضافته بنجاح, السؤال تحت المراجعة الآن."
+
+#~ msgid "Send"
+#~ msgstr "‫المرسل"
+
+#~ msgid "Voting your question."
+#~ msgstr "‫تصويت علي سؤالك."
+
+#~ msgid "Voting your answer."
+#~ msgstr "‫تصويت علي إجابتك."
+
+#~ msgid "Cancel your answer best answer."
+#~ msgstr "‫ألغاء إجابتك كأفضل إجابة."
+
+#~ msgid "The administrator add points for you."
+#~ msgstr "‫المدير قام بأضافة نقاط لك."
+
+#~ msgid "The administrator remove points from you."
+#~ msgstr "‫المدير قام بحذف نقاط منك."
+
+#~ msgid "The question under review now."
+#~ msgstr "سؤالك تحت المراجعة الآن."
+
+#~ msgid "The answer under review now."
+#~ msgstr "‫‫إجابتك تحت المراجعة الآن."
+
+#~ msgid "There are required fields ( captcha )."
+#~ msgstr "‫‫‫‫يوجد حقول أجبارية ( كلمة التحقق )."
+
+#~ msgid "There are required fields ( Agree of the terms )."
+#~ msgstr "‫‫يوجد حقول أجبارية ( موافقة على الشروط )."
+
+#~ msgid "asdasdsad"
+#~ msgstr "شسيشسي"
+
+#~ msgid "Aanonymous"
+#~ msgstr "مجهول"
